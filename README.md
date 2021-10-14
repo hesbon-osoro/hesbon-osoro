@@ -4,11 +4,13 @@ I'm Hesbon Osoro a Full Stack Web Developer
 
 I love interactions with bright people to help each other grow
 
+
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+
 
 <!--START_SECTION:waka-->
 
@@ -22,10 +24,9 @@ Markdown   2 mins          █████████████████�
 
 ![Wazimu's GitHub stats](https://github-readme-stats.vercel.app/api?username=wazimuhb&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
 
-<!--
 ### Github extra pins
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wazimuhb&repo=github-profile&theme=dark&title_color=009933)](https://github.com/wazimuhb/github-profile&show_owner=true&count_private=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wazimuhb&repo=wazimuhb&theme=dark&title_color=009933)](https://github.com/wazimuhb/wazimuhb&show_owner=true&count_private=true)
 
 ### Compact language card layout
 
@@ -34,7 +35,8 @@ Markdown   2 mins          █████████████████�
 ### Wakatime Week Stats
 
 [![Wazimu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wazimu&theme=dark&title_color=009933)](https://github.com/wazimuhb/github-profile)
--->
+
+[![wakatime](https://wakatime.com/badge/user/26cc90f6-22da-4220-ac7d-f452b6324239.svg)](https://wakatime.com/@26cc90f6-22da-4220-ac7d-f452b6324239)
 
 ### Profile Visit
 
