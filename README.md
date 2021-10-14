@@ -4,7 +4,6 @@ I'm Hesbon Osoro a Full Stack Web Developer
 
 I love interactions with bright people to help each other grow
 
-
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
@@ -36,8 +35,7 @@ Markdown   2 mins          █████████████████�
 
 [![Wazimu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wazimu&theme=dark&title_color=009933)](https://github.com/wazimuhb/wazimuhb)
 
-[![wakatime](https://wakatime.com/badge/user/26cc90f6-22da-4220-ac7d-f452b6324239.svg)](https://wakatime.com/@26cc90f6-22da-4220-ac7d-f452b6324239)
-
+[![wakatime](https://wakatime.com/badge/github/wazimuhb/wazimuhb.svg)](https://wakatime.com/badge/github/wazimuhb/wazimuhb)
 ### Profile Visit
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wazimuhb.github-profile&left_color=green&right_color=red&theme=dark&title_color=009933)
