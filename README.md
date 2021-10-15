@@ -12,11 +12,12 @@ I love interactions with bright people to help each other grow
 
 
 <!--START_SECTION:waka-->
-
 ```text
-Markdown   2 mins          █████████████████████████   100.00 %
+JavaScript   4 hrs 25 mins   ██████████████████▓░░░░░░   74.33 % 
+Markdown     48 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+YAML         37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
+Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
-
 <!--END_SECTION:waka-->
 
 ### Github Stats
