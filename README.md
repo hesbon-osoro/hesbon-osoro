@@ -16,10 +16,11 @@ I love interacting with bright people to help each other grow
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   4 hrs 25 mins   ██████████████████▓░░░░░░   74.33 % 
-Markdown     48 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-YAML         37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+JavaScript   6 hrs 58 mins   ████████████████████▒░░░░   80.97 % 
+Markdown     48 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+YAML         37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+CSV          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 <!--END_SECTION:waka-->
 
