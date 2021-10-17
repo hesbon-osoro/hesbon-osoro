@@ -24,7 +24,7 @@ CSV          6 mins          ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 ### 🏆 My Trophies
-  [![trophy](https://github-profile-trophy.vercel.app/?username=wazimuhb&theme=dracula&no-bg=true)](https://github.com/wazimuhb/tourism-hampi)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=wazimuhb&theme=dracula&no-bg=false)](https://github.com/wazimuhb/wazimuhb)
 ### Github Stats
 
 ![Wazimu's GitHub stats](https://github-readme-stats.vercel.app/api?username=wazimuhb&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
