@@ -45,3 +45,6 @@ CSV          6 mins          ▒░░░░░░░░░░░░░░░░
 ### Profile Visit
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wazimuhb.github-profile&left_color=green&right_color=red&theme=dark&title_color=009933)
+
+[![Image of https://github.com/wazimuhb/wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/wazimuhb/wazimu-views-counter)
+
