@@ -1,5 +1,16 @@
 ## Hello, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
+
+[![wazimu.png](https://i.postimg.cc/fy4B7PM5/wazimu.png)](https://postimg.cc/FdZyNDdJ)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9fef8153-c463-4241-8f68-3342069d4495/deploy-status)](https://app.netlify.com/sites/hb-wazimu/deploys)
+
+<p>
+  <a href="https://hb-wazimu.netlify.app/" rel="noreferer noopener" target="_blank">
+    Wazimu portfolio
+  </a>
+</p>
+
 ## I'm Hesbon aka Wazimu a Full Stack Web Developer
 
 I am a passionate developer and researcher who looks at things and desire to know why they work as they do,
@@ -15,13 +26,6 @@ I love interacting with bright people to help each other grow
 
 
 <!--START_SECTION:waka-->
-```text
-JavaScript   8 hrs 29 mins   ████████░░░░░░░░░░░░░░░░░   32.54 % 
-Python       5 hrs 33 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.34 % 
-JSX          4 hrs 56 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.93 % 
-CSS          2 hrs 34 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Markdown     1 hr 43 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-```
 <!--END_SECTION:waka-->
 ### 🏆 My Trophies
   [![trophy](https://github-profile-trophy.vercel.app/?username=wazimuhb&theme=onedark&no-bg=false&count_private=true)](https://github.com/wazimuhb/wazimuhb)
@@ -49,3 +53,4 @@ Markdown     1 hr 43 mins    █▓░░░░░░░░░░░░░░░
 
 [![Image of https://github.com/wazimuhb/wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/wazimuhb/wazimu-views-counter)
 
+Leave a star as you leave
