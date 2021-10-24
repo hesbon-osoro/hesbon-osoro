@@ -27,21 +27,17 @@ I love interacting with bright people to help each other grow
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-### 🏆 My Trophies
+### 🏆 <!--My Trophies-->
   [![trophy](https://github-profile-trophy.vercel.app/?username=wazimuhb&theme=onedark&no-bg=false&count_private=true)](https://github.com/wazimuhb/wazimuhb)
-### Github Stats
+<!--### Github Stats-->
 
 ![Wazimu's GitHub stats](https://github-readme-stats.vercel.app/api?username=wazimuhb&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
 
-### Github extra pins
+<!--### Github extra pins-->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wazimuhb&repo=wazimuhb&theme=dark&title_color=009933)](https://github.com/wazimuhb/wazimuhb&show_owner=true&count_private=true)
 
-### Compact language card layout
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wazimuhb&layout=compact&theme=dark&title_color=009933)](https://github.com/wazimuhb/wazimuhb)
-
-### Wakatime Week Stats
 
 [![Wazimu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wazimu&theme=dark&title_color=009933)](https://github.com/wazimuhb/wazimuhb)
 
@@ -50,6 +46,8 @@ I love interacting with bright people to help each other grow
 ### Profile Visit
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wazimuhb.github-profile&left_color=green&right_color=red&theme=dark&title_color=009933)
+
+### Unique Views
 
 [![Image of https://github.com/wazimuhb/wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/wazimuhb/wazimu-views-counter)
 
