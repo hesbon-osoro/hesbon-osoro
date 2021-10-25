@@ -26,6 +26,13 @@ I love interacting with bright people to help each other grow
 
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   8 hrs 29 mins   █████████▒░░░░░░░░░░░░░░░   37.35 % 
+JSX          4 hrs 56 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.72 % 
+CSS          2 hrs 34 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Python       2 hrs 12 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Markdown     1 hr 43 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+```
 <!--END_SECTION:waka-->
 ### 🏆 <!--My Trophies-->
   [![trophy](https://github-profile-trophy.vercel.app/?username=wazimuhb&theme=onedark&no-bg=false&count_private=true)](https://github.com/wazimuhb/wazimuhb)
