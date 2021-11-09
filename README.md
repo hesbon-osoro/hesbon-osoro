@@ -122,6 +122,16 @@ JSON         54 mins         ▓░░░░░░░░░░░░░░░░
 </details>
 </h1>
 
+<!-- 
+<h2>
+  <details>
+    <summary>Tools</summary>
+    
+    ![Laptop](https://img.shields.io/badge/hp-laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)
+    
+  </details>
+ </h2> -->
+  
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/wazimu_hb?style=social)
 
