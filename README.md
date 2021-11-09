@@ -146,13 +146,18 @@ JSON         54 mins         ▓░░░░░░░░░░░░░░░░
 ![GitHub watchers](https://img.shields.io/github/watchers/wazimuhb/wazimuhb?style=social)
 
 
-
+## Contribution Graph
+<p>
+  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=wazimuhb&theme=github" alt="wazimu" />
+</p> &nbsp;
+<br /><br />&nbsp;
 
 ### 🏆 <!--My Trophies-->
   [![trophy](https://github-profile-trophy.vercel.app/?username=wazimuhb&theme=onedark&no-bg=false&count_private=true)](https://github.com/wazimuhb/wazimuhb)
 <!--### Github Stats-->
 
 ![Wazimu's GitHub stats](https://github-readme-stats.vercel.app/api?username=wazimuhb&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
+
 
 <!--### Github extra pins-->
 
