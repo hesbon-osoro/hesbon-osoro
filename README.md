@@ -5,7 +5,12 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9fef8153-c463-4241-8f68-3342069d4495/deploy-status)](https://app.netlify.com/sites/hb-wazimu/deploys)
 
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fhb-wazimu.netlify.app%2F)
+
+ # Check out: 
+ 
 <p>
+ 
   <a href="https://hb-wazimu.netlify.app/" rel="noreferer noopener" target="_blank">
     Wazimu portfolio
   </a>
@@ -16,6 +21,13 @@
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/wazimuhb?style=social)
 
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCgHKQfyNh8thOZtS4kfQG-A?style=social)
+
+![GitHub followers](https://img.shields.io/github/followers/wazimuhb?style=social)
+
+![GitHub User's stars](https://img.shields.io/github/stars/wazimuhb?style=social)
+
+![GitHub watchers](https://img.shields.io/github/watchers/wazimuhb/wazimuhb?style=social)
+
 
 
 ## I'm Hesbon aka Wazimu a Full Stack Web Developer
