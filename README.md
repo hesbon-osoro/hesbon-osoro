@@ -1,8 +1,8 @@
 ## Hello, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-
-
-[![wazimu.png](https://i.postimg.cc/fy4B7PM5/wazimu.png)](https://postimg.cc/FdZyNDdJ)
-
+  
+ [![wazimu.png](https://i.postimg.cc/fy4B7PM5/wazimu.png)](https://hb-wazimu.netlify.app)
+  
+  
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9fef8153-c463-4241-8f68-3342069d4495/deploy-status)](https://app.netlify.com/sites/hb-wazimu/deploys)
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fhb-wazimu.netlify.app%2F)
