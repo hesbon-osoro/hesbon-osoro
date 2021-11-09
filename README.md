@@ -11,6 +11,13 @@
   </a>
 </p>
 
+![Twitter Follow](https://img.shields.io/twitter/follow/wazimu_hb?style=social)
+
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/wazimuhb?style=social)
+
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCgHKQfyNh8thOZtS4kfQG-A?style=social)
+
+
 ## I'm Hesbon aka Wazimu a Full Stack Web Developer
 
 I am a passionate developer and researcher who looks at things and desire to know why they work as they do,
