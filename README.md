@@ -7,6 +7,30 @@
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fhb-wazimu.netlify.app%2F)
 
+## I'm Hesbon aka Wazimu a Full Stack Web Developer
+
+I am a passionate developer and researcher who looks at things and desire to know why they work as they do,
+or on the contrary, why things don't get to work as they are supposed to be.
+
+I love interacting with bright people to help each other grow
+
+#### Top Technologies
+
+<!-- TODO: Make technologies links takes you to repositories -->
+
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+
+
+<!--START_SECTION:waka-->
+```text
+SCSS         12 hrs 43 mins  ███████████▓░░░░░░░░░░░░░   46.42 % 
+JavaScript   8 hrs 16 mins   ███████▓░░░░░░░░░░░░░░░░░   30.20 % 
+JSX          2 hrs 59 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+CSS          1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+JSON         54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+```
+<!--END_SECTION:waka-->
+
 <h2 align="center">Connect Me</h2>
 <p align='center'>
   <a href="https://www.linkedin.com/in/wazimu/">
@@ -40,14 +64,56 @@
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
  </a>&nbsp;&nbsp;
 </p>
- # Check out: 
+
+# Check out: 
  
-<p>
- 
+<p> 
   <a href="https://hb-wazimu.netlify.app/" rel="noreferer noopener" target="_blank">
     Wazimu portfolio
   </a>
 </p>
+
+
+<details>
+  <summary>Skills</summary>
+  
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  
+  ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+  
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+  ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
+
+  
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+  
+  ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+
+  
+  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+  
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  
+  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+  
+  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+  
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+</details>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/wazimu_hb?style=social)
 
@@ -62,29 +128,8 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/wazimuhb/wazimuhb?style=social)
 
 
-## I'm Hesbon aka Wazimu a Full Stack Web Developer
-
-I am a passionate developer and researcher who looks at things and desire to know why they work as they do,
-or on the contrary, why things don't get to work as they are supposed to be.
-
-I love interacting with bright people to help each other grow
-
-#### Top Technologies
-
-<!-- TODO: Make technologies links takes you to repositories -->
-
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 
-<!--START_SECTION:waka-->
-```text
-SCSS         12 hrs 43 mins  ███████████▓░░░░░░░░░░░░░   46.42 % 
-JavaScript   8 hrs 16 mins   ███████▓░░░░░░░░░░░░░░░░░   30.20 % 
-JSX          2 hrs 59 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-CSS          1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-JSON         54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-```
-<!--END_SECTION:waka-->
 ### 🏆 <!--My Trophies-->
   [![trophy](https://github-profile-trophy.vercel.app/?username=wazimuhb&theme=onedark&no-bg=false&count_private=true)](https://github.com/wazimuhb/wazimuhb)
 <!--### Github Stats-->
