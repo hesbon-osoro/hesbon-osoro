@@ -65,13 +65,12 @@ JSON         54 mins         ▓░░░░░░░░░░░░░░░░
  </a>&nbsp;&nbsp;
 </p>
 
-# Check out: 
- 
-<p> 
+
+<h1>Check out: 
   <a href="https://hb-wazimu.netlify.app/" rel="noreferer noopener" target="_blank">
     Wazimu portfolio
   </a>
-</p>
+</h1>
 
 
 <details>
