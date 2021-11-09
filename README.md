@@ -7,6 +7,13 @@
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fhb-wazimu.netlify.app%2F)
 
+<h1>Check out: 
+  <a href="https://hb-wazimu.netlify.app/" rel="noreferer noopener" target="_blank">
+  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</h1>
+
+
 ## I'm Hesbon aka Wazimu a Full Stack Web Developer
 
 I am a passionate developer and researcher who looks at things and desire to know why they work as they do,
@@ -64,13 +71,6 @@ JSON         54 mins         ▓░░░░░░░░░░░░░░░░
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
  </a>&nbsp;&nbsp;
 </p>
-
-
-<h1>Check out: 
-  <a href="https://hb-wazimu.netlify.app/" rel="noreferer noopener" target="_blank">
-    Wazimu portfolio
-  </a>
-</h1>
 
 <h1>
 <details>
