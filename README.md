@@ -7,6 +7,39 @@
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fhb-wazimu.netlify.app%2F)
 
+<h2 align="center">Connect Me</h2>
+<p align='center'>
+  <a href="https://www.linkedin.com/in/wazimu/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/wazimu.hb">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+ <a href="https://wa.me/+254792496898">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+ </a>&nbsp;&nbsp;
+ <a href="mailto:hesbonosoro1@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ </a>&nbsp;&nbsp;
+  <a href="https://t.me/wazimuhb">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+ </a> &nbsp;&nbsp;
+</p>
+
+<p align='center'>
+  <a href="https://twitter.com/wazimu_hb">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/wazimuhb">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+ <a href="https://www.reddit.com/user/wazimuhb">
+  <img src="	https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+ </a>&nbsp;&nbsp;
+ <a href="https://www.youtube.com/channel/UCgHKQfyNh8thOZtS4kfQG-A">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+ </a>&nbsp;&nbsp;
+</p>
  # Check out: 
  
 <p>
@@ -27,7 +60,6 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/wazimuhb?style=social)
 
 ![GitHub watchers](https://img.shields.io/github/watchers/wazimuhb/wazimuhb?style=social)
-
 
 
 ## I'm Hesbon aka Wazimu a Full Stack Web Developer
