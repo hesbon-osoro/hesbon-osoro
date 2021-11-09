@@ -52,10 +52,35 @@ JSON         54 mins         ▓░░░░░░░░░░░░░░░░
     <td>
       <a href="https://hampi-tourism-site-hb.netlify.app/">Tourism Hampi</a>
      </td>
+    <td>
+      <a href="https://agency-site-hb.netlify.app/">
+        <img width="300px" src="https://i.postimg.cc/k5GrbsFd/agency-site.png">
+      </a>
+    </td>
+    <td>
+      <a href="https://agency-site-hb.netlify.app">Agency Site</a>
+     </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://portfolio-hb.netlify.app/">
+          <img width="300px" src="https://i.postimg.cc/1zDxGM1z/portfolio-hb.png">
+        </a>
+      </td>
+      <td>
+        <a href="https://portfolio-hb.netlify.app/">Sample Portfolio</a>
+       </td>
+      <td>
+        <a href="https://dating-site-frontend.netlify.app/">
+          <img width="300px" src="https://i.postimg.cc/Pf6TW2mL/dating-app-frontend.png">
+        </a>
+      </td>
+      <td>
+        <a href="https://dating-site-frontend.netlify.app/">Dating Site</a>
+       </td>
     </tr>
   </tbody>
 </table>
-  
     
 <h2 align="center">Connect Me</h2>
 <p align='center'>
