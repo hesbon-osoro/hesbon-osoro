@@ -38,6 +38,25 @@ JSON         54 mins         ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+
+## 
+▶Sample Projects
+<table>
+  <tbody>
+  <tr>
+    <td>
+      <a href="https://hampi-tourism-site-hb.netlify.app/">
+        <img width="300px" src="https://i.postimg.cc/d04DybCw/hampi-github.png">
+      </a>
+    </td>
+    <td>
+      <a href="https://hampi-tourism-site-hb.netlify.app/">Tourism Hampi</a>
+     </td>
+    </tr>
+  </tbody>
+</table>
+  
+    
 <h2 align="center">Connect Me</h2>
 <p align='center'>
   <a href="https://www.linkedin.com/in/wazimu/">
