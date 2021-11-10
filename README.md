@@ -79,6 +79,16 @@ JSON         54 mins         ▓░░░░░░░░░░░░░░░░
         <a href="https://dating-site-frontend.netlify.app/">Dating Site</a>
        </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://salad-hb.netlify.app/">
+          <img width="300px" src="https://i.postimg.cc/kGx1BgCd/salad.png" alt="Salad site" />
+        </a>
+      </td>
+      <td>
+        <a href="https://salad-hb.netlify.app/">Salad site</a>
+      </td>
+    </tr>
   </tbody>
 </table>
     
