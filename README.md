@@ -40,7 +40,7 @@ JSON         54 mins         ▓░░░░░░░░░░░░░░░░
 
 
 ## 
-▶Sample Projects
+▶ Sample Projects
 <table>
   <tbody>
   <tr>
@@ -204,7 +204,7 @@ JSON         54 mins         ▓░░░░░░░░░░░░░░░░
 <p>
   <img align="left" src="https://activity-graph.herokuapp.com/graph?username=wazimuhb&theme=github" alt="wazimu" />
 </p> &nbsp;
-<br /><br />&nbsp;
+<br />
 
 ### 🏆 <!--My Trophies-->
   [![trophy](https://github-profile-trophy.vercel.app/?username=wazimuhb&theme=onedark&no-bg=false&count_private=true)](https://github.com/wazimuhb/wazimuhb)
