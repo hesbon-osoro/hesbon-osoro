@@ -53,6 +53,16 @@ JSON         1 hr 8 mins     █░░░░░░░░░░░░░░░░
       <a href="https://hampi-tourism-site-hb.netlify.app/">Tourism Hampi</a>
      </td>
     <td>
+      <a href="https://chat-app-merng.netlify.app/">
+        <img src="https://i.postimg.cc/pXV9MXHd/chatapp.png" width="300px" />
+      </a>
+    </td>
+    <td>
+      <a href="https://chat-app-merng.netlify.app/">Chat App</a>
+    </td>   
+    </tr>
+    <tr>
+       <td>
       <a href="https://agency-site-hb.netlify.app/">
         <img width="300px" src="https://i.postimg.cc/k5GrbsFd/agency-site.png">
       </a>
@@ -60,8 +70,6 @@ JSON         1 hr 8 mins     █░░░░░░░░░░░░░░░░
     <td>
       <a href="https://agency-site-hb.netlify.app">Agency Site</a>
      </td>
-    </tr>
-    <tr>
       <td>
         <a href="https://portfolio-hb.netlify.app/">
           <img width="300px" src="https://i.postimg.cc/1zDxGM1z/portfolio-hb.png">
@@ -69,7 +77,9 @@ JSON         1 hr 8 mins     █░░░░░░░░░░░░░░░░
       </td>
       <td>
         <a href="https://portfolio-hb.netlify.app/">Sample Portfolio</a>
-       </td>
+       </td>      
+    </tr>
+    <tr>
       <td>
         <a href="https://dating-site-frontend.netlify.app/">
           <img width="300px" src="https://i.postimg.cc/Pf6TW2mL/dating-app-frontend.png">
@@ -78,8 +88,6 @@ JSON         1 hr 8 mins     █░░░░░░░░░░░░░░░░
       <td>
         <a href="https://dating-site-frontend.netlify.app/">Dating Site</a>
        </td>
-    </tr>
-    <tr>
       <td>
         <a href="https://salad-hb.netlify.app/">
           <img width="300px" src="https://i.postimg.cc/kGx1BgCd/salad.png" alt="Salad site" />
