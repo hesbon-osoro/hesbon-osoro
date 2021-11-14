@@ -52,7 +52,35 @@ JSON         1 hr 8 mins     █░░░░░░░░░░░░░░░░
     <td>
       <a href="https://hampi-tourism-site-hb.netlify.app/">Tourism Hampi</a>
      </td>
+     <td>
+      <a href="https://video-app-hb.netlify.app/">
+        <img src="https://i.postimg.cc/hvhPbT4D/video-app.png" width="300px" />
+      </a>
+     </td>
     <td>
+      <a href="https://video-app-hb.netlify.app/">Video App</a>
+    </td>       
+    </tr>
+     <td>
+      <a href="https://chat-app-merng.netlify.app/">
+        <img src="https://i.postimg.cc/pXV9MXHd/chatapp.png" width="300px" />
+      </a>
+    </td>
+    <td>
+      <a href="https://chat-app-merng.netlify.app/">Chat App</a>
+    </td> 
+    <td>
+        <a href="https://dating-site-frontend.netlify.app/">
+          <img width="300px" src="https://i.postimg.cc/Pf6TW2mL/dating-app-frontend.png">
+        </a>
+      </td>
+      <td>
+        <a href="https://dating-site-frontend.netlify.app/">Dating Site</a>
+       </td> 
+    </tr>
+    <tr>
+    <tr>
+       <td>
       <a href="https://agency-site-hb.netlify.app/">
         <img width="300px" src="https://i.postimg.cc/k5GrbsFd/agency-site.png">
       </a>
@@ -60,28 +88,18 @@ JSON         1 hr 8 mins     █░░░░░░░░░░░░░░░░
     <td>
       <a href="https://agency-site-hb.netlify.app">Agency Site</a>
      </td>
-    </tr>
-    <tr>
-      <td>
+        <td>
         <a href="https://portfolio-hb.netlify.app/">
           <img width="300px" src="https://i.postimg.cc/1zDxGM1z/portfolio-hb.png">
         </a>
       </td>
       <td>
         <a href="https://portfolio-hb.netlify.app/">Sample Portfolio</a>
-       </td>
-      <td>
-        <a href="https://dating-site-frontend.netlify.app/">
-          <img width="300px" src="https://i.postimg.cc/Pf6TW2mL/dating-app-frontend.png">
-        </a>
-      </td>
-      <td>
-        <a href="https://dating-site-frontend.netlify.app/">Dating Site</a>
-       </td>
+       </td>    
     </tr>
     <tr>
       <td>
-        <a href="https://salad-hb.netlify.app/">
+            <a href="https://salad-hb.netlify.app/">
           <img width="300px" src="https://i.postimg.cc/kGx1BgCd/salad.png" alt="Salad site" />
         </a>
       </td>
@@ -92,7 +110,7 @@ JSON         1 hr 8 mins     █░░░░░░░░░░░░░░░░
   </tbody>
 </table>
     
-<h2 align="center">Connect Me</h2>
+<h2 align="center">Contact Me</h2>
 <p align='center'>
   <a href="https://www.linkedin.com/in/wazimu/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
