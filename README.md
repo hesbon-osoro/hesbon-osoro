@@ -58,7 +58,7 @@ JSON         1 hr 8 mins     █░░░░░░░░░░░░░░░░
       </a>
      </td>
     <td>
-      <a href="https://chat-app-merng.netlify.app/">Video App</a>
+      <a href="https://video-app-hb.netlify.app/">Video App</a>
     </td>       
     </tr>
      <td>
