@@ -30,11 +30,11 @@ I love interacting with bright people to help each other grow
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   17 hrs 31 mins  ██████████████▓░░░░░░░░░░   58.79 % 
-SCSS         6 hrs 35 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.12 % 
-JSON         2 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-JSX          1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-Bash         54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+JavaScript   13 hrs 41 mins  ████████████▓░░░░░░░░░░░░   50.12 % 
+SCSS         6 hrs 14 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.89 % 
+JSX          3 hrs 36 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+CSS          1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+JSON         1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 ```
 <!--END_SECTION:waka-->
 
@@ -52,15 +52,33 @@ Bash         54 mins         ▓░░░░░░░░░░░░░░░░
     <td>
       <a href="https://hampi-tourism-site-hb.netlify.app/">Tourism Hampi</a>
      </td>
+     <td>
+      <a href="https://video-app-hb.netlify.app/">
+        <img src="https://i.postimg.cc/hvhPbT4D/video-app.png" width="300px" />
+      </a>
+     </td>
     <td>
+      <a href="https://chat-app-merng.netlify.app/">Video App</a>
+    </td>       
+    </tr>
+     <td>
       <a href="https://chat-app-merng.netlify.app/">
         <img src="https://i.postimg.cc/pXV9MXHd/chatapp.png" width="300px" />
       </a>
     </td>
     <td>
       <a href="https://chat-app-merng.netlify.app/">Chat App</a>
-    </td>   
+    </td> 
+    <td>
+        <a href="https://dating-site-frontend.netlify.app/">
+          <img width="300px" src="https://i.postimg.cc/Pf6TW2mL/dating-app-frontend.png">
+        </a>
+      </td>
+      <td>
+        <a href="https://dating-site-frontend.netlify.app/">Dating Site</a>
+       </td> 
     </tr>
+    <tr>
     <tr>
        <td>
       <a href="https://agency-site-hb.netlify.app/">
@@ -70,26 +88,18 @@ Bash         54 mins         ▓░░░░░░░░░░░░░░░░
     <td>
       <a href="https://agency-site-hb.netlify.app">Agency Site</a>
      </td>
-      <td>
+        <td>
         <a href="https://portfolio-hb.netlify.app/">
           <img width="300px" src="https://i.postimg.cc/1zDxGM1z/portfolio-hb.png">
         </a>
       </td>
       <td>
         <a href="https://portfolio-hb.netlify.app/">Sample Portfolio</a>
-       </td>      
+       </td>    
     </tr>
     <tr>
       <td>
-        <a href="https://dating-site-frontend.netlify.app/">
-          <img width="300px" src="https://i.postimg.cc/Pf6TW2mL/dating-app-frontend.png">
-        </a>
-      </td>
-      <td>
-        <a href="https://dating-site-frontend.netlify.app/">Dating Site</a>
-       </td>
-      <td>
-        <a href="https://salad-hb.netlify.app/">
+            <a href="https://salad-hb.netlify.app/">
           <img width="300px" src="https://i.postimg.cc/kGx1BgCd/salad.png" alt="Salad site" />
         </a>
       </td>
