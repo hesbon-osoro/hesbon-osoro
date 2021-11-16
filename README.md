@@ -136,9 +136,9 @@ Markdown     40 mins         ▓░░░░░░░░░░░░░░░░
     </tr>
      <tr>
       <td>
-        <p>
+        <a href="https://www.codechef.com/certificates/verify">
           <img width="300px" src="https://i.postimg.cc/3W5vCLrM/snackdown2021.png">
-        </p>
+        </a>
       </td>
       <td>
         <a href="https://www.codechef.com/certificates/verify">Verify</a>
@@ -146,7 +146,7 @@ Markdown     40 mins         ▓░░░░░░░░░░░░░░░░
         <p><b>Username:</b> wazimu</p>
       </td>
       <td>
-        <a href="">
+        <a href="https://hb-wazimu.netlify.app/#certification">
           <img src="https://i.postimg.cc/wvjc7bM0/googlekickstart.png" width="300px" />
         </a>
       </td>
