@@ -109,7 +109,100 @@ Markdown     40 mins         ▓░░░░░░░░░░░░░░░░
     </tr>
   </tbody>
 </table>
-    
+
+<br />
+
+- Certifications
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://www.hackerrank.com/certificates/229ef084f60a">
+          <img width="300px" src="https://i.postimg.cc/SQwTvkJ4/hackerrank-js-basic.png">
+        </a>
+      </td>
+      <td>
+          <a href="https://www.hackerrank.com/certificates/229ef084f60a">Verify</a>
+      </td>
+      <td>
+        <a href="https://www.hackerrank.com/certificates/12d1fbc424ce">
+          <img src="https://i.postimg.cc/T2yN0p2Q/Hackerrankproblemsolving.png" width="300px" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.hackerrank.com/certificates/12d1fbc424ce">Verify</a>
+      </td>       
+    </tr>
+     <tr>
+      <td>
+        <p>
+          <img width="300px" src="https://i.postimg.cc/3W5vCLrM/snackdown2021.png">
+        </p>
+      </td>
+      <td>
+        <a href="https://www.codechef.com/certificates/verify">Verify</a>
+         <p><b>Certificate ID:</b> 94a6f28</p>
+        <p><b>Username:</b> wazimu</p>
+      </td>
+      <td>
+        <a href="">
+          <img src="https://i.postimg.cc/wvjc7bM0/googlekickstart.png" width="300px" />
+        </a>
+      </td>
+      <td>
+        <a href="https://hb-wazimu.netlify.app/#certification">Verify</a>      
+      </td>       
+    </tr>
+     <tr>
+      <td>
+        <a href="https://www.freecodecamp.org/certification/wazimu/front-end-development-libraries">
+          <img width="300px" src="https://i.postimg.cc/FHXyjK1f/free-Code-Camp-frontend-dev-libs.png">
+        </a>
+      </td>
+      <td>
+        <a href="https://www.freecodecamp.org/certification/wazimu/front-end-development-libraries">Verify</a>
+      </td>
+      <td>
+        <a href="https://www.freecodecamp.org/certification/wazimu/javascript-algorithms-and-data-structures">
+          <img src="https://i.postimg.cc/qRFngJ9v/free-Code-Camp-JADS-certification.png" width="300px" />
+        </a>
+      </td>
+      <td>
+        <a href="https://www.freecodecamp.org/certification/wazimu/javascript-algorithms-and-data-structures">Verify</a>
+      </td>       
+    </tr>
+     <tr>
+      <td>
+        <a href="https://www.freecodecamp.org/certification/wazimu/responsive-web-design">
+          <img width="300px" src="https://i.postimg.cc/Y9DNgfmk/free-Code-Camp-RWD-certification.png">
+        </a>
+      </td>
+      <td>
+        <a href="https://www.freecodecamp.org/certification/wazimu/responsive-web-design">Verify</a>
+      </td>
+      <td>
+        <a href="https://hb-wazimu.netlify.app/#certification">
+          <img src="https://i.postimg.cc/9fJy5tbT/devfest2021.png" width="300px" />
+        </a>
+      </td>
+      <td>
+        <a href="https://hb-wazimu.netlify.app/#certification">Verify</a>
+      </td>       
+    </tr>
+     <tr>
+      <td>
+        <a href="https://hb-wazimu.netlify.app/#certification">
+          <img width="300px" src="https://i.postimg.cc/zf5k1frm/googleanalytics.png">
+        </a>
+      </td>  
+      <td>
+        <a href="https://hb-wazimu.netlify.app/#certification">Verify</a>
+      </td>    
+    </tr>
+  </tbody>
+</table>
+
 <h2 align="center">Contact Me</h2>
 <p align='center'>
   <a href="https://www.linkedin.com/in/wazimu/">
