@@ -39,8 +39,10 @@ Markdown     1 hr 16 mins    █░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-## 
-▶ Sample Projects
+<h2>
+<details>
+  <summary>Sample Projects</summary>  
+
 <table>
   <tbody>
   <tr>
@@ -109,12 +111,14 @@ Markdown     1 hr 16 mins    █░░░░░░░░░░░░░░░░
     </tr>
   </tbody>
 </table>
-
+</details>
+</h2>
 <br />
 
-- Certifications
-
-<table>
+<h2>
+<details>
+  <summary>Certifications</summary>  
+  <table>
   <tbody>
     <tr>
       <td>
@@ -202,6 +206,8 @@ Markdown     1 hr 16 mins    █░░░░░░░░░░░░░░░░
     </tr>
   </tbody>
 </table>
+</details>
+</h2>
 
 <h2 align="center">Contact Me</h2>
 <p align='center'>
