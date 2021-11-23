@@ -1,8 +1,7 @@
 ## Hello, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-  
- [![wazimu.png](https://i.postimg.cc/fy4B7PM5/wazimu.png)](https://hb-wazimu.netlify.app)
-  
-  
+
+[![wazimu.png](https://i.postimg.cc/fy4B7PM5/wazimu.png)](https://hb-wazimu.netlify.app)
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9fef8153-c463-4241-8f68-3342069d4495/deploy-status)](https://app.netlify.com/sites/hb-wazimu/deploys)
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fhb-wazimu.netlify.app%2F)
@@ -12,7 +11,6 @@
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </h1>
-
 
 ## I'm Hesbon aka Wazimu a Full Stack Web Developer
 
@@ -27,181 +25,270 @@ I love interacting with bright people to help each other grow
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
-
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   16 hrs 32 mins  █████████████████░░░░░░░░   67.76 % 
-JSON         1 hr 52 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-JSX          1 hr 50 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-SCSS         1 hr 48 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-Markdown     40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+JavaScript   16 hrs 32 mins  █████████████████░░░░░░░░   67.76 %
+JSON         1 hr 52 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+JSX          1 hr 50 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+SCSS         1 hr 48 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
+Markdown     40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
 ```
+
 <!--END_SECTION:waka-->
 
+<h2>
+<details>
+  <summary>Sample Projects</summary>  
 
-## 
-▶ Sample Projects
 <table>
   <tbody>
-  <tr>
-    <td>
-      <a href="https://hampi-tourism-site-hb.netlify.app/">
-        <img width="300px" src="https://i.postimg.cc/d04DybCw/hampi-github.png">
-      </a>
-    </td>
-    <td>
-      <a href="https://hampi-tourism-site-hb.netlify.app/">Tourism Hampi</a>
-     </td>
-     <td>
-      <a href="https://video-app-hb.netlify.app/">
-        <img src="https://i.postimg.cc/hvhPbT4D/video-app.png" width="300px" />
-      </a>
-     </td>
-    <td>
-      <a href="https://video-app-hb.netlify.app/">Video App</a>
-    </td>       
-    </tr>
-     <td>
-      <a href="https://chat-app-merng.netlify.app/">
-        <img src="https://i.postimg.cc/pXV9MXHd/chatapp.png" width="300px" />
-      </a>
-    </td>
-    <td>
-      <a href="https://chat-app-merng.netlify.app/">Chat App</a>
-    </td> 
-    <td>
-        <a href="https://dating-site-frontend.netlify.app/">
-          <img width="300px" src="https://i.postimg.cc/Pf6TW2mL/dating-app-frontend.png">
+    <tr>
+      <td>
+        <a href="https://restaurant-ecommerce.netlify.app/">
+          <img
+            width="300px"
+            src="https://i.postimg.cc/C5krYtGw/restaurant.png"
+            alt="Restaurant E-commerce"
+          />
         </a>
       </td>
       <td>
-        <a href="https://dating-site-frontend.netlify.app/">Dating Site</a>
-       </td> 
+        <a href="https://restaurant-ecommerce.netlify.app/"
+          >Restaurant E-commerce site</a
+        >
+      </td>
+      <td>
+        <a href="https://hampi-tourism-site-hb.netlify.app/">
+          <img
+            width="300px"
+            src="https://i.postimg.cc/d04DybCw/hampi-github.png"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://hampi-tourism-site-hb.netlify.app/"
+          >Tourism Hampi</a
+        >
+      </td>
     </tr>
     <tr>
-    <tr>
-       <td>
-      <a href="https://agency-site-hb.netlify.app/">
-        <img width="300px" src="https://i.postimg.cc/k5GrbsFd/agency-site.png">
+      <td>
+        <a href="https://video-app-hb.netlify.app/">
+          <img
+            src="https://i.postimg.cc/hvhPbT4D/video-app.png"
+            width="300px"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://video-app-hb.netlify.app/">Video App</a>
+      </td>
+      <td>
+        <a href="https://chat-app-merng.netlify.app/">
+          <img
+            src="https://i.postimg.cc/pXV9MXHd/chatapp.png"
+            width="300px"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://chat-app-merng.netlify.app/">Chat App</a>
+      </td>
+    </tr>
+    <td>
+      <a href="https://dating-site-frontend.netlify.app/">
+        <img
+          width="300px"
+          src="https://i.postimg.cc/Pf6TW2mL/dating-app-frontend.png"
+        />
       </a>
     </td>
     <td>
-      <a href="https://agency-site-hb.netlify.app">Agency Site</a>
-     </td>
-        <td>
+      <a href="https://dating-site-frontend.netlify.app/">Dating Site</a>
+    </td>
+    <td>
+      <a href="https://salad-hb.netlify.app/">
+        <img
+          width="300px"
+          src="https://i.postimg.cc/kGx1BgCd/salad.png"
+          alt="Salad site"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://salad-hb.netlify.app/">Salad site</a>
+    </td>
+    <tr></tr>
+    <tr>
+      <td>
+        <a href="https://agency-site-hb.netlify.app/">
+          <img
+            width="300px"
+            src="https://i.postimg.cc/k5GrbsFd/agency-site.png"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://agency-site-hb.netlify.app">Agency Site</a>
+      </td>
+      <td>
         <a href="https://portfolio-hb.netlify.app/">
-          <img width="300px" src="https://i.postimg.cc/1zDxGM1z/portfolio-hb.png">
+          <img
+            width="300px"
+            src="https://i.postimg.cc/1zDxGM1z/portfolio-hb.png"
+          />
         </a>
       </td>
       <td>
         <a href="https://portfolio-hb.netlify.app/">Sample Portfolio</a>
-       </td>    
-    </tr>
-    <tr>
-      <td>
-            <a href="https://salad-hb.netlify.app/">
-          <img width="300px" src="https://i.postimg.cc/kGx1BgCd/salad.png" alt="Salad site" />
-        </a>
-      </td>
-      <td>
-        <a href="https://salad-hb.netlify.app/">Salad site</a>
       </td>
     </tr>
   </tbody>
 </table>
-
+</details>
+</h2>
 <br />
 
-- Certifications
-
+<h2>
+<details>
+  <summary>Certifications</summary>  
 <table>
   <tbody>
     <tr>
       <td>
         <a href="https://www.hackerrank.com/certificates/229ef084f60a">
-          <img width="300px" src="https://i.postimg.cc/SQwTvkJ4/hackerrank-js-basic.png">
+          <img
+            width="300px"
+            src="https://i.postimg.cc/SQwTvkJ4/hackerrank-js-basic.png"
+          />
         </a>
       </td>
       <td>
-          <a href="https://www.hackerrank.com/certificates/229ef084f60a">Verify</a>
+        <a href="https://www.hackerrank.com/certificates/229ef084f60a"
+          >Verify</a
+        >
       </td>
       <td>
         <a href="https://www.hackerrank.com/certificates/12d1fbc424ce">
-          <img src="https://i.postimg.cc/T2yN0p2Q/Hackerrankproblemsolving.png" width="300px" />
+          <img
+            src="https://i.postimg.cc/T2yN0p2Q/Hackerrankproblemsolving.png"
+            width="300px"
+          />
         </a>
       </td>
       <td>
-        <a href="https://www.hackerrank.com/certificates/12d1fbc424ce">Verify</a>
-      </td>       
+        <a href="https://www.hackerrank.com/certificates/12d1fbc424ce"
+          >Verify</a
+        >
+      </td>
     </tr>
-     <tr>
+    <tr>
       <td>
         <a href="https://www.codechef.com/certificates/verify">
-          <img width="300px" src="https://i.postimg.cc/3W5vCLrM/snackdown2021.png">
+          <img
+            width="300px"
+            src="https://i.postimg.cc/3W5vCLrM/snackdown2021.png"
+          />
         </a>
       </td>
       <td>
         <a href="https://www.codechef.com/certificates/verify">Verify</a>
-         <p><b>Certificate ID:</b> 94a6f28</p>
+        <p><b>Certificate ID:</b> 94a6f28</p>
         <p><b>Username:</b> wazimu</p>
       </td>
       <td>
         <a href="https://hb-wazimu.netlify.app/#certification">
-          <img src="https://i.postimg.cc/wvjc7bM0/googlekickstart.png" width="300px" />
-        </a>
-      </td>
-      <td>
-        <a href="https://hb-wazimu.netlify.app/#certification">Verify</a>      
-      </td>       
-    </tr>
-     <tr>
-      <td>
-        <a href="https://www.freecodecamp.org/certification/wazimu/front-end-development-libraries">
-          <img width="300px" src="https://i.postimg.cc/FHXyjK1f/free-Code-Camp-frontend-dev-libs.png">
-        </a>
-      </td>
-      <td>
-        <a href="https://www.freecodecamp.org/certification/wazimu/front-end-development-libraries">Verify</a>
-      </td>
-      <td>
-        <a href="https://www.freecodecamp.org/certification/wazimu/javascript-algorithms-and-data-structures">
-          <img src="https://i.postimg.cc/qRFngJ9v/free-Code-Camp-JADS-certification.png" width="300px" />
-        </a>
-      </td>
-      <td>
-        <a href="https://www.freecodecamp.org/certification/wazimu/javascript-algorithms-and-data-structures">Verify</a>
-      </td>       
-    </tr>
-     <tr>
-      <td>
-        <a href="https://www.freecodecamp.org/certification/wazimu/responsive-web-design">
-          <img width="300px" src="https://i.postimg.cc/Y9DNgfmk/free-Code-Camp-RWD-certification.png">
-        </a>
-      </td>
-      <td>
-        <a href="https://www.freecodecamp.org/certification/wazimu/responsive-web-design">Verify</a>
-      </td>
-      <td>
-        <a href="https://hb-wazimu.netlify.app/#certification">
-          <img src="https://i.postimg.cc/9fJy5tbT/devfest2021.png" width="300px" />
+          <img
+            src="https://i.postimg.cc/wvjc7bM0/googlekickstart.png"
+            width="300px"
+          />
         </a>
       </td>
       <td>
         <a href="https://hb-wazimu.netlify.app/#certification">Verify</a>
-      </td>       
+      </td>
     </tr>
-     <tr>
+    <tr>
+      <td>
+        <a
+          href="https://www.freecodecamp.org/certification/wazimu/front-end-development-libraries"
+        >
+          <img
+            width="300px"
+            src="https://i.postimg.cc/FHXyjK1f/free-Code-Camp-frontend-dev-libs.png"
+          />
+        </a>
+      </td>
+      <td>
+        <a
+          href="https://www.freecodecamp.org/certification/wazimu/front-end-development-libraries"
+          >Verify</a
+        >
+      </td>
+      <td>
+        <a
+          href="https://www.freecodecamp.org/certification/wazimu/javascript-algorithms-and-data-structures"
+        >
+          <img
+            src="https://i.postimg.cc/qRFngJ9v/free-Code-Camp-JADS-certification.png"
+            width="300px"
+          />
+        </a>
+      </td>
+      <td>
+        <a
+          href="https://www.freecodecamp.org/certification/wazimu/javascript-algorithms-and-data-structures"
+          >Verify</a
+        >
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a
+          href="https://www.freecodecamp.org/certification/wazimu/responsive-web-design"
+        >
+          <img
+            width="300px"
+            src="https://i.postimg.cc/Y9DNgfmk/free-Code-Camp-RWD-certification.png"
+          />
+        </a>
+      </td>
+      <td>
+        <a
+          href="https://www.freecodecamp.org/certification/wazimu/responsive-web-design"
+          >Verify</a
+        >
+      </td>
       <td>
         <a href="https://hb-wazimu.netlify.app/#certification">
-          <img width="300px" src="https://i.postimg.cc/zf5k1frm/googleanalytics.png">
+          <img
+            src="https://i.postimg.cc/9fJy5tbT/devfest2021.png"
+            width="300px"
+          />
         </a>
-      </td>  
+      </td>
       <td>
         <a href="https://hb-wazimu.netlify.app/#certification">Verify</a>
-      </td>    
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://hb-wazimu.netlify.app/#certification">
+          <img
+            width="300px"
+            src="https://i.postimg.cc/zf5k1frm/googleanalytics.png"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://hb-wazimu.netlify.app/#certification">Verify</a>
+      </td>
     </tr>
   </tbody>
 </table>
+</details>
+</h2>
 
 <h2 align="center">Contact Me</h2>
 <p align='center'>
@@ -255,48 +342,44 @@ Markdown     40 mins         ▓░░░░░░░░░░░░░░░░
   
   ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-  ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
+![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
 
-  
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-  
-  ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-  
-  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-  
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  
-  ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-  
-  ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-  
-  ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-  
-  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-  
-  ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-  
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 </details>
 </h1>
 
-<!-- 
+<!--
 <h2>
   <details>
     <summary>Tools</summary>
-    
+
     ![Laptop](https://img.shields.io/badge/hp-laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)
-    
+
   </details>
  </h2> -->
-  
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/wazimu_hb?style=social)
 
@@ -310,19 +393,20 @@ Markdown     40 mins         ▓░░░░░░░░░░░░░░░░
 
 ![GitHub watchers](https://img.shields.io/github/watchers/wazimuhb/wazimuhb?style=social)
 
-
 ## Contribution Graph
+
 <p>
   <img align="left" src="https://activity-graph.herokuapp.com/graph?username=wazimuhb&theme=github" alt="wazimu" />
 </p> &nbsp;
 <br />
 
 ### 🏆 <!--My Trophies-->
-  [![trophy](https://github-profile-trophy.vercel.app/?username=wazimuhb&theme=onedark&no-bg=false&count_private=true)](https://github.com/wazimuhb/wazimuhb)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=wazimuhb&theme=onedark&no-bg=false&count_private=true)](https://github.com/wazimuhb/wazimuhb)
+
 <!--### Github Stats-->
 
 ![Wazimu's GitHub stats](https://github-readme-stats.vercel.app/api?username=wazimuhb&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
-
 
 <!--### Github extra pins-->
 
