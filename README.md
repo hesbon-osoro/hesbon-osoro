@@ -395,7 +395,8 @@ Other        35 mins         ▒░░░░░░░░░░░░░░░░
 
 <p>
   <img align="left" src="https://activity-graph.herokuapp.com/graph?username=wazimuhb&theme=github" alt="wazimu" />
-</p> &nbsp;
+</p>
+&nbsp;
 <br />
 
 ### 🏆 <!--My Trophies-->
