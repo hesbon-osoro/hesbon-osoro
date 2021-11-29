@@ -39,7 +39,7 @@ Markdown     40 mins         ▓░░░░░░░░░░░░░░░░
 
 <h2>
 <details>
-  <summary>Sample Projects</summary>  
+  <summary>Sample Projects</summary>
 
 <table>
   <tbody>
