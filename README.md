@@ -12,7 +12,12 @@
   </a>
 </h1>
 
-## I'm Hesbon aka Wazimu a Full Stack Web Developer
+## I'm Hesbon aka Wazimu
+
+I am a JavaScript Fullstack Web Developer with 4+ years in Software Development.
+I am proficient in MERNG stack ( MongoDB, Express, React, Node, GraphQL).
+I have other experiences in developing websites using Firebase, MySQL, Gatsby, Contentful CMS, Snipcart, Python, Java, C.
+I have deployed several sites some of which am showcasing in the <a href="#sample-projects">Sample Projects</a> section. Feel free to contact me and let me be part of your developer team to create you an awesome product.
 
 I am a passionate developer and researcher who looks at things and desire to know why they work as they do,
 or on the contrary, why things don't get to work as they are supposed to be.
@@ -26,20 +31,18 @@ I love interacting with bright people to help each other grow
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 <!--START_SECTION:waka-->
-
 ```text
-JavaScript   16 hrs 32 mins  █████████████████░░░░░░░░   67.76 %
-JSON         1 hr 52 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-JSX          1 hr 50 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
-SCSS         1 hr 48 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
-Markdown     40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
+JSX          16 hrs 9 mins   █████████▓░░░░░░░░░░░░░░░   38.47 % 
+JavaScript   15 hrs 16 mins  █████████░░░░░░░░░░░░░░░░   36.38 % 
+SCSS         6 hrs 21 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 % 
+Markdown     1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+JSON         44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 ```
-
 <!--END_SECTION:waka-->
 
 <h2>
 <details>
-  <summary>Sample Projects</summary>
+  <summary id="sample-projects">Sample Projects</summary>  
 
 <table>
   <tbody>
@@ -324,52 +327,29 @@ Markdown     40 mins         ▓░░░░░░░░░░░░░░░░
  </a>&nbsp;&nbsp;
 </p>
 
-<h1>
-<details>
-  <summary>Skills</summary>
-  
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  
-  ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-  
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-  
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  
-  ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<h1> Skills</h1>
 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
-
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-</details>
-</h1>
+  
 
 <!--
 <h2>
@@ -397,7 +377,8 @@ Markdown     40 mins         ▓░░░░░░░░░░░░░░░░
 
 <p>
   <img align="left" src="https://activity-graph.herokuapp.com/graph?username=wazimuhb&theme=github" alt="wazimu" />
-</p> &nbsp;
+</p>
+&nbsp;
 <br />
 
 ### 🏆 <!--My Trophies-->
