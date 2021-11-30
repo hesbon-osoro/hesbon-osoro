@@ -147,6 +147,19 @@ Other        37 mins         ▒░░░░░░░░░░░░░░░░
         <a href="https://portfolio-hb.netlify.app/">Sample Portfolio</a>
       </td>
     </tr>
+    <tr>
+       <td>
+        <a href="https://recipes-homemade.netlify.app/">
+          <img
+            width="300px"
+            src="https://i.postimg.cc/QC7rXy4S/recipes.png"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://recipes-homemade.netlify.app/">Recipes Homemade</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 </details>
