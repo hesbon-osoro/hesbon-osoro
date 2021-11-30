@@ -149,7 +149,7 @@ Other        37 mins         ▒░░░░░░░░░░░░░░░░
     </tr>
     <tr>
        <td>
-        <a href="https://recipes-homemade.netlify.app/">
+        <a href="https://recipes-homemade-hb.netlify.app/">
           <img
             width="300px"
             src="https://i.postimg.cc/QC7rXy4S/recipes.png"
@@ -157,7 +157,7 @@ Other        37 mins         ▒░░░░░░░░░░░░░░░░
         </a>
       </td>
       <td>
-        <a href="https://recipes-homemade.netlify.app/">Recipes Homemade</a>
+        <a href="https://recipes-homemade-hb.netlify.app/">Recipes Homemade</a>
       </td>
     </tr>
   </tbody>
