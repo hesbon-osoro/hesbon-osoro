@@ -32,11 +32,11 @@ I love interacting with bright people to help each other grow
 
 <!--START_SECTION:waka-->
 ```text
-JSX          19 hrs 29 mins  ██████████▓░░░░░░░░░░░░░░   42.77 % 
-JavaScript   16 hrs 1 min    ████████▓░░░░░░░░░░░░░░░░   35.14 % 
-SCSS         5 hrs 9 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Markdown     1 hr 27 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-Bash         50 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+JSX          19 hrs 24 mins  █████████▓░░░░░░░░░░░░░░░   39.30 % 
+JavaScript   19 hrs 12 mins  █████████▓░░░░░░░░░░░░░░░   38.91 % 
+SCSS         3 hrs 31 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+CSS          2 hrs 6 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+JSON         1 hr 22 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 <!--END_SECTION:waka-->
 
