@@ -96,7 +96,7 @@ JSON         1 hr 22 mins    ▓░░░░░░░░░░░░░░░░
         </a>
       </td>
       <td>
-        <a href="https://chat-app-merng.netlify.app/">Chat App</a>
+        <a href="https://chat-app-merng.netlify.app/">Posts App</a>
       </td>
     </tr>
     <td>
@@ -159,6 +159,14 @@ JSON         1 hr 22 mins    ▓░░░░░░░░░░░░░░░░
       <td>
         <a href="https://recipes-homemade-hb.netlify.app/">Recipes Homemade</a>
       </td>
+      <td>
+        <a href="https://messaging-app-frontend.web.app/">
+          <img src="https://i.postimg.cc/W4QZQt0f/messaging2.png" width="300px" />
+        </a>
+      </td>
+      <td>
+        <a href="https://messaging-app-frontend.web.app/">Messaging App
+      </td>        
     </tr>
   </tbody>
 </table>
