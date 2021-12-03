@@ -24,6 +24,8 @@ or on the contrary, why things don't get to work as they are supposed to be.
 
 I love interacting with bright people to help each other grow
 
+### Polite Notice: The profile has lot of images, please refresh for a good view.
+
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
