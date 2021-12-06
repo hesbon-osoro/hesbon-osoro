@@ -31,13 +31,15 @@ I love interacting with bright people to help each other grow
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 <!--START_SECTION:waka-->
+
 ```text
-JSX          16 hrs 9 mins   █████████▓░░░░░░░░░░░░░░░   38.47 % 
-JavaScript   15 hrs 16 mins  █████████░░░░░░░░░░░░░░░░   36.38 % 
-SCSS         6 hrs 21 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Markdown     1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-JSON         44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+JSX          16 hrs 9 mins   █████████▓░░░░░░░░░░░░░░░   38.47 %
+JavaScript   15 hrs 16 mins  █████████░░░░░░░░░░░░░░░░   36.38 %
+SCSS         6 hrs 21 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 %
+Markdown     1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+JSON         44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 ```
+
 <!--END_SECTION:waka-->
 
 <h2>Projects</h2>
@@ -55,8 +57,12 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
       </td>
       <td>
         <a href="https://restaurant-ecommerce.netlify.app/"
-          >Restaurant E-commerce site</a
-        >
+          >Restaurant E-commerce site</a>
+          <br />
+          <br />
+          <a href="restaurant">
+            <img src="assets/icons/github.png" width="30px" height="30px"/>
+          </a>
       </td>
       <td>
         <a href="https://hampi-tourism-site-hb.netlify.app/">
@@ -68,8 +74,12 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
       </td>
       <td>
         <a href="https://hampi-tourism-site-hb.netlify.app/"
-          >Tourism Hampi</a
-        >
+          >Tourism Hampi</a>
+           <br />
+          <br />
+          <a href="restaurant">
+            <img src="assets/icons/github.png" width="30px" height="30px"/>
+          </a>
       </td>
     </tr>
     <tr>
@@ -83,17 +93,27 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
       </td>
       <td>
         <a href="https://video-app-hb.netlify.app/">Video App</a>
+        <br />
+          <br />
+          <a href="restaurant">
+           <img src="assets/icons/github.png" width="30px" height="30px"/>
+          </a>
       </td>
       <td>
         <a href="https://chat-app-merng.netlify.app/">
           <img
             src="assets/projects/chatapp.png"
             width="300px"
-          />
-        </a>
+          />      
       </td>
       <td>
         <a href="https://chat-app-merng.netlify.app/">Chat App</a>
+         </a>
+         <br />
+          <br />
+          <a href="restaurant">
+           <img src="assets/icons/github.png" width="30px" height="30px"/>
+          </a>
       </td>
     </tr>
     <td>
@@ -106,6 +126,12 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
     </td>
     <td>
       <a href="https://dating-site-frontend.netlify.app/">Dating Site</a>
+       </a>
+         <br />
+          <br />
+          <a href="restaurant">
+           <img src="assets/icons/github.png" width="30px" height="30px"/>
+          </a>
     </td>
     <td>
       <a href="https://salad-hb.netlify.app/">
@@ -118,6 +144,12 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
     </td>
     <td>
       <a href="https://salad-hb.netlify.app/">Salad site</a>
+       </a>
+         <br />
+          <br />
+          <a href="restaurant">
+           <img src="assets/icons/github.png" width="30px" height="30px"/>
+          </a>
     </td>
     <tr></tr>
     <tr>
@@ -131,6 +163,12 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
       </td>
       <td>
         <a href="https://agency-site-hb.netlify.app">Agency Site</a>
+         </a>
+         <br />
+          <br />
+          <a href="restaurant">
+           <img src="assets/icons/github.png" width="30px" height="30px"/>
+          </a>
       </td>
       <td>
         <a href="https://portfolio-hb.netlify.app/">
@@ -142,6 +180,12 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
       </td>
       <td>
         <a href="https://portfolio-hb.netlify.app/">Sample Portfolio</a>
+         </a>
+         <br />
+          <br />
+          <a href="restaurant">
+           <img src="assets/icons/github.png" width="30px" height="30px"/>
+          </a>
       </td>
     </tr>
      <tr>
@@ -155,6 +199,12 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
       </td>
       <td>
         <a href="https://recipes-homemade-hb.netlify.app/">Recipes Homemade</a>
+         </a>
+         <br />
+          <br />
+          <a href="restaurant">
+           <img src="assets/icons/github.png" width="30px" height="30px"/>
+          </a>
       </td>
       <td>
         <a href="https://messaging-app-frontend.web.app/">
@@ -162,14 +212,19 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
         </a>
       </td>
       <td>
-        <a href="https://messaging-app-frontend.web.app/">Messaging App
+        <a href="https://messaging-app-frontend.web.app/">Messaging App</a>
+         </a>
+         <br />
+          <br />
+          <a href="restaurant">
+           <img src="assets/icons/github.png" width="30px" height="30px"/>
+          </a>
       </td>        
     </tr>
   </tbody>
 </table>
 
 <br />
-
 
   <h2>Certifications</h2>  
 <table>
@@ -365,7 +420,6 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  
 
 <!--
 <h2>
