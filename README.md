@@ -1,6 +1,6 @@
 ## Hello, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-[![wazimu.png](https://i.postimg.cc/fy4B7PM5/wazimu.png)](https://hb-wazimu.netlify.app)
+[![wazimu.png](assets/projects/wazimu.png)](https://hb-wazimu.netlify.app)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9fef8153-c463-4241-8f68-3342069d4495/deploy-status)](https://app.netlify.com/sites/hb-wazimu/deploys)
 
@@ -40,10 +40,7 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<h2>
-<details>
-  <summary id="sample-projects">Sample Projects</summary>  
-
+<h2>Projects</h2>
 <table>
   <tbody>
     <tr>
@@ -51,7 +48,7 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
         <a href="https://restaurant-ecommerce.netlify.app/">
           <img
             width="300px"
-            src="https://i.postimg.cc/C5krYtGw/restaurant.png"
+            src="assets/projects/restaurant.png"
             alt="Restaurant E-commerce"
           />
         </a>
@@ -65,7 +62,7 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
         <a href="https://hampi-tourism-site-hb.netlify.app/">
           <img
             width="300px"
-            src="https://i.postimg.cc/d04DybCw/hampi-github.png"
+            src="assets/projects/hampi.png"
           />
         </a>
       </td>
@@ -79,7 +76,7 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
       <td>
         <a href="https://video-app-hb.netlify.app/">
           <img
-            src="https://i.postimg.cc/hvhPbT4D/video-app.png"
+            src="assets/projects/video-app.png"
             width="300px"
           />
         </a>
@@ -90,7 +87,7 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
       <td>
         <a href="https://chat-app-merng.netlify.app/">
           <img
-            src="https://i.postimg.cc/pXV9MXHd/chatapp.png"
+            src="assets/projects/chatapp.png"
             width="300px"
           />
         </a>
@@ -103,7 +100,7 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
       <a href="https://dating-site-frontend.netlify.app/">
         <img
           width="300px"
-          src="https://i.postimg.cc/Pf6TW2mL/dating-app-frontend.png"
+          src="assets/projects/dating-app-frontend.png"
         />
       </a>
     </td>
@@ -114,7 +111,7 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
       <a href="https://salad-hb.netlify.app/">
         <img
           width="300px"
-          src="https://i.postimg.cc/kGx1BgCd/salad.png"
+          src="assets/projects/salad.png"
           alt="Salad site"
         />
       </a>
@@ -128,7 +125,7 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
         <a href="https://agency-site-hb.netlify.app/">
           <img
             width="300px"
-            src="https://i.postimg.cc/k5GrbsFd/agency-site.png"
+            src="assets/projects/agency-site.png"
           />
         </a>
       </td>
@@ -139,7 +136,7 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
         <a href="https://portfolio-hb.netlify.app/">
           <img
             width="300px"
-            src="https://i.postimg.cc/1zDxGM1z/portfolio-hb.png"
+            src="assets/projects/portfolio-hb.png"
           />
         </a>
       </td>
@@ -147,15 +144,34 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
         <a href="https://portfolio-hb.netlify.app/">Sample Portfolio</a>
       </td>
     </tr>
+     <tr>
+       <td>
+        <a href="https://recipes-homemade-hb.netlify.app/">
+          <img
+            width="300px"
+            src="assets/projects/recipes.png"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://recipes-homemade-hb.netlify.app/">Recipes Homemade</a>
+      </td>
+      <td>
+        <a href="https://messaging-app-frontend.web.app/">
+          <img src="assets/projects/messaging2.png" width="300px" />
+        </a>
+      </td>
+      <td>
+        <a href="https://messaging-app-frontend.web.app/">Messaging App
+      </td>        
+    </tr>
   </tbody>
 </table>
-</details>
-</h2>
+
 <br />
 
-<h2>
-<details>
-  <summary>Certifications</summary>  
+
+  <h2>Certifications</h2>  
 <table>
   <tbody>
     <tr>
@@ -163,7 +179,7 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
         <a href="https://www.hackerrank.com/certificates/229ef084f60a">
           <img
             width="300px"
-            src="https://i.postimg.cc/SQwTvkJ4/hackerrank-js-basic.png"
+            src="assets/certificates/hackerrank js basic.png"
           />
         </a>
       </td>
@@ -175,7 +191,7 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
       <td>
         <a href="https://www.hackerrank.com/certificates/12d1fbc424ce">
           <img
-            src="https://i.postimg.cc/T2yN0p2Q/Hackerrankproblemsolving.png"
+            src="assets/certificates/Hackerrankproblemsolving.png"
             width="300px"
           />
         </a>
@@ -191,7 +207,7 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
         <a href="https://www.codechef.com/certificates/verify">
           <img
             width="300px"
-            src="https://i.postimg.cc/3W5vCLrM/snackdown2021.png"
+            src="assets/certificates/snackdown2021.png"
           />
         </a>
       </td>
@@ -203,7 +219,7 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
       <td>
         <a href="https://hb-wazimu.netlify.app/#certification">
           <img
-            src="https://i.postimg.cc/wvjc7bM0/googlekickstart.png"
+            src="assets/certificates/googlekickstart.png"
             width="300px"
           />
         </a>
@@ -219,7 +235,7 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
         >
           <img
             width="300px"
-            src="https://i.postimg.cc/FHXyjK1f/free-Code-Camp-frontend-dev-libs.png"
+            src="assets/certificates/freeCodeCamp frontend dev libs.png"
           />
         </a>
       </td>
@@ -234,7 +250,7 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
           href="https://www.freecodecamp.org/certification/wazimu/javascript-algorithms-and-data-structures"
         >
           <img
-            src="https://i.postimg.cc/qRFngJ9v/free-Code-Camp-JADS-certification.png"
+            src="assets/certificates/freeCodeCamp JADS certification.png"
             width="300px"
           />
         </a>
@@ -253,7 +269,7 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
         >
           <img
             width="300px"
-            src="https://i.postimg.cc/Y9DNgfmk/free-Code-Camp-RWD-certification.png"
+            src="assets/certificates/freeCodeCamp RWD certification.png"
           />
         </a>
       </td>
@@ -266,7 +282,7 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
       <td>
         <a href="https://hb-wazimu.netlify.app/#certification">
           <img
-            src="https://i.postimg.cc/9fJy5tbT/devfest2021.png"
+            src="assets/certificates/devfest2021.png"
             width="300px"
           />
         </a>
@@ -280,7 +296,7 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
         <a href="https://hb-wazimu.netlify.app/#certification">
           <img
             width="300px"
-            src="https://i.postimg.cc/zf5k1frm/googleanalytics.png"
+            src="assets/certificates/googleanalytics.png"
           />
         </a>
       </td>
