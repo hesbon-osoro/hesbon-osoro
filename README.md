@@ -42,7 +42,7 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<h2>Projects</h2>
+<h2 id="#sample-projects">Projects</h2>
 <table>
   <tbody>
     <tr>
