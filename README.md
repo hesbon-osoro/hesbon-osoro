@@ -111,7 +111,7 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
          </a>
          <br />
           <br />
-          <a href="restaurant">
+          <a href="https://github.com/wazimuhb/chat-app-merng-client">
            <img src="assets/icons/github.png" width="30px" height="30px"/>
           </a>
       </td>
