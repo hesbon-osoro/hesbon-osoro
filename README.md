@@ -95,7 +95,7 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
         <a href="https://video-app-hb.netlify.app/">Video App</a>
         <br />
           <br />
-          <a href="restaurant">
+          <a href="https://github.com/wazimuhb/video-app">
            <img src="assets/icons/github.png" width="30px" height="30px"/>
           </a>
       </td>
@@ -151,7 +151,7 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
            <img src="assets/icons/github.png" width="30px" height="30px"/>
           </a>
     </td>
-    <tr></tr>
+    </tr>
     <tr>
       <td>
         <a href="https://agency-site-hb.netlify.app/">
