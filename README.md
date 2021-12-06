@@ -60,7 +60,7 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
           >Restaurant E-commerce site</a>
           <br />
           <br />
-          <a href="restaurant">
+          <a href="https://github.com/wazimuhb/restaurant">
             <img src="assets/icons/github.png" width="30px" height="30px"/>
           </a>
       </td>
@@ -77,7 +77,7 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
           >Tourism Hampi</a>
            <br />
           <br />
-          <a href="restaurant">
+          <a href="https://github.com/wazimuhb/tourism-hampi">
             <img src="assets/icons/github.png" width="30px" height="30px"/>
           </a>
       </td>
@@ -129,7 +129,7 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
        </a>
          <br />
           <br />
-          <a href="restaurant">
+          <a href="https://github.com/wazimuhb/dating-app-frontend">
            <img src="assets/icons/github.png" width="30px" height="30px"/>
           </a>
     </td>
@@ -147,7 +147,7 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
        </a>
          <br />
           <br />
-          <a href="restaurant">
+          <a href="https://github.com/wazimuhb/salad">
            <img src="assets/icons/github.png" width="30px" height="30px"/>
           </a>
     </td>
@@ -166,7 +166,7 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
          </a>
          <br />
           <br />
-          <a href="restaurant">
+          <a href="https://github.com/wazimuhb/agency-site">
            <img src="assets/icons/github.png" width="30px" height="30px"/>
           </a>
       </td>
@@ -183,7 +183,7 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
          </a>
          <br />
           <br />
-          <a href="restaurant">
+          <a href="https://github.com/wazimuhb/portfolio-hb">
            <img src="assets/icons/github.png" width="30px" height="30px"/>
           </a>
       </td>
@@ -202,7 +202,7 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
          </a>
          <br />
           <br />
-          <a href="restaurant">
+          <a href="https://github.com/wazimuhb/recipes-homemade">
            <img src="assets/icons/github.png" width="30px" height="30px"/>
           </a>
       </td>
@@ -216,7 +216,7 @@ JSON         44 mins         ▒░░░░░░░░░░░░░░░░
          </a>
          <br />
           <br />
-          <a href="restaurant">
+          <a href="https://github.com/wazimuhb/messaging-app-frontend">
            <img src="assets/icons/github.png" width="30px" height="30px"/>
           </a>
       </td>        
