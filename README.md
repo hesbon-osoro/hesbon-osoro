@@ -31,15 +31,13 @@ I love interacting with bright people to help each other grow
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 <!--START_SECTION:waka-->
-
 ```text
-JSX          16 hrs 9 mins   █████████▓░░░░░░░░░░░░░░░   38.47 %
-JavaScript   15 hrs 16 mins  █████████░░░░░░░░░░░░░░░░   36.38 %
-SCSS         6 hrs 21 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 %
-Markdown     1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-JSON         44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+JavaScript   35 hrs 29 mins  ███████████████▓░░░░░░░░░   63.15 % 
+JSX          6 hrs 59 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Markdown     3 hrs 47 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+CSS          2 hrs 59 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+JSON         2 hrs 33 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
-
 <!--END_SECTION:waka-->
 
 <h2 id="sample-projects">Projects</h2>
