@@ -19,10 +19,11 @@ I am proficient in MERNG stack ( MongoDB, Express, React, Node, GraphQL).
 I have other experiences in developing websites using Firebase, MySQL, Gatsby, Contentful CMS, Snipcart, Python, Java, C.
 I have deployed several sites some of which am showcasing in the <a href="#sample-projects">Sample Projects</a> section. Feel free to contact me and let me be part of your developer team to create you an awesome product.
 
-I am a passionate developer and researcher who looks at things and desire to know why they work as they do,
-or on the contrary, why things don't get to work as they are supposed to be.
+<!-- I am a passionate developer and researcher who looks at things and desire to know why they work as they do, -->
+<!-- or on the contrary, why things don't get to work as they are supposed to be. -->
 
-I love interacting with bright people to help each other grow
+I code for the web, reach out
+<!-- I love interacting with bright people to help each other grow -->
 
 #### Top Technologies
 
