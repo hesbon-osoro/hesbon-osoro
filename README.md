@@ -33,11 +33,11 @@ I code for the web, reach out
 
 <!--START_SECTION:waka-->
 ```text
-JSX          25 hrs 4 mins   ██████████████▒░░░░░░░░░░   57.79 % 
-JavaScript   11 hrs 57 mins  ███████░░░░░░░░░░░░░░░░░░   27.56 % 
-Markdown     2 hrs 16 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-SCSS         1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
-CSS          49 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+JSX          20 hrs 25 mins  ███████████████▒░░░░░░░░░   61.57 % 
+JavaScript   9 hrs 5 mins    ███████░░░░░░░░░░░░░░░░░░   27.42 % 
+SCSS         1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+CSS          44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+JSON         34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 ```
 <!--END_SECTION:waka-->
 
