@@ -369,6 +369,19 @@ CSS          7 mins          ░░░░░░░░░░░░░░░░░
         <a href="https://g2w-certificates-prod.s3.amazonaws.com/live/g2w/7700960068697438731/7640172469593361931/certificate.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJ3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQC58E4EH4WRtkjB31O9pObGYHSpjPlFbBP8sHHFympgaQIgGyW7ptJJOavdwsl6iuhSyAUJ96jwYdtv1a7qBomiHRwqwgQIhv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2NjM5MTc0Mjk0MDgiDJxz6vFrcOaclPvcnSqWBAWygZ5TpaOdI5DiQDPVkJxa5chjGNoXs3h8oTZwQdRY%2ByTAyLCjPmb4F1NF9JRK6JGSwa5up2XuZQZTM%2BvNBoLBNCIvKqXCkW%2BqI0yKD2%2FF3sffb1fZQpcjNThn7cNywQ25l%2FFjnjbGsik8t%2BsfM5JVea%2BgLzGN1pLpP%2FYi0T8Ny2b23Q9OwMpAaEmLJbV7epzWIryLpxYrhTa560ixy2gGM9XVpM4Szp5ozRV5FF75OQ7uJJ2kcgZkc2LeY9J2%2BJej2Ji8RM5vAHDiI4TPRZdiuFC4DHFb8a84fu9j%2FL7sSy2WYOORRvWk5OJPl2l6hG95sz1Ue0WLvArYjAfzitppOIP1Q%2FxR%2F03i1MuUL%2FQYN4mQJ62acI3PmU9qCRaBvkB7iuMojrhib8SfQQSPz8aErvGaiqPOYdTbXyyq4NCS9OGrAKOi6IvlUn6jE%2FM9EoZ2ygodha1u3y2NPQZoi0bXikIid3wP6siwis2adjxOsVGnWgYSq8YMXIWvp4IGqre04pi9RYEHMNmrSfoPpAdZHMRWKcNGAPbf93AajK%2BmZq4WNWesHylqzqn2X3nYfHtYlNc9JMtRahaRpwJ7Bl2rcHx82fLlc755ehOgqrw5rjrj71Epcd%2BX83tQZsw3VtAjd5GszFuJxRwsS4MZaUQD42jK4doaFVulrC%2FbaRMR%2Fr3zixlVv3EhgU1Rw6tVl8a3trci%2BzDNgeuNBjqmATmrfQRf41w0aR6sxYGudZcB2MmMel9HOH6tMgxjp7OR8DgtOmYd7wcKHz%2BSwkINCHr8xsE33ioEuyxYMwHfIe7%2BOSbeaAaQx9zcNWxtU%2FskqptIoUuad98rLAqlh5TtvUyKnwgRqyMHHyhGCn2MstKqmuJA1A6Iq0AJ%2BcmVUsAfDhPWkATaHvn9yJEZ1mu%2BXwBrwpEVlR8vqpytV3j93bmnmPc0SSc%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20211216T080432Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3599&X-Amz-Credential=ASIAZVFEQAKQDV56DP6R%2F20211216%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=77b8aec4a18c41909799eae9a037f45d7c5c0444875f853388ae88d6793132a5">Verify</a>
       </td>
     </tr>
+    <tr>
+    <td>
+        <a href="https://hb-wazimu.netlify.app/#certification">
+          <img
+            src="assets/certificates/hesbon-twd.png"
+            width="300px"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://hb-wazimu.netlify.app/#certification">Verify</a>
+      </td>
+    </tr>
   </tbody>
 </table>
 </details>
