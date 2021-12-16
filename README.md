@@ -357,6 +357,17 @@ CSS          7 mins          ░░░░░░░░░░░░░░░░░
       <td>
         <a href="https://hb-wazimu.netlify.app/#certification">Verify</a>
       </td>
+      <td>
+        <a href="https://hb-wazimu.netlify.app/#certification">
+          <img
+            width="300px"
+            src="assets/certificates/AWS practitioner.png"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://hb-wazimu.netlify.app/#certification">Verify</a>
+      </td>
     </tr>
   </tbody>
 </table>
