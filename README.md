@@ -19,10 +19,11 @@ I am proficient in MERNG stack ( MongoDB, Express, React, Node, GraphQL).
 I have other experiences in developing websites using Firebase, MySQL, Gatsby, Contentful CMS, Snipcart, Python, Java, C.
 I have deployed several sites some of which am showcasing in the <a href="#sample-projects">Sample Projects</a> section. Feel free to contact me and let me be part of your developer team to create you an awesome product.
 
-I am a passionate developer and researcher who looks at things and desire to know why they work as they do,
-or on the contrary, why things don't get to work as they are supposed to be.
+<!-- I am a passionate developer and researcher who looks at things and desire to know why they work as they do, -->
+<!-- or on the contrary, why things don't get to work as they are supposed to be. -->
 
-I love interacting with bright people to help each other grow
+I code for the web, reach out
+<!-- I love interacting with bright people to help each other grow -->
 
 #### Top Technologies
 
@@ -31,15 +32,13 @@ I love interacting with bright people to help each other grow
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 <!--START_SECTION:waka-->
-
 ```text
-JSX          16 hrs 9 mins   █████████▓░░░░░░░░░░░░░░░   38.47 %
-JavaScript   15 hrs 16 mins  █████████░░░░░░░░░░░░░░░░   36.38 %
-SCSS         6 hrs 21 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 %
-Markdown     1 hr 28 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-JSON         44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+JSX          14 hrs 32 mins  ██████████████████▒░░░░░░   73.73 % 
+JavaScript   2 hrs 30 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.68 % 
+SCSS         1 hr 9 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Markdown     1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+CSS          7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 ```
-
 <!--END_SECTION:waka-->
 
 <h2 id="sample-projects">Projects</h2>
