@@ -6,11 +6,9 @@
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fhb-wazimu.netlify.app%2F)
 
-<h1>Check out: 
-  <a href="https://hb-wazimu.netlify.app/" rel="noreferer noopener" target="_blank">
-  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-</h1>
+## Check out:
+
+[Firebase](https://wazimu-6cb19.web.app/) or [Netlify](https://hb-wazimu.netlify.app/) deployed portfolios.
 
 ## I'm Hesbon aka Wazimu
 
