@@ -31,11 +31,11 @@ I code for the web, reach out
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     1 hr 17 mins    ███████████░░░░░░░░░░░░░░   43.90 % 
-JavaScript   48 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.29 % 
-JSX          36 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.70 % 
-Other        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-JSON         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Markdown     1 hr 15 mins    ███████████░░░░░░░░░░░░░░   43.39 % 
+JSX          36 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.04 % 
+JavaScript   33 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.16 % 
+Python       22 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 <!--END_SECTION:waka-->
 
