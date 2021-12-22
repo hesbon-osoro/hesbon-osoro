@@ -21,6 +21,11 @@ I have deployed several sites some of which am showcasing in the <a href="#sampl
 <!-- or on the contrary, why things don't get to work as they are supposed to be. -->
 
 I code for the web, reach out
+
+Clients: Let's talk about your project.
+
+Developers: Let's share ideas, connections, ...
+
 <!-- I love interacting with bright people to help each other grow -->
 
 #### Top Technologies
