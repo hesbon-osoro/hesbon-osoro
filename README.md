@@ -506,4 +506,4 @@ CSS          2 mins          ▒░░░░░░░░░░░░░░░░
 
 [![Image of https://github.com/wazimuhb/wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/wazimuhb/wazimu-views-counter)
 
-Leave a star as you leave
+Give a star to the repos
