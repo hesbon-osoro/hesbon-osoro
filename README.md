@@ -35,11 +35,11 @@ Developers: Let's share ideas, connections, ...
 ### Top 4 Recent Activity on Languages
 <!--START_SECTION:waka-->
 ```text
-TypeScript   5 hrs 20 mins   ██████████████████░░░░░░░   72.02 % 
-JSON         42 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Markdown     34 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-CSS          22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Other        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+TypeScript   4 hrs 59 mins   █████████████░░░░░░░░░░░░   52.28 % 
+JavaScript   2 hrs 33 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.81 % 
+JSON         43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Markdown     36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+CSS          22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 ```
 <!--END_SECTION:waka-->
 
