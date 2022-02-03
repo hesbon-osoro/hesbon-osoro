@@ -500,7 +500,7 @@ CSS          56 mins         █░░░░░░░░░░░░░░░░
 
 ### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=hesbon-osoro.github-profile&left_color=green&right_color=red&theme=dark&title_color=009933)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=wazimuhb.github-profile&left_color=green&right_color=red&theme=dark&title_color=009933)
 
 ### Unique Views
 
