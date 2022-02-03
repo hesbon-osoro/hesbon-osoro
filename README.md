@@ -4,9 +4,9 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9fef8153-c463-4241-8f68-3342069d4495/deploy-status)](https://app.netlify.com/sites/hb-wazimu/deploys)
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fhb-wazimu.netlify.app%2F)
+<!-- ![Website](https://img.shields.io/website?url=https%3A%2F%2Fhb-wazimu.netlify.app%2F)
 
-## Check out:
+## Check out: -->
 
 [Firebase](https://wazimu-6cb19.web.app/) or [Netlify](https://hb-wazimu.netlify.app/) deployed portfolios.
 
@@ -497,11 +497,11 @@ CSS          56 mins         █░░░░░░░░░░░░░░░░
 [![Wazimu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wazimu&theme=dark&title_color=009933)](https://github.com/hesbon-osoro/hesbon-osoro)
 
 [![wakatime](https://wakatime.com/badge/user/26cc90f6-22da-4220-ac7d-f452b6324239.svg)](https://wakatime.com/@26cc90f6-22da-4220-ac7d-f452b6324239)
-
+<!-- 
 ### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wazimuhb.github-profile&left_color=green&right_color=red&theme=dark&title_color=009933)
-
+ -->
 ### Unique Views
 
 [![Image of https://github.com/hesbon-osoro/wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/hesbon-osoro/wazimu-views-counter)
