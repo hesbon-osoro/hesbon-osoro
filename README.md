@@ -12,7 +12,7 @@
 
 ## I'm Hesbon aka Wazimu
 
-I am a JavaScript Fullstack Web Developer with 4+ years in Software Development.
+JavaScript Fullstack Web Developer with 4+ years in Software Development.
 I am proficient in MERNG stack ( MongoDB, Express, React, Node, GraphQL).
 I have other experiences in developing websites using Firebase, MySQL, Gatsby, Contentful CMS, Snipcart, Python, Java, C.
 I have deployed several sites some of which am showcasing in the <a href="#sample-projects">Sample Projects</a> section. Feel free to contact me and let me be part of your developer team to create you an awesome product.
