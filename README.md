@@ -61,7 +61,7 @@ CSS          56 mins         █░░░░░░░░░░░░░░░░
           >Restaurant E-commerce site</a>
           <br />
           <br />
-          <a href="https://github.com/wazimuhb/restaurant">
+          <a href="https://github.com/hesbon-osoro/restaurant">
             <img src="assets/icons/github.png" width="30px" height="30px"/>
           </a>
       </td>
@@ -78,7 +78,7 @@ CSS          56 mins         █░░░░░░░░░░░░░░░░
           >Tourism Hampi</a>
            <br />
           <br />
-          <a href="https://github.com/wazimuhb/tourism-hampi">
+          <a href="https://github.com/hesbon-osoro/tourism-hampi">
             <img src="assets/icons/github.png" width="30px" height="30px"/>
           </a>
       </td>
@@ -96,7 +96,7 @@ CSS          56 mins         █░░░░░░░░░░░░░░░░
         <a href="https://video-app-hb.netlify.app/">Video App</a>
         <br />
           <br />
-          <a href="https://github.com/wazimuhb/video-app">
+          <a href="https://github.com/hesbon-osoro/video-app">
            <img src="assets/icons/github.png" width="30px" height="30px"/>
           </a>
       </td>
@@ -112,7 +112,7 @@ CSS          56 mins         █░░░░░░░░░░░░░░░░
          </a>
          <br />
           <br />
-          <a href="https://github.com/wazimuhb/chat-app-merng-client">
+          <a href="https://github.com/hesbon-osoro/chat-app-merng-client">
            <img src="assets/icons/github.png" width="30px" height="30px"/>
           </a>
       </td>
@@ -130,7 +130,7 @@ CSS          56 mins         █░░░░░░░░░░░░░░░░
        </a>
          <br />
           <br />
-          <a href="https://github.com/wazimuhb/dating-app-frontend">
+          <a href="https://github.com/hesbon-osoro/dating-app-frontend">
            <img src="assets/icons/github.png" width="30px" height="30px"/>
           </a>
     </td>
@@ -148,7 +148,7 @@ CSS          56 mins         █░░░░░░░░░░░░░░░░
        </a>
          <br />
           <br />
-          <a href="https://github.com/wazimuhb/salad">
+          <a href="https://github.com/hesbon-osoro/salad">
            <img src="assets/icons/github.png" width="30px" height="30px"/>
           </a>
     </td>
@@ -167,7 +167,7 @@ CSS          56 mins         █░░░░░░░░░░░░░░░░
          </a>
          <br />
           <br />
-          <a href="https://github.com/wazimuhb/agency-site">
+          <a href="https://github.com/hesbon-osoro/agency-site">
            <img src="assets/icons/github.png" width="30px" height="30px"/>
           </a>
       </td>
@@ -184,7 +184,7 @@ CSS          56 mins         █░░░░░░░░░░░░░░░░
          </a>
          <br />
           <br />
-          <a href="https://github.com/wazimuhb/portfolio-hb">
+          <a href="https://github.com/hesbon-osoro/portfolio-hb">
            <img src="assets/icons/github.png" width="30px" height="30px"/>
           </a>
       </td>
@@ -203,7 +203,7 @@ CSS          56 mins         █░░░░░░░░░░░░░░░░
          </a>
          <br />
           <br />
-          <a href="https://github.com/wazimuhb/recipes-homemade">
+          <a href="https://github.com/hesbon-osoro/recipes-homemade">
            <img src="assets/icons/github.png" width="30px" height="30px"/>
           </a>
       </td>
@@ -217,7 +217,7 @@ CSS          56 mins         █░░░░░░░░░░░░░░░░
          </a>
          <br />
           <br />
-          <a href="https://github.com/wazimuhb/messaging-app-frontend">
+          <a href="https://github.com/hesbon-osoro/messaging-app-frontend">
            <img src="assets/icons/github.png" width="30px" height="30px"/>
           </a>
       </td>        
@@ -403,7 +403,7 @@ CSS          56 mins         █░░░░░░░░░░░░░░░░
  <a href="mailto:hesbonosoro1@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>&nbsp;&nbsp;
-  <a href="https://t.me/wazimuhb">
+  <a href="https://t.me/hesbon-osoro">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
  </a> &nbsp;&nbsp;
 </p>
@@ -412,10 +412,10 @@ CSS          56 mins         █░░░░░░░░░░░░░░░░
   <a href="https://twitter.com/wazimu_hb">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://github.com/wazimuhb">
+  <a href="https://github.com/hesbon-osoro">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
   </a>&nbsp;&nbsp;
- <a href="https://www.reddit.com/user/wazimuhb">
+ <a href="https://www.reddit.com/user/hesbon-osoro">
   <img src="	https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
  </a>&nbsp;&nbsp;
  <a href="https://www.youtube.com/channel/UCgHKQfyNh8thOZtS4kfQG-A">
@@ -462,48 +462,48 @@ CSS          56 mins         █░░░░░░░░░░░░░░░░
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/wazimu_hb?style=social)
 
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/wazimuhb?style=social)
+![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/hesbon-osoro?style=social)
 
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCgHKQfyNh8thOZtS4kfQG-A?style=social)
 
-![GitHub followers](https://img.shields.io/github/followers/wazimuhb?style=social)
+![GitHub followers](https://img.shields.io/github/followers/hesbon-osoro?style=social)
 
-![GitHub User's stars](https://img.shields.io/github/stars/wazimuhb?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/hesbon-osoro?style=social)
 
-![GitHub watchers](https://img.shields.io/github/watchers/wazimuhb/wazimuhb?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/hesbon-osoro/hesbon-osoro?style=social)
 
 ## Contribution Graph
 
 <p>
-  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=wazimuhb&theme=github" alt="wazimu" />
+  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=hesbon-osoro&theme=github" alt="wazimu" />
 </p>
 &nbsp;
 <br />
 
 ### 🏆 <!--My Trophies-->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=wazimuhb&theme=onedark&no-bg=false&count_private=true)](https://github.com/wazimuhb/wazimuhb)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hesbon-osoro&theme=onedark&no-bg=false&count_private=true)](https://github.com/hesbon-osoro/hesbon-osoro)
 
 <!--### Github Stats-->
 
-![Wazimu's GitHub stats](https://github-readme-stats.vercel.app/api?username=wazimuhb&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
+![Wazimu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hesbon-osoro&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
 
 <!--### Github extra pins-->
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wazimuhb&repo=wazimuhb&theme=dark&title_color=009933)](https://github.com/wazimuhb/wazimuhb&show_owner=true&count_private=true)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hesbon-osoro&repo=hesbon-osoro&theme=dark&title_color=009933)](https://github.com/hesbon-osoro/hesbon-osoro&show_owner=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wazimuhb&layout=compact&theme=dark&title_color=009933)](https://github.com/wazimuhb/wazimuhb)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesbon-osoro&layout=compact&theme=dark&title_color=009933)](https://github.com/hesbon-osoro/hesbon-osoro)
 
-[![Wazimu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wazimu&theme=dark&title_color=009933)](https://github.com/wazimuhb/wazimuhb)
+[![Wazimu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wazimu&theme=dark&title_color=009933)](https://github.com/hesbon-osoro/hesbon-osoro)
 
 [![wakatime](https://wakatime.com/badge/user/26cc90f6-22da-4220-ac7d-f452b6324239.svg)](https://wakatime.com/@26cc90f6-22da-4220-ac7d-f452b6324239)
 
 ### Profile Visits
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wazimuhb.github-profile&left_color=green&right_color=red&theme=dark&title_color=009933)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hesbon-osoro.github-profile&left_color=green&right_color=red&theme=dark&title_color=009933)
 
 ### Unique Views
 
-[![Image of https://github.com/wazimuhb/wazimu-views-counter](https://github.com/wazimuhb/wazimu-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/wazimuhb/wazimu-views-counter)
+[![Image of https://github.com/hesbon-osoro/wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/hesbon-osoro/wazimu-views-counter)
 
-Give a star to [here](https://github.com/wazimuhb?tab=repositories)
+Give a star to [here](https://github.com/hesbon-osoro?tab=repositories)
