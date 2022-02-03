@@ -460,7 +460,7 @@ CSS          56 mins         █░░░░░░░░░░░░░░░░
   </details>
  </h2> -->
 
-![Twitter Follow](https://img.shields.io/twitter/follow/wazimu_hb?style=social)
+<!-- ![Twitter Follow](https://img.shields.io/twitter/follow/wazimu_hb?style=social)
 
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/hesbon-osoro?style=social)
 
@@ -471,7 +471,7 @@ CSS          56 mins         █░░░░░░░░░░░░░░░░
 ![GitHub User's stars](https://img.shields.io/github/stars/hesbon-osoro?style=social)
 
 ![GitHub watchers](https://img.shields.io/github/watchers/hesbon-osoro/hesbon-osoro?style=social)
-
+ -->
 ## Contribution Graph
 
 <p>
