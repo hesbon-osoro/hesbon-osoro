@@ -423,7 +423,7 @@ CSS          56 mins         █░░░░░░░░░░░░░░░░
  </a>&nbsp;&nbsp;
 </p>
 
-<h1> Skills</h1>
+<!-- <h1> Skills</h1>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -449,7 +449,7 @@ CSS          56 mins         █░░░░░░░░░░░░░░░░
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+ -->
 <!--
 <h2>
   <details>
