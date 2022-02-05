@@ -498,4 +498,4 @@ CSS          56 mins         █░░░░░░░░░░░░░░░░
 
 [![Image of https://github.com/hesbon-osoro/wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/hesbon-osoro/wazimu-views-counter)
 
-Give a star to [here](https://github.com/hesbon-osoro?tab=repositories)
+Star the projects [here](https://github.com/hesbon-osoro?tab=repositories)
