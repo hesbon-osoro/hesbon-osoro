@@ -26,13 +26,16 @@ I have deployed several sites some of which am showcasing in the <a href="#sampl
 
 ### Top Recent Activity on Languages
 <!--START_SECTION:waka-->
+
 ```text
-JavaScript   8 hrs 46 mins   ██████████████████░░░░░░░   71.46 % 
-CSS          1 hr 22 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Markdown     56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-TypeScript   23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Bash         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+JavaScript   8 hrs 46 mins   ██████████████████░░░░░░░   72.40 %
+CSS          1 hr 22 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
+Markdown     50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+TypeScript   23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+Bash         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+JSON         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
+
 <!--END_SECTION:waka-->
 
 ### Experience
