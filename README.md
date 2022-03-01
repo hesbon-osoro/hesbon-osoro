@@ -28,12 +28,12 @@ I have deployed several sites some of which am showcasing in the <a href="#sampl
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   8 hrs 46 mins   ██████████████████░░░░░░░   72.40 %
-CSS          1 hr 22 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
-Markdown     50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-TypeScript   23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-Bash         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-JSON         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+JavaScript   8 hrs 46 mins   ██████████████▒░░░░░░░░░░   57.91 %
+TypeScript   3 hrs 58 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.18 %
+CSS          1 hr 29 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
+Markdown     34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
