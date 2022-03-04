@@ -28,11 +28,11 @@ I have deployed several sites some of which am showcasing in the <a href="#sampl
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   8 hrs 47 mins   █████████████▒░░░░░░░░░░░   53.16 %
-TypeScript   5 hrs 3 mins    ███████▓░░░░░░░░░░░░░░░░░   30.59 %
-CSS          1 hr 29 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
-Markdown     40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+JavaScript   6 hrs 22 mins   ███████████▓░░░░░░░░░░░░░   46.51 %
+TypeScript   4 hrs 42 mins   ████████▓░░░░░░░░░░░░░░░░   34.30 %
+CSS          1 hr 29 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
+Markdown     40 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
+Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
