@@ -24,7 +24,7 @@ I have deployed several sites some of which am showcasing in the <a href="#sampl
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
-### Top Recent Activity on Languages
+### Weekly development breakdown
 <!--START_SECTION:waka-->
 
 ```text
@@ -390,6 +390,17 @@ Other        8 mins          ▒░░░░░░░░░░░░░░░░
         <a href="https://hb-wazimu.netlify.app/#certification">
           <img
             src="assets/certificates/hesbon-twd.png"
+            width="300px"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://hb-wazimu.netlify.app/#certification">Verify</a>
+      </td>
+      <td>
+        <a href="https://hb-wazimu.netlify.app/#certification">
+          <img
+            src="assets/certificates/AWS Elastic Beanstalk(intro).png"
             width="300px"
           />
         </a>
