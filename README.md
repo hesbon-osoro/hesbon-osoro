@@ -24,15 +24,18 @@ I have deployed several sites some of which am showcasing in the <a href="#sampl
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
-### 📊 Weekly development breakdown
+### 📊 Monthly development breakdown
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   7 hrs 34 mins   █████████████░░░░░░░░░░░░   52.00 %
-JavaScript   4 hrs 56 mins   ████████▒░░░░░░░░░░░░░░░░   33.92 %
-CSS          1 hr 24 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.66 %
-Markdown     23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+From: 06 February 2022 - To: 08 March 2022
+
+TypeScript   17 hrs 36 mins  ████████████▒░░░░░░░░░░░░   49.20 %
+JavaScript   11 hrs 13 mins  ████████░░░░░░░░░░░░░░░░░   31.36 %
+CSS          2 hrs 40 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+Markdown     2 hrs 8 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
+JSON         44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+HTML         34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
 ```
 
 <!--END_SECTION:waka-->
