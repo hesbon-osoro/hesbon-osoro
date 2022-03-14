@@ -10,6 +10,8 @@
 
 [Firebase](https://wazimu-6cb19.web.app/) or [Netlify](https://hb-wazimu.netlify.app/) deployed portfolios.
 
+[Google](https://g.dev/hesbon-osoro)
+
 ## I'm Hesbon aka Wazimu
 
 An avid programmer and fast learner. Obsessed with detail and quality.
