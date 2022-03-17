@@ -30,14 +30,14 @@ I have deployed several sites some of which am showcasing in the <a href="#sampl
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 February 2022 - To: 15 March 2022
+From: 14 February 2022 - To: 16 March 2022
 
-TypeScript         27 hrs 6 mins   ████████████░░░░░░░░░░░░░   47.76 %
-JavaScript         15 hrs 6 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.64 %
-CSS                3 hrs 51 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
-Markdown           3 hrs 38 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.41 %
-JSON               2 hrs 21 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
-GraphQL            1 hr 26 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+TypeScript         31 hrs 3 mins   ███████████▓░░░░░░░░░░░░░   46.42 %
+JavaScript         16 hrs 5 mins   ██████░░░░░░░░░░░░░░░░░░░   24.05 %
+CSS                6 hrs 29 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
+Markdown           3 hrs 51 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+HTML               2 hrs 29 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+JSON               2 hrs 28 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
 ```
 
 <!--END_SECTION:waka-->
