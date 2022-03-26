@@ -30,7 +30,7 @@ I have deployed several sites some of which am showcasing in the <a href="#sampl
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 February 2022 - To: 24 March 2022
+From: 23 February 2022 - To: 25 March 2022
 
 TypeScript         45 hrs 32 mins  █████████████░░░░░░░░░░░░   52.44 %
 JavaScript         17 hrs 19 mins  █████░░░░░░░░░░░░░░░░░░░░   19.96 %
