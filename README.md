@@ -20,13 +20,14 @@ simple and elegant solutions to every problem. I am seeking a position in a
 growth-oriented company where I can use my skills to the advantage of the
 company while having the scope to develop my skills.
 
-I have deployed several sites some of which am showcasing in the <a href="#sample-projects">Sample Projects</a> section. 
+I have deployed several sites some of which am showcasing in the <a href="#sample-projects">Sample Projects</a> section.
 
 #### Top Technologies
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 ### 📊 Monthly development breakdown
+
 <!--START_SECTION:waka-->
 
 ```text
@@ -414,6 +415,19 @@ Markdown           3 hrs 22 mins   █░░░░░░░░░░░░░░
         <a href="https://hb-wazimu.netlify.app/#certification">Verify</a>
       </td>
     </tr>
+     <tr>
+    <td>
+        <a href="https://hb-wazimu.netlify.app/#certification">
+          <img
+            src="assets/certificates/google code jam2022.png "
+            width="300px"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://hb-wazimu.netlify.app/#certification">Verify</a>
+      </td>
+     </tr>
   </tbody>
 </table>
 </details>
@@ -502,6 +516,7 @@ Markdown           3 hrs 22 mins   █░░░░░░░░░░░░░░
 
 ![GitHub watchers](https://img.shields.io/github/watchers/hesbon-osoro/hesbon-osoro?style=social)
  -->
+
 ## Contribution Graph
 
 <p>
@@ -527,11 +542,13 @@ Markdown           3 hrs 22 mins   █░░░░░░░░░░░░░░
 [![Wazimu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wazimu&theme=dark&title_color=009933)](https://github.com/hesbon-osoro/hesbon-osoro)
 
 [![wakatime](https://wakatime.com/badge/user/26cc90f6-22da-4220-ac7d-f452b6324239.svg)](https://wakatime.com/@26cc90f6-22da-4220-ac7d-f452b6324239)
-<!-- 
+
+<!--
 ### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=wazimuhb.github-profile&left_color=green&right_color=red&theme=dark&title_color=009933)
  -->
+
 ### Unique Views
 
 [![Image of https://github.com/hesbon-osoro/wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/hesbon-osoro/wazimu-views-counter)
