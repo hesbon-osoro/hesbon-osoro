@@ -436,7 +436,7 @@ Other        57 mins         ▒░░░░░░░░░░░░░░░░
         </a>
       </td>
       <td>
-        <a href="https://hb-wazimu.netlify.app/#certification">Verify</a>
+        <a href="https://code.org/congrats?i=_1_18e783d40c7c6f10271c6612c21a4c65">Verify</a>
       </td>
      </tr>
   </tbody>
