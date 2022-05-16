@@ -427,6 +427,17 @@ Markdown           3 hrs 22 mins   █░░░░░░░░░░░░░░
       <td>
         <a href="https://hb-wazimu.netlify.app/#certification">Verify</a>
       </td>
+       <td>
+        <a href="https://hb-wazimu.netlify.app/#certification">
+          <img
+            src="assets/certificates/hourofcode.jpg "
+            width="300px"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://hb-wazimu.netlify.app/#certification">Verify</a>
+      </td>
      </tr>
   </tbody>
 </table>
