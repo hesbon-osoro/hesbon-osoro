@@ -419,18 +419,7 @@ Other        57 mins         ▒░░░░░░░░░░░░░░░░
     <td>
         <a href="https://hb-wazimu.netlify.app/#certification">
           <img
-            src="assets/certificates/google code jam2022.png "
-            width="300px"
-          />
-        </a>
-      </td>
-      <td>
-        <a href="https://hb-wazimu.netlify.app/#certification">Verify</a>
-      </td>
-       <td>
-        <a href="https://hb-wazimu.netlify.app/#certification">
-          <img
-            src="assets/certificates/hourofcode.jpg "
+            src="assets/certificates/hourofcode.jpg"
             width="300px"
           />
         </a>
