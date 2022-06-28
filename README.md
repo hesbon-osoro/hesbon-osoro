@@ -14,11 +14,13 @@
 
 ## I'm Hesbon aka Wazimu
 
-An avid programmer and fast learner. Obsessed with detail and quality.
+I am a motivated software engineer with 3+ years experience in building web applications. I don't just write code, I really fancy problem-solving and collaborating with various stakeholders. I am currently looking for new and challenging opportunities that help me become a better engineer.
+
+<!-- An avid programmer and fast learner. Obsessed with detail and quality.
 Always trying to improve development and communication processes. I love
 simple and elegant solutions to every problem. I am seeking a position in a
 growth-oriented company where I can use my skills to the advantage of the
-company while having the scope to develop my skills.
+company while having the scope to develop my skills. -->
 
 I have deployed several sites some of which am showcasing in the <a href="#sample-projects">Sample Projects</a> section.
 
