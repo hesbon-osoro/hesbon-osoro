@@ -14,7 +14,7 @@
 
 ## I'm Hesbon aka Wazimu
 
-I am a motivated software engineer with 3+ years experience in building web applications. I don't just write code, I really fancy problem-solving and collaborating with various stakeholders. I am currently looking for new and challenging opportunities that help me become a better engineer.
+I am a motivated software engineer with 3+ years of experience in building web applications. I don't just write code, I really fancy problem-solving and collaborating with various stakeholders. I am currently looking for new and challenging opportunities that help me become a better engineer.
 
 <!-- An avid programmer and fast learner. Obsessed with detail and quality.
 Always trying to improve development and communication processes. I love
