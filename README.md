@@ -531,9 +531,12 @@ Bash         49 mins         ▓░░░░░░░░░░░░░░░░
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hesbon-osoro&theme=onedark&no-bg=false&count_private=true)](https://github.com/hesbon-osoro/hesbon-osoro)
 
+
 <!--### Github Stats-->
 
 ![Wazimu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hesbon-osoro&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
+
+<p><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=hesbon-osoro&theme=dark" /></p>      
 
 <!--### Github extra pins-->
 
@@ -545,14 +548,15 @@ Bash         49 mins         ▓░░░░░░░░░░░░░░░░
 
 [![wakatime](https://wakatime.com/badge/user/26cc90f6-22da-4220-ac7d-f452b6324239.svg)](https://wakatime.com/@26cc90f6-22da-4220-ac7d-f452b6324239)
 
-<!--
-### Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wazimuhb.github-profile&left_color=green&right_color=red&theme=dark&title_color=009933)
- -->
 
 ### Unique Views
 
 [![Image of https://github.com/hesbon-osoro/wazimu-views-counter](https://github.com/hesbon-osoro/wazimu-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/hesbon-osoro/wazimu-views-counter)
+
+<p>
+  <a href="https://github.com/hesbon-osoro?tab=followers">
+    <img src="https://img.shields.io/github/followers/hesbon-osoro?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+</p>
 
 ### Star my projects [here](https://github.com/hesbon-osoro?tab=repositories)
