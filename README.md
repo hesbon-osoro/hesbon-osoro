@@ -12,6 +12,14 @@
 
 [Google](https://g.dev/hesbon-osoro)
 
+```mermaid
+pie title Typical Daily Activities
+    "Coding" : 15
+    "Debugging" : 45
+    "Googling" : 35
+    "Other": 5
+```
+
 ## I'm Hesbon aka Wazimu
 
 I am a motivated software engineer with 3+ years of experience in building web applications. I don't just write code, I really fancy problem-solving and collaborating with various stakeholders. I am currently looking for new and challenging opportunities that help me become a better engineer.
@@ -562,5 +570,6 @@ Bash         33 mins         ▒░░░░░░░░░░░░░░░░
 ### 😂 Here is a random joke for you today: -
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 ### Star my projects [here](https://github.com/hesbon-osoro?tab=repositories)
