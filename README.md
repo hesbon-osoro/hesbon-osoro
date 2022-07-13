@@ -20,7 +20,7 @@ pie title Typical Daily Activities
     "Other": 5
 ```
 
-## I'm Hesbon aka Wazimu
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2FA4D7&height=30&lines=I'm+Hesbon;A.K.A+Wazimu)](https://git.io/typing-svg)
 
 I am a motivated software engineer with 3+ years of experience in building web applications. I don't just write code, I really fancy problem-solving and collaborating with various stakeholders. I am currently looking for new and challenging opportunities that help me become a better engineer.
 
