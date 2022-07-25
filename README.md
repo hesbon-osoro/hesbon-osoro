@@ -41,7 +41,7 @@ I have deployed several sites some of which am showcasing in the <a href="#sampl
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 June 2022 - To: 23 July 2022
+From: 24 June 2022 - To: 24 July 2022
 
 JavaScript   14 hrs 58 mins  █████████████▓░░░░░░░░░░░   54.58 %
 CSS          5 hrs 34 mins   █████░░░░░░░░░░░░░░░░░░░░   20.32 %
