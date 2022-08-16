@@ -41,14 +41,14 @@ I have deployed several sites some of which am showcasing in the <a href="#sampl
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 June 2022 - To: 24 July 2022
+From: 16 July 2022 - To: 15 August 2022
 
-JavaScript   14 hrs 58 mins  █████████████▓░░░░░░░░░░░   54.58 %
-CSS          5 hrs 34 mins   █████░░░░░░░░░░░░░░░░░░░░   20.32 %
-JSON         2 hrs 28 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
-TypeScript   1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
-Markdown     1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-Other        24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+JavaScript   22 hrs 38 mins  ███████████████▒░░░░░░░░░   61.87 %
+CSS          4 hrs 42 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
+Markdown     3 hrs 9 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
+JSON         1 hr 58 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+HTML         1 hr 53 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
+SCSS         1 hr 33 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
 ```
 
 <!--END_SECTION:waka-->
