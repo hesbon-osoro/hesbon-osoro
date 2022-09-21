@@ -575,4 +575,4 @@ Bash         1 hr 4 mins     ▒░░░░░░░░░░░░░░░░
 ### Star my projects [here](https://github.com/hesbon-osoro?tab=repositories)
 :relaxed:__Follow for Follow back__:relaxed:
 
-## <Roles?? Ping Me!>
+## <Roles || Offers?? [`Connect`](https://linkedin.com/in/hesbon-osoro) Me!>
