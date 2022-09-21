@@ -576,3 +576,5 @@ Bash         1 hr 4 mins     ▒░░░░░░░░░░░░░░░░
 :relaxed:__Follow for Follow back__:relaxed:
 
 ## <Roles || Offers?? [`Connect`](https://linkedin.com/in/hesbon-osoro) Me!>
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/wazimu)
+
