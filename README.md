@@ -575,6 +575,7 @@ Bash         1 hr 4 mins     ▒░░░░░░░░░░░░░░░░
 ### Star my projects [here](https://github.com/hesbon-osoro?tab=repositories)
 :relaxed:__Follow for Follow back__:relaxed:
 
-## <Roles || Offers?? [`Connect`](https://linkedin.com/in/hesbon-osoro) Me!>
+## <Roles || Offers || Opportunities?? [`Connect`](https://linkedin.com/in/hesbon-osoro) Me! ---WorkFromHome--->
+
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/wazimu)
 
