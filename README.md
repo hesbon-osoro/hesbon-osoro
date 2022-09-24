@@ -552,10 +552,11 @@ Bash         1 hr 4 mins     ▒░░░░░░░░░░░░░░░░
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesbon-osoro&layout=compact&theme=dark&title_color=009933)](https://github.com/hesbon-osoro/hesbon-osoro)
 
+![LeetCode Stats](https://leetcode.card.workers.dev/hesbon-osoro?theme=dark&font=source_code_pro&extension=null)
+
 [![Wazimu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wazimu&theme=dark&title_color=009933)](https://github.com/hesbon-osoro/hesbon-osoro)
 
 [![wakatime](https://wakatime.com/badge/user/26cc90f6-22da-4220-ac7d-f452b6324239.svg)](https://wakatime.com/@26cc90f6-22da-4220-ac7d-f452b6324239)
-
 
 ### Unique Views
 
