@@ -427,7 +427,7 @@ HTML         57 mins         ▒░░░░░░░░░░░░░░░░
         <a href="https://face-auth.netlify.app/">
           <img
             width="300px"
-            src="assets/projects/face-auth.png"
+            src="assets/projects/face-auth1.png"
           />
         </a>
       </td>
