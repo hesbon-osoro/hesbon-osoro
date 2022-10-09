@@ -8,7 +8,7 @@
 
 ## Check out: -->
 
-[Firebase](https://wazimu-6cb19.web.app/) or [Netlify](https://hb-wazimu.netlify.app/) deployed portfolios.
+Check out my [`Portfolio site`](https://hb-wazimu.netlify.app/).
 
 [Google](https://g.dev/hesbon-osoro)
 
