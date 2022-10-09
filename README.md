@@ -1,4 +1,4 @@
-## Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="24px" width="24px" alt="hi">, 
+## Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="24px" width="24px" alt="hi">,
 
 [![wazimu.png](assets/projects/wazimu.png)](https://hb-wazimu.netlify.app)
 
@@ -79,8 +79,7 @@ HTML         57 mins         ▒░░░░░░░░░░░░░░░░
         </a>
       </td>
       <td>
-        <a href="https://restaurant-ecommerce.netlify.app/"
-          >Restaurant E-commerce site</a>
+        <a href="https://restaurant-ecommerce.netlify.app/">Restaurant E-commerce site</a>
           <br />
           <br />
           <a href="https://github.com/hesbon-osoro/restaurant">
@@ -96,8 +95,7 @@ HTML         57 mins         ▒░░░░░░░░░░░░░░░░
         </a>
       </td>
       <td>
-        <a href="https://hampi-tourism-site-hb.netlify.app/"
-          >Tourism Hampi</a>
+        <a href="https://hampi-tourism-site-hb.netlify.app/">Tourism Hampi</a>
            <br />
           <br />
           <a href="https://github.com/hesbon-osoro/tourism-hampi">
@@ -127,11 +125,11 @@ HTML         57 mins         ▒░░░░░░░░░░░░░░░░
           <img
             src="assets/projects/chatapp.png"
             width="300px"
-          />      
+          />   
+        </a>   
       </td>
       <td>
         <a href="https://chat-app-merng.netlify.app/">Chat App</a>
-         </a>
          <br />
           <br />
           <a href="https://github.com/hesbon-osoro/chat-app-merng-client">
@@ -149,7 +147,6 @@ HTML         57 mins         ▒░░░░░░░░░░░░░░░░
     </td>
     <td>
       <a href="https://dating-site-frontend.netlify.app/">Dating Site</a>
-       </a>
          <br />
           <br />
           <a href="https://github.com/hesbon-osoro/dating-app-frontend">
@@ -167,7 +164,6 @@ HTML         57 mins         ▒░░░░░░░░░░░░░░░░
     </td>
     <td>
       <a href="https://salad-hb.netlify.app/">Salad site</a>
-       </a>
          <br />
           <br />
           <a href="https://github.com/hesbon-osoro/salad">
@@ -186,7 +182,6 @@ HTML         57 mins         ▒░░░░░░░░░░░░░░░░
       </td>
       <td>
         <a href="https://agency-site-hb.netlify.app">Agency Site</a>
-         </a>
          <br />
           <br />
           <a href="https://github.com/hesbon-osoro/agency-site">
@@ -203,7 +198,6 @@ HTML         57 mins         ▒░░░░░░░░░░░░░░░░
       </td>
       <td>
         <a href="https://portfolio-hb.netlify.app/">Sample Portfolio</a>
-         </a>
          <br />
           <br />
           <a href="https://github.com/hesbon-osoro/portfolio-hb">
@@ -222,7 +216,6 @@ HTML         57 mins         ▒░░░░░░░░░░░░░░░░
       </td>
       <td>
         <a href="https://recipes-homemade-hb.netlify.app/">Recipes Homemade</a>
-         </a>
          <br />
           <br />
           <a href="https://github.com/hesbon-osoro/recipes-homemade">
@@ -236,13 +229,230 @@ HTML         57 mins         ▒░░░░░░░░░░░░░░░░
       </td>
       <td>
         <a href="https://messaging-app-frontend.web.app/">Messaging App</a>
-         </a>
          <br />
           <br />
           <a href="https://github.com/hesbon-osoro/messaging-app-frontend">
            <img src="assets/icons/github.png" width="30px" height="30px"/>
           </a>
       </td>        
+    </tr>
+     <tr>
+       <td>
+        <a href="https://reactjs-shoppy-admin-dashboard.netlify.app/">
+          <img
+            width="300px"
+            src="assets/projects/shoppy-dashboard.png"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://reactjs-shoppy-admin-dashboard.netlify.app/">Shoppy Dashboard</a>
+         <br />
+          <br />
+          <a href="https://github.com/hesbon-osoro/shoppy-admin-dashboard">
+           <img src="assets/icons/github.png" width="30px" height="30px"/>
+          </a>
+      </td>
+      <td>
+        <a href="https://simple-multistep-form.netlify.app/">
+          <img src="assets/projects/simple-multistep.png" width="300px" />
+        </a>
+      </td>
+      <td>
+        <a href="https://simple-multistep-form.netlify.app/">Simple Multi-step form</a>
+         <br />
+          <br />
+          <a href="https://github.com/hesbon-osoro/simple-multistep-form">
+           <img src="assets/icons/github.png" width="30px" height="30px"/>
+          </a>
+      </td>        
+    </tr>
+    <tr>
+       <td>
+        <a href="https://react-alarm-clock.netlify.app/">
+          <img
+            width="300px"
+            src="assets/projects/alarm-clock.png"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://react-alarm-clock.netlify.app/">Alarm Clock</a>
+         <br />
+          <br />
+          <a href="https://github.com/hesbon-osoro/alarm-clock">
+           <img src="assets/icons/github.png" width="30px" height="30px"/>
+          </a>
+      </td>
+      <td>
+        <a href="https://snake-game-ts.netlify.app/">
+          <img src="assets/projects/snake-game.png" width="300px" />
+        </a>
+      </td>
+      <td>
+        <a href="https://snake-game-ts.netlify.app/">Snake Game</a>
+         <br />
+          <br />
+          <a href="https://github.com/hesbon-osoro/snake-game">
+           <img src="assets/icons/github.png" width="30px" height="30px"/>
+          </a>
+      </td>        
+    </tr>
+    <tr>
+       <td>
+        <a href="https://reactjs-chess.vercel.app/">
+          <img
+            width="300px"
+            src="assets/projects/react-chess.png"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://reactjs-chess.vercel.app/">React Chess</a>
+         <br />
+          <br />
+          <a href="https://github.com/hesbon-osoro/react-chess">
+           <img src="assets/icons/github.png" width="30px" height="30px"/>
+          </a>
+      </td>
+      <td>
+        <a href="https://reactjs-sort-visualizer.netlify.app/">
+          <img src="assets/projects/sort-visualizer.png" width="300px" />
+        </a>
+      </td>
+      <td>
+        <a href="https://reactjs-sort-visualizer.netlify.app/">Sort Visualizer</a>
+         <br />
+          <br />
+          <a href="https://github.com/hesbon-osoro/sort-visualizer">
+           <img src="assets/icons/github.png" width="30px" height="30px"/>
+          </a>
+      </td>        
+    </tr>
+    <tr>
+       <td>
+        <a href="https://reactts-shopping-cart.netlify.app/">
+          <img
+            width="300px"
+            src="assets/projects/shopping-cart.png"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://reactts-shopping-cart.netlify.app/">Shopping Cart</a>
+         <br />
+          <br />
+          <a href="https://github.com/hesbon-osoro/shopping-cart">
+           <img src="assets/icons/github.png" width="30px" height="30px"/>
+          </a>
+      </td>
+      <td>
+        <a href="https://custom-pagination-react.netlify.app/">
+          <img src="assets/projects/custom%20pagination.png" width="300px" />
+        </a>
+      </td>
+      <td>
+        <a href="https://custom-pagination-react.netlify.app/">Custom Pagination</a>
+         <br />
+          <br />
+          <a href="https://github.com/hesbon-osoro/custom-pagination">
+           <img src="assets/icons/github.png" width="30px" height="30px"/>
+          </a>
+      </td>        
+    </tr>
+    <tr>
+       <td>
+        <a href="https://react-custom-select.netlify.app/">
+          <img
+            width="300px"
+            src="assets/projects/react-select.png"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://react-custom-select.netlify.app/">Custom Select</a>
+         <br />
+          <br />
+          <a href="https://github.com/hesbon-osoro/react-select">
+           <img src="assets/icons/github.png" width="30px" height="30px"/>
+          </a>
+      </td>
+      <td>
+        <a href="https://reactjs-drag-and-drop.netlify.app/">
+          <img src="assets/projects/drag%20and%20drop.png" width="300px" />
+        </a>
+      </td>
+      <td>
+        <a href="https://reactjs-drag-and-drop.netlify.app/">Drag and Drop</a>
+         <br />
+          <br />
+          <a href="https://github.com/hesbon-osoro/drag-and-drop">
+           <img src="assets/icons/github.png" width="30px" height="30px"/>
+          </a>
+      </td>        
+    </tr>
+    <tr>
+       <td>
+        <a href="https://ck-editor-react.netlify.app/">
+          <img
+            width="300px"
+            src="assets/projects/ck-editor.png"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://ck-editor-react.netlify.app/">CK 5 Editor</a>
+         <br />
+          <br />
+          <a href="https://github.com/hesbon-osoro/ck-editor-react">
+           <img src="assets/icons/github.png" width="30px" height="30px"/>
+          </a>
+      </td>
+      <td>
+        <a href="https://tic-tac-toe-ts-game.netlify.app/">
+          <img src="assets/projects/tictactoe.png" width="300px" />
+        </a>
+      </td>
+      <td>
+        <a href="https://tic-tac-toe-ts-game.netlify.app/">Tic Tac Toe</a>
+         <br />
+          <br />
+          <a href="https://github.com/hesbon-osoro/tic-tac-toe">
+           <img src="assets/icons/github.png" width="30px" height="30px"/>
+          </a>
+      </td>        
+    </tr>
+    <tr>
+       <td>
+        <a href="https://face-auth.netlify.app/">
+          <img
+            width="300px"
+            src="assets/projects/face-auth.png"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://face-auth.netlify.app/">Face Auth</a>
+         <br />
+          <br />
+          <a href="https://github.com/hesbon-osoro/face-auth">
+           <img src="assets/icons/github.png" width="30px" height="30px"/>
+          </a>
+      </td>
+      <!-- <td>
+        <a href="LINK">
+          <img src="SRC" width="300px" />
+        </a>
+      </td>
+      <td>
+        <a href="link">PROJECTNAME</a>
+         </a>
+         <br />
+          <br />
+          <a href="github">
+           <img src="assets/icons/github.png" width="30px" height="30px"/>
+          </a>
+      </td>         -->
     </tr>
   </tbody>
 </table>
@@ -531,12 +741,11 @@ HTML         57 mins         ▒░░░░░░░░░░░░░░░░
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hesbon-osoro&theme=onedark&no-bg=false&count_private=true)](https://github.com/hesbon-osoro/hesbon-osoro)
 
-
 <!--### Github Stats-->
 
 ![Wazimu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hesbon-osoro&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
 
-<p><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=hesbon-osoro&theme=dark" /></p>      
+<p><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=hesbon-osoro&theme=dark" /></p>
 
 <!--### Github extra pins-->
 
@@ -577,11 +786,11 @@ pie title Typical Daily Activities
 -->
 
 ### Star my projects [here](https://github.com/hesbon-osoro?tab=repositories)
-:relaxed:__Follow for Follow back__:relaxed:
+
+:relaxed:**Follow for Follow back**:relaxed:
 
 <Roles || Offers || Opportunities?? [`Connect`](https://linkedin.com/in/hesbon-osoro) Me! ---WorkFromHome / Remote--->
 
 15% for 3 months if you refer me to get hired in a growth oriented company!!!
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/wazimu)
-
