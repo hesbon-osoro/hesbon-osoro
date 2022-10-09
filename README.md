@@ -12,14 +12,6 @@
 
 [Google](https://g.dev/hesbon-osoro)
 
-```mermaid
-pie title Typical Daily Activities
-    "Coding" : 15
-    "Debugging" : 45
-    "Googling" : 35
-    "Other": 5
-```
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2FA4D7&height=30&lines=I'm+Hesbon;A.K.A+Wazimu)](https://git.io/typing-svg)
 
 I am a motivated software engineer with 3+ years of experience in building web applications. I don't just write code, I really fancy problem-solving and collaborating with various stakeholders. I am currently looking for new and challenging opportunities that help me become a better engineer.
@@ -574,6 +566,15 @@ HTML         57 mins         ▒░░░░░░░░░░░░░░░░
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+<!--
+```mermaid
+pie title Typical Daily Activities
+    "Coding" : 15
+    "Debugging" : 45
+    "Googling" : 35
+    "Other": 5
+```
+-->
 
 ### Star my projects [here](https://github.com/hesbon-osoro?tab=repositories)
 :relaxed:__Follow for Follow back__:relaxed:
