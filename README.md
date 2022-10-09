@@ -8,7 +8,7 @@
 
 ## Check out: -->
 
-Check out my [`Portfolio site`](https://hb-wazimu.netlify.app/).
+Check out my [`Portfolio website`](https://hb-wazimu.netlify.app/).
 
 [Google](https://g.dev/hesbon-osoro)
 
