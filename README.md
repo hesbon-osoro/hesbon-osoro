@@ -439,20 +439,19 @@ HTML         1 hr 11 mins    ▓░░░░░░░░░░░░░░░░
            <img src="assets/icons/github.png" width="30px" height="30px"/>
           </a>
       </td>
-      <!-- <td>
-        <a href="LINK">
-          <img src="SRC" width="300px" />
+      <td>
+        <a href="https://dynamic-next-previous-buttons.vercel.app/">
+          <img src="assets/projects/dynamic%20nextprev.png" width="300px" />
         </a>
       </td>
       <td>
-        <a href="link">PROJECTNAME</a>
-         </a>
+        <a href="https://dynamic-next-previous-buttons.vercel.app/">Dynamic Next/Previous buttons</a>
          <br />
-          <br />
-          <a href="github">
+         <br />
+         <a href="https://github.com/hesbon-osoro/dynamic-next-previous-buttons">
            <img src="assets/icons/github.png" width="30px" height="30px"/>
-          </a>
-      </td>         -->
+         </a>
+      </td>        
     </tr>
   </tbody>
 </table>
