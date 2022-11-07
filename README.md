@@ -453,6 +453,24 @@ HTML         1 hr 11 mins    ▓░░░░░░░░░░░░░░░░
          </a>
       </td>        
     </tr>
+    <tr>
+       <td>
+        <a href="https://nextjs-video-streaming.vercel.app/">
+          <img
+            width="300px"
+            src="assets/projects/video-stream2.png"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://nextjs-video-streaming.vercel.app/">Video Stream</a>
+         <br />
+          <br />
+          <a href="https://github.com/hesbon-osoro/nextjs-video-streaming">
+           <img src="assets/icons/github.png" width="30px" height="30px"/>
+          </a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
