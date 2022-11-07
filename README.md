@@ -808,6 +808,8 @@ pie title Typical Daily Activities
 
 <Roles || Offers || Opportunities?? [`Connect`](https://linkedin.com/in/hesbon-osoro) Me! ---WorkFromHome/ Remote--->
 
+_Actively interviewing_
+
 <!-- 15% for 3 months if you refer me to get hired in a growth oriented company!!! -->
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/wazimu)
