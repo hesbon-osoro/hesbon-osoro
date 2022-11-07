@@ -33,14 +33,14 @@ I have deployed several sites some of which am showcasing in the <a href="#sampl
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 October 2022 - To: 03 November 2022
+From: 06 October 2022 - To: 05 November 2022
 
-JavaScript   20 hrs 7 mins   ███████████░░░░░░░░░░░░░░   44.30 %
-TypeScript   12 hrs 23 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.28 %
-Markdown     4 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.02 %
-Python       2 hrs 3 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
-CSS          1 hr 55 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-HTML         1 hr 11 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+JavaScript   20 hrs 12 mins  █████████▓░░░░░░░░░░░░░░░   38.70 %
+TypeScript   18 hrs 30 mins  █████████░░░░░░░░░░░░░░░░   35.43 %
+Markdown     4 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
+CSS          3 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+Python       2 hrs 3 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+Bash         56 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
 ```
 
 <!--END_SECTION:waka-->
@@ -806,8 +806,8 @@ pie title Typical Daily Activities
 
 :relaxed:**Follow for Follow back**:relaxed:
 
-<Roles || Offers || Opportunities?? [`Connect`](https://linkedin.com/in/hesbon-osoro) Me! ---WorkFromHome / Remote--->
+<Roles || Offers || Opportunities?? [`Connect`](https://linkedin.com/in/hesbon-osoro) Me! ---WorkFromHome/ Remote--->
 
-15% for 3 months if you refer me to get hired in a growth oriented company!!!
+<!-- 15% for 3 months if you refer me to get hired in a growth oriented company!!! -->
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/wazimu)
