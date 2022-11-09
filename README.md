@@ -748,19 +748,15 @@ HTML         1 hr 12 mins    ▓░░░░░░░░░░░░░░░░
 
 ## Contribution Graph
 
-<p>
-  <img align="left" src="https://activity-graph.herokuapp.com/graph?username=hesbon-osoro&theme=github" alt="wazimu" />
-</p>
-&nbsp;
-<br />
+[![contribution](https://activity-graph.herokuapp.com/graph?username=hesbon-osoro&theme=github)](https://github.com/hesbon-osoro)
 
 ### 🏆 <!--My Trophies-->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hesbon-osoro&theme=onedark&no-bg=false&count_private=true)](https://github.com/hesbon-osoro/hesbon-osoro)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hesbon-osoro&theme=onedark&no-bg=false&count_private=true)](https://github.com/hesbon-osoro)
 
 <!--### Github Stats-->
 
-![Wazimu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hesbon-osoro&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)
+[![Wazimu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hesbon-osoro&count_private=true&show_icons=true&theme=dark&title_color=009933&include_all_commits=true)](https://github.com/hesbon-osoro)
 
 <p><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=hesbon-osoro&theme=dark" /></p>
 
