@@ -774,7 +774,7 @@ HTML         1 hr 12 mins    ▓░░░░░░░░░░░░░░░░
 
 ![hesbon-osoro's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=hesbon-osoro&theme=Dark)
 
-[![Wazimu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wazimu&theme=dark&title_color=009933)](https://github.com/hesbon-osoro/hesbon-osoro)
+[![Wazimu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wazimu&theme=dark&title_color=009933)](https://wakatime.com/@wazimu)
 
 [![wakatime](https://wakatime.com/badge/user/26cc90f6-22da-4220-ac7d-f452b6324239.svg)](https://wakatime.com/@26cc90f6-22da-4220-ac7d-f452b6324239)
 
