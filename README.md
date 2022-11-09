@@ -766,9 +766,9 @@ HTML         1 hr 12 mins    ▓░░░░░░░░░░░░░░░░
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hesbon-osoro&layout=compact&theme=dark&title_color=009933)](https://github.com/hesbon-osoro/hesbon-osoro)
 
-![LeetCode Stats](https://leetcode.card.workers.dev/hesbon-osoro?theme=dark&font=source_code_pro&extension=null)
+[![LeetCode Stats](https://leetcode.card.workers.dev/hesbon-osoro?theme=dark&font=source_code_pro&extension=null)](https://leetcode.com/hesbon-osoro/)
 
-![hesbon-osoro's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=hesbon-osoro&theme=Dark)
+[![hesbon-osoro's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=hesbon-osoro&theme=Dark)](https://leetcode.com/hesbon-osoro/)
 
 [![Wazimu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wazimu&theme=dark&title_color=009933)](https://wakatime.com/@wazimu)
 
