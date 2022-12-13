@@ -806,6 +806,6 @@ pie title Typical Daily Activities
 
 _Actively interviewing_
 
-<!-- 15% for 3 months if you refer me to get hired in a growth oriented company!!! -->
+<Mail me your coding assignment: hesbonosoro1@gmail.com>
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/wazimu)
