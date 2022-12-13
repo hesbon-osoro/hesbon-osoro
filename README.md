@@ -473,7 +473,12 @@ Python       6 hrs 41 mins   █░░░░░░░░░░░░░░░░
     </tr>
     <tr>
       <td colspan="4" align="center">
-        CLICK ON THE <img src="assets/icons/github.png" width="30px" height="30px"/> ICON TO VIEW THE PROJECT'S REPO
+        CLICK ON THE <img src="assets/icons/github.png" width="30px" height="30px"/> ICON TO VIEW THE PROJECT'S REPOSITORY
+      </td>
+    </tr>
+    <tr>
+      <td colspan="4" align="center">
+       CLICK ON THE PROJECT IMAGE OR THE <a href="#">BLUE LINK</a> TO VISIT THE HOSTED PROJECT
       </td>
     </tr>
   </tbody>
