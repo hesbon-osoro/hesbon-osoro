@@ -471,6 +471,11 @@ Python       6 hrs 41 mins   █░░░░░░░░░░░░░░░░
           </a>
       </td>
     </tr>
+    <tr>
+      <td colspan="4" align="center">
+        CLICK ON THE <img src="assets/icons/github.png" width="30px" height="30px"/> ICON TO VIEW THE PROJECT'S REPO
+      </td>
+    </tr>
   </tbody>
 </table>
 
