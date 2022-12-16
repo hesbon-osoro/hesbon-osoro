@@ -454,7 +454,7 @@ Python       6 hrs 41 mins   █░░░░░░░░░░░░░░░░
       </td>        
     </tr>
     <tr>
-       <td>
+      <td>
         <a href="https://nextjs-video-streaming.vercel.app/">
           <img
             width="300px"
@@ -467,6 +467,22 @@ Python       6 hrs 41 mins   █░░░░░░░░░░░░░░░░
          <br />
           <br />
           <a href="https://github.com/hesbon-osoro/nextjs-video-streaming">
+           <img src="assets/icons/github.png" width="30px" height="30px"/>
+          </a>
+      </td>
+      <td>
+        <a href="https://github.com/hesbon-osoro/MindTap">
+          <img
+            width="300px"
+            src="assets/projects/cengage-mindtap.png"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/hesbon-osoro/MindTap">Cengage | MindTap (69 - projects)</a>
+         <br />
+          <br />
+          <a href="https://github.com/hesbon-osoro/MindTap">
            <img src="assets/icons/github.png" width="30px" height="30px"/>
           </a>
       </td>
