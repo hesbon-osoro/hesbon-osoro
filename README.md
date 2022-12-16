@@ -835,3 +835,7 @@ _Actively interviewing_
 <Mail me your coding assignment: hesbonosoro1@gmail.com>
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/wazimu)
+
+OR [`Paypal`](https://www.paypal.com/) use <hesbonosoro1@gmail.com>
+
+Thank you.
