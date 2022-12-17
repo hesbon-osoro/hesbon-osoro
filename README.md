@@ -826,7 +826,7 @@ pie title Typical Daily Activities
 
 ### Star my projects [here](https://github.com/hesbon-osoro?tab=repositories)
 
-:relaxed:**Follow for Follow back**:relaxed:
+<!-- :relaxed:**Follow for Follow back**:relaxed: -->
 
 <Roles || Offers || Opportunities?? [`Connect`](https://linkedin.com/in/hesbon-osoro) Me! ---WorkFromHome/ Remote--->
 
