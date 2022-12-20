@@ -829,7 +829,9 @@ pie title Typical Daily Activities
 
 <!-- :relaxed:**Follow for Follow back**:relaxed: -->
 
-<Roles || Offers || Opportunities?? [`Connect`](https://linkedin.com/in/hesbon-osoro) Me! ---WorkFromHome/ Remote--->
+<Roles || Offers || Opportunities?? [`Connect`](https://linkedin.com/in/hesbon-osoro) Me!>
+
+<<---WorkFromHome/ Remote--->>
 
 _Actively interviewing_
 
