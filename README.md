@@ -10,7 +10,7 @@
 
 Check out my [`Portfolio website`](https://hb-wazimu.netlify.app/).
 
-[Google](https://g.dev/hesbon-osoro)
+[Google](https://g.dev/hesbon-osoro) | [GitHub](https://hesbon-osoro.github.io/hesbon-osoro/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2FA4D7&height=30&lines=I'm+Hesbon;A.K.A+Wazimu)](https://git.io/typing-svg)
 
