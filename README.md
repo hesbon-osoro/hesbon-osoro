@@ -137,6 +137,7 @@ Python       6 hrs 41 mins   █▒░░░░░░░░░░░░░░░
           </a>
       </td>
     </tr>
+    <tr>
     <td>
       <a href="https://dating-site-frontend.netlify.app/">
         <img
@@ -471,7 +472,7 @@ Python       6 hrs 41 mins   █▒░░░░░░░░░░░░░░░
           </a>
       </td>
       <td>
-        <a href="https://github.com/hesbon-osoro/MindTap">
+        <a href="https://hesbon-osoro.github.io/MindTap/">
           <img
             width="300px"
             src="assets/projects/cengage-mindtap.png"
@@ -479,7 +480,7 @@ Python       6 hrs 41 mins   █▒░░░░░░░░░░░░░░░
         </a>
       </td>
       <td>
-        <a href="https://github.com/hesbon-osoro/MindTap">Cengage | MindTap (69 - projects)</a>
+        <a href="https://hesbon-osoro.github.io/MindTap/">Cengage | MindTap (69 - projects)</a>
          <br />
           <br />
           <a href="https://github.com/hesbon-osoro/MindTap">
@@ -826,7 +827,7 @@ pie title Typical Daily Activities
 
 ### Star my projects [here](https://github.com/hesbon-osoro?tab=repositories)
 
-:relaxed:**Follow for Follow back**:relaxed:
+<!-- :relaxed:**Follow for Follow back**:relaxed: -->
 
 <Roles || Offers || Opportunities?? [`Connect`](https://linkedin.com/in/hesbon-osoro) Me! ---WorkFromHome/ Remote--->
 
