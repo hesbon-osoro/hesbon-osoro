@@ -1,0 +1,221 @@
+*,
+*::after,
+*::before {
+  font-family: 'Chivo Mono', monospace;
+
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  position: relative;
+  max-width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow-x: hidden;
+  background-size: cover;
+  background-position: center center;
+}
+.keywords-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  min-height: 100vh;
+  background-color: transparent;
+  font-family: 'Sacramento', monospace;
+  background-color: rgba(0, 0, 0, 0.1);
+  z-index: -1;
+}
+.background-wrapper {
+  min-height: 90vh;
+  max-width: 90vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 10px 10px rgb(51, 51, 51);
+}
+
+.greet {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+footer {
+  padding: 0.5em 0;
+  width: 100%;
+  border-top: 1px solid #ccc;
+}
+
+.random-joke,
+.contact-for-opportunities,
+footer,
+footer p {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.random-joke,
+.contact-for-opportunities {
+  flex-direction: column;
+}
+.random-joke,
+.contact-for-opportunities {
+  gap: 0.5em;
+}
+
+footer p {
+  gap: 0.3em;
+}
+
+footer p a img {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+
+.container {
+  max-width: 1200px;
+  background-color: #f0f0f0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  border: 10px solid transparent;
+  padding: 15px;
+  padding-bottom: 0;
+  border-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-690/star.svg)
+    40 round;
+}
+
+#scroll-button {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  background: #fff;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  transition: transform 0.3s;
+  border-radius: 50%;
+  box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.2);
+}
+
+#scroll-button img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+#scroll-button.top {
+  transform: rotate(180deg);
+}
+
+/* Standard (non-prefix) */
+body::scrollbar {
+  width: 2em;
+}
+
+body::scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+
+body::scrollbar-thumb {
+  background-image: url('https://i.pinimg.com/originals/b5/2e/1b/b52e1bff41122d66aac6133d5718b6fb.gif'),
+    linear-gradient(100deg, transparent, transparent);
+  background-position: center bottom, center -40px;
+  background-repeat: no-repeat, no-repeat;
+  background-size: contain, contain;
+}
+
+/* Webkit (Chrome, Safari, etc.) */
+body::-webkit-scrollbar {
+  width: 2em;
+}
+
+body::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+
+body::-webkit-scrollbar-thumb {
+  background-image: url('https://i.pinimg.com/originals/b5/2e/1b/b52e1bff41122d66aac6133d5718b6fb.gif'),
+    linear-gradient(100deg, transparent, transparent);
+  background-position: center bottom, center -40px;
+  background-repeat: no-repeat, no-repeat;
+  background-size: contain, contain;
+}
+
+/* Mozilla Firefox */
+body::-moz-scrollbar {
+  width: 2em;
+}
+
+body::-moz-scrollbar-track {
+  -moz-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+
+body::-moz-scrollbar-thumb {
+  background-image: url('https://i.pinimg.com/originals/b5/2e/1b/b52e1bff41122d66aac6133d5718b6fb.gif'),
+    linear-gradient(100deg, transparent, transparent);
+  background-position: center bottom, center -40px;
+  background-repeat: no-repeat, no-repeat;
+  background-size: contain, contain;
+}
+
+/* Microsoft Edge and Internet Explorer */
+body::-ms-scrollbar {
+  width: 2em;
+}
+
+body::-ms-scrollbar-track {
+  -ms-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+}
+
+body::-ms-scrollbar-thumb {
+  background-image: url('https://i.pinimg.com/originals/b5/2e/1b/b52e1bff41122d66aac6133d5718b6fb.gif'),
+    linear-gradient(100deg, transparent, transparent);
+  background-position: center bottom, center -40px;
+  background-repeat: no-repeat, no-repeat;
+  background-size: contain, contain;
+}
+
+.container p {
+  margin: 0 2em;
+}
+tr td:nth-child(2),
+tr td:nth-child(4) {
+  padding-left: 2em;
+}
+
+tr td {
+  border-bottom: 1px solid #ccc;
+}
+tr td {
+  border-right: 1px dashed #ccc;
+}
+td[colspan] {
+  text-align: center;
+}
+
+@media only screen and (max-width: 767px) {
+  .container {
+    text-align: center;
+  }
+  tr td {
+    display: block;
+    text-align: center;
+  }
+  tr td:nth-child(odd) {
+    border-bottom: none;
+  }
+}
+
+img[alt='wazimu'] {
+  max-width: 100%;
+}
