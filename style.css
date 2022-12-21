@@ -220,8 +220,6 @@ td[colspan] {
   }
   tr td {
     border-left: 1px dashed #ccc;
-  }
-  tr td {
     display: block;
     text-align: center;
   }
