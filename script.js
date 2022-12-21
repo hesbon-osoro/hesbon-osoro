@@ -154,3 +154,36 @@ function getRandomFontSize(minSize, maxSize) {
   // Return the font size as a string with the 'px' suffix
   return fontSize;
 }
+
+const toggleDarkModeButton = document.getElementById('toggle-dark-mode-button');
+const body = document.body;
+const container = document.querySelector('.container');
+const sun = document.getElementById('moon');
+const moon = document.getElementById('sun');
+sun.style.display = 'block';
+moon.style.display = 'none';
+
+function updateDarkMode() {
+  if (localStorage.getItem('darkMode') === 'true') {
+    body.classList.toggle('dark-mode');
+    container.classList.add('dark-mode');
+    sun.style.display = 'none';
+    moon.style.display = 'block';
+  } else {
+    body.classList.remove('dark-mode');
+    container.classList.remove('dark-mode');
+    sun.style.display = 'block';
+    moon.style.display = 'none';
+  }
+}
+
+toggleDarkModeButton.addEventListener('click', () => {
+  if (container.classList.contains('dark-mode')) {
+    localStorage.setItem('darkMode', 'false');
+  } else {
+    localStorage.setItem('darkMode', 'true');
+  }
+  updateDarkMode();
+});
+
+updateDarkMode();
