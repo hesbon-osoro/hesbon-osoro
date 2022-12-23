@@ -689,7 +689,7 @@ JSON         6 hrs 41 mins   █░░░░░░░░░░░░░░░░
 </details>
 </h2>
 
-<h3 align="center" style="color:yellow;margin-bottom: 20px;" >Let's Connect<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
+<h3 align="center" style="color:yellow;margin-bottom: 20px;" >Let's Connect<img src="./assets/icons/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
 <p align='center'>
   <a href="https://www.linkedin.com/in/hesbon-osoro/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
