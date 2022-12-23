@@ -775,7 +775,7 @@ JSON         6 hrs 38 mins   █░░░░░░░░░░░░░░░░
 
 ## Contribution Graph
 
-[![contribution](https://activity-graph.herokuapp.com/graph?username=hesbon-osoro&theme=github)](https://github.com/hesbon-osoro)
+[![Wazimu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hesbon-osoro&bg_color=121112&color=a8a4a7&line=1ca01f&point=dbe1dd&area=true&hide_border=true&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🏆 <!--My Trophies-->
 

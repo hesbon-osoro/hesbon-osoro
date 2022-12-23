@@ -27,7 +27,6 @@ body {
   bottom: 0;
   right: 0;
   min-height: 100vh;
-  background-color: transparent;
   font-family: 'Charm', monospace;
   background-color: rgba(0, 0, 0, 0.1);
   z-index: -1;
@@ -65,9 +64,6 @@ footer p {
 .random-joke,
 .contact-for-opportunities {
   flex-direction: column;
-}
-.random-joke,
-.contact-for-opportunities {
   gap: 0.5em;
 }
 
@@ -198,12 +194,20 @@ tr td:nth-child(4) {
 
 tr td {
   border-bottom: 1px solid #ccc;
-}
-tr td {
   border-right: 1px dashed #ccc;
 }
 td[colspan] {
   text-align: center;
+}
+
+.contribution {
+  max-width: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.contribution > a > img {
+  max-width: 100%;
 }
 
 @media only screen and (max-width: 767px) {
