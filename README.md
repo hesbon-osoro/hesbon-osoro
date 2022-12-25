@@ -14,7 +14,9 @@ Check out my [`Portfolio website`](https://hb-wazimu.netlify.app/).
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2FA4D7&height=30&lines=I'm+Hesbon;A.K.A+Wazimu)](https://git.io/typing-svg)
 
-I am a motivated software engineer with 3+ years of experience in building web applications. I don't just write code, I really fancy problem-solving and collaborating with various stakeholders. I am currently looking for new and challenging opportunities that help me become a better engineer.
+I am a motivated software engineer with 3+ years of experience in building web applications. I don't just write code, I really fancy problem-solving and collaborating with various stakeholders. I am currently looking for new and challenging opportunities that will help me become a better engineer.
+
+In my free time, I enjoy staying up-to-date on tech trends and research, playing chess, and traveling and experiencing new adventures. These interests allow me to have a well-rounded personality and keep my mind sharp and engaged. I am always looking for ways to learn and grow, both personally and professionally.
 
 <!-- An avid programmer and fast learner. Obsessed with detail and quality.
 Always trying to improve development and communication processes. I love
@@ -33,14 +35,14 @@ I have deployed several sites some of which am showcasing in the <a href="#sampl
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 November 2022 - To: 21 December 2022
+From: 23 November 2022 - To: 23 December 2022
 
-JavaScript   51 hrs 39 mins  █████████░░░░░░░░░░░░░░░░   35.83 %
-HTML         32 hrs 29 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.54 %
-CSS          25 hrs 16 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.52 %
-C            7 hrs 22 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-Markdown     7 hrs 20 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
-JSON         6 hrs 41 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+JavaScript   51 hrs 40 mins  █████████░░░░░░░░░░░░░░░░   35.88 %
+HTML         34 hrs 34 mins  ██████░░░░░░░░░░░░░░░░░░░   24.00 %
+CSS          24 hrs 59 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.36 %
+Markdown     9 hrs 58 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
+C            7 hrs 50 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
+JSON         6 hrs 12 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
 ```
 
 <!--END_SECTION:waka-->
