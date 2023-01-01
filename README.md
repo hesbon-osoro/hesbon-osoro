@@ -491,6 +491,33 @@ C            8 hrs 8 mins    █▓░░░░░░░░░░░░░░░
       </td>
     </tr>
     <tr>
+      <td>
+        <a href="https://follow-for-follow-back.vercel.app/">
+          <img
+            width="300px"
+            src="./assets/projects/follow-for-follow-back-hesbon.png"
+          />
+        </a>
+      </td>
+      <td>
+        <a href="https://follow-for-follow-back.vercel.app/"
+          >Follow For Follow Back</a
+        >
+        <br />
+        <br />
+        <a
+          href="https://github.com/hesbon-osoro/follow-for-follow-back"
+        >
+          <img
+            src="assets/icons/github.png"
+            width="30px"
+            height="30px"
+            alt="Github Icon"
+          />
+        </a>
+      </td>
+    </tr>
+    <tr>
       <td colspan="4" align="center">
         CLICK ON THE <img src="assets/icons/github.png" width="30px" height="30px"/> ICON TO VIEW THE PROJECT'S REPOSITORY
       </td>
