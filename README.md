@@ -862,7 +862,7 @@ pie title Typical Daily Activities
 
 <<---WorkFromHome/ Remote--->>
 
-_Actively interviewing_
+_Freelance_
 
 <Mail me your coding assignment: hesbonosoro1@gmail.com>
 
