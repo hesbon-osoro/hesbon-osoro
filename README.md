@@ -35,14 +35,14 @@ I have deployed several sites some of which am showcasing in the <a href="#sampl
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 March 2023 - To: 14 April 2023
+From: 16 March 2023 - To: 15 April 2023
 
-C++          18 hrs 10 mins  ███████▒░░░░░░░░░░░░░░░░░   29.95 %
-C            9 hrs 36 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.82 %
-JavaScript   6 hrs 52 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.32 %
-CSS          6 hrs 28 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
-Markdown     6 hrs 13 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
-HTML         3 hrs 52 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+C++          17 hrs 57 mins  ███████▓░░░░░░░░░░░░░░░░░   30.22 %
+C            10 hrs 23 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.48 %
+CSS          6 hrs 23 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
+JavaScript   5 hrs 51 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
+Markdown     5 hrs 35 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 %
+HTML         3 hrs 47 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
 ```
 
 <!--END_SECTION:waka-->
