@@ -35,9 +35,9 @@ I have deployed several sites some of which am showcasing in the <a href="#sampl
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 May 2023 - To: 17 June 2023
+From: 20 May 2023 - To: 19 June 2023
 
-JavaScript   8 mins          █████████████████████████   100.00 %
+JavaScript   6 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
