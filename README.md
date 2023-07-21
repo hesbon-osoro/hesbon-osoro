@@ -35,7 +35,7 @@ I have deployed several sites some of which am showcasing in the <a href="#sampl
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 June 2023 - To: 16 July 2023
+From: 17 June 2023 - To: 17 July 2023
 
 Markdown     8 mins          █████████████▓░░░░░░░░░░░   54.08 %
 JSON         4 mins          ███████░░░░░░░░░░░░░░░░░░   28.51 %
