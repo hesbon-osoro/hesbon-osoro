@@ -35,13 +35,13 @@ I have deployed several sites some of which am showcasing in the <a href="#sampl
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 August 2023 - To: 11 September 2023
+From: 13 August 2023 - To: 12 September 2023
 
-C            3 hrs 5 mins    ██████████▓░░░░░░░░░░░░░░   42.57 %
-JavaScript   1 hr 31 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.07 %
-C++          31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
-Java         28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
-Makefile     26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+C              3 hrs 5 mins    ████████████▓░░░░░░░░░░░░   50.52 %
+C++            35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.71 %
+JavaScript     35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
+Java           28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
+Makefile       26 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
 ```
 
 <!--END_SECTION:waka-->
