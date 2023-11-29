@@ -35,7 +35,7 @@ I have deployed several sites some of which am showcasing in the <a href="#sampl
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 October 2023 - To: 26 November 2023
+From: 28 October 2023 - To: 27 November 2023
 
 Python       9 hrs 53 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.15 %
 JavaScript   6 hrs 33 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.70 %
