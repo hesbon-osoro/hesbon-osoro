@@ -35,9 +35,11 @@ I have deployed several sites some of which am showcasing in the <a href="#sampl
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 December 2023 - To: 21 January 2024
+From: 23 December 2023 - To: 22 January 2024
 
-No activity tracked
+Python   14 mins         ███████████████████▓░░░░░   78.03 %
+Text     2 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.36 %
+C++      1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
 ```
 
 <!--END_SECTION:waka-->
