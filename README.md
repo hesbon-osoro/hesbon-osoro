@@ -35,7 +35,7 @@ I have deployed several sites some of which am showcasing in the <a href="#sampl
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 January 2024 - To: 21 February 2024
+From: 23 January 2024 - To: 22 February 2024
 
 C                 38 mins         ██████████████░░░░░░░░░░░   55.57 %
 Makefile          12 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.64 %
