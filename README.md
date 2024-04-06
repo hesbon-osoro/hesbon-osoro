@@ -35,7 +35,7 @@ I have deployed several sites some of which am showcasing in the <a href="#sampl
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 March 2024 - To: 03 April 2024
+From: 05 March 2024 - To: 04 April 2024
 
 Java    1 min           █████████████████▓░░░░░░░   71.08 %
 C       0 secs          ██████▒░░░░░░░░░░░░░░░░░░   24.76 %
