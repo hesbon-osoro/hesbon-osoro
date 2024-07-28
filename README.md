@@ -35,9 +35,11 @@ I have deployed several sites some of which am showcasing in the <a href="#sampl
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 June 2024 - To: 25 July 2024
+From: 26 June 2024 - To: 26 July 2024
 
-XML   1 hr 18 mins    █████████████████████████   100.00 %
+XML     1 hr 18 mins    █████████████▓░░░░░░░░░░░   54.42 %
+Other   50 mins         ████████▓░░░░░░░░░░░░░░░░   35.22 %
+MQL     14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.37 %
 ```
 
 <!--END_SECTION:waka-->
