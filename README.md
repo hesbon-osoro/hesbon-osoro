@@ -35,7 +35,7 @@ I have deployed several sites some of which am showcasing in the <a href="#sampl
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2024 - To: 23 August 2024
+From: 25 July 2024 - To: 24 August 2024
 
 Other   50 mins         ███████████████████▒░░░░░   77.26 %
 MQL     14 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.74 %
