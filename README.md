@@ -35,7 +35,7 @@ I have deployed several sites some of which am showcasing in the <a href="#sampl
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2024 - To: 04 October 2024
+From: 05 September 2024 - To: 05 October 2024
 
 HTML         8 hrs 45 mins   ██████████████████░░░░░░░   71.44 %
 CSS          2 hrs 52 mins   ██████░░░░░░░░░░░░░░░░░░░   23.50 %
