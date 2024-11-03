@@ -35,13 +35,13 @@ I have deployed several sites some of which am showcasing in the <a href="#sampl
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2024 - To: 31 October 2024
+From: 02 October 2024 - To: 01 November 2024
 
-HTML         11 hrs 1 min    ████████████████░░░░░░░░░   63.42 %
-CSS          3 hrs 13 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.52 %
-C            57 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-JavaScript   53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
-Java         35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+HTML         10 hrs 5 mins   ████████████████░░░░░░░░░   64.46 %
+CSS          2 hrs 28 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
+C            57 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+JavaScript   53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
+Java         35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
 ```
 
 <!--END_SECTION:waka-->
