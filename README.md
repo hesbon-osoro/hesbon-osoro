@@ -863,7 +863,16 @@ pie title Typical Daily Activities
 
 _Freelance_
 
+_CompTIA Ethical Hacking_
+
+_Academic Writing_
+
+_Cengage/MindTap_
+
+
 <Mail me your coding assignment: hesbonosoro1@gmail.com>
+
+<Help me convert views to $$>
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/wazimu)
 
