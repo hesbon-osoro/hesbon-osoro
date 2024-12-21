@@ -872,7 +872,7 @@ _Cengage/MindTap_
 
 <Mail me your coding assignment: hesbonosoro1@gmail.com>
 
-<Help me convert views to $$>
+<_Help me convert views to $$_>
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/wazimu)
 
