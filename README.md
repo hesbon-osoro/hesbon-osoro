@@ -14,17 +14,7 @@ Check out my [`Portfolio website`](https://hb-wazimu.netlify.app/).
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2FA4D7&height=30&lines=I'm+Hesbon;A.K.A+Wazimu)](https://git.io/typing-svg)
 
-I am a motivated software engineer with 3+ years of experience in building web applications. I don't just write code, I really fancy problem-solving and collaborating with various stakeholders. I am currently looking for new and challenging opportunities that will help me become a better engineer.
-
-In my free time, I enjoy staying up-to-date on tech trends and research, playing chess, and traveling and experiencing new adventures. These interests allow me to have a well-rounded personality and keep my mind sharp and engaged. I am always looking for ways to learn and grow, both personally and professionally.
-
-<!-- An avid programmer and fast learner. Obsessed with detail and quality.
-Always trying to improve development and communication processes. I love
-simple and elegant solutions to every problem. I am seeking a position in a
-growth-oriented company where I can use my skills to the advantage of the
-company while having the scope to develop my skills. -->
-
-I have deployed several sites some of which am showcasing in the <a href="#sample-projects">Sample Projects</a> section.
+Motivated software engineer with over 3 years of experience developing efficient, scalable web applications. Specializes in problem-solving, collaborating with diverse stakeholders, and delivering impactful solutions. Experienced in deploying multiple production-grade projects, with highlights featured in the [Sample Projects](#sample-projects) section. Passionate about staying updated on the latest technology trends, fostering innovation, and continuously improving through new challenges.
 
 #### Top Technologies
 
