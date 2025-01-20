@@ -25,7 +25,7 @@ Motivated software engineer with over 3 years of experience developing efficient
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 December 2024 - To: 17 January 2025
+From: 19 December 2024 - To: 18 January 2025
 
 JavaScript   4 hrs 26 mins   ████████▓░░░░░░░░░░░░░░░░   35.27 %
 HTML         1 hr 57 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.56 %
