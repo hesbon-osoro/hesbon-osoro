@@ -14,7 +14,7 @@ Check out my [`Portfolio website`](https://hb-wazimu.netlify.app/).
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2FA4D7&height=30&lines=I'm+Hesbon;A.K.A+Wazimu)](https://git.io/typing-svg)
 
-Motivated software engineer with over 3 years of experience developing efficient, scalable web applications. Specializes in problem-solving, collaborating with diverse stakeholders, and delivering impactful solutions. Experienced in deploying multiple production-grade projects, with highlights featured in the [Sample Projects](#sample-projects) section. Passionate about staying updated on the latest technology trends, fostering innovation, and continuously improving through new challenges.
+Motivated software engineer with over 3 years of experience developing efficient, scalable web applications. Specializes in problem-solving, collaborating with diverse stakeholders, and delivering impactful solutions. Experienced in deploying multiple production-grade projects, with highlights featured in the [Sample Projects](#sample-projects) section. Additionally, I have hands-on experience in AI model training, data annotation, and validation, contributing to enhancing machine learning models. Passionate about staying updated on the latest technology trends, fostering innovation, and continuously improving through new challenges.
 
 #### Top Technologies
 
