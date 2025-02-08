@@ -859,6 +859,8 @@ _Academic Writing_
 
 _Cengage/MindTap_
 
+_zyBooks_
+
 
 <Mail me your coding assignment: hesbonosoro1@gmail.com>
 
