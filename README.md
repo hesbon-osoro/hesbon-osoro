@@ -25,7 +25,7 @@ Motivated software engineer with over 3 years of experience developing efficient
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 January 2025 - To: 10 February 2025
+From: 12 January 2025 - To: 11 February 2025
 
 HTML         38 mins         ███████▒░░░░░░░░░░░░░░░░░   29.84 %
 Markdown     33 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.05 %
