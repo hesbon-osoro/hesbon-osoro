@@ -25,7 +25,7 @@ Motivated software engineer with over 3 years of experience developing efficient
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 February 2025 - To: 03 March 2025
+From: 02 February 2025 - To: 04 March 2025
 
 HTML         1 hr 15 mins    ████████▒░░░░░░░░░░░░░░░░   33.72 %
 CSS          1 hr 8 mins     ███████▓░░░░░░░░░░░░░░░░░   30.62 %
