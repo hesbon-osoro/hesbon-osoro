@@ -25,13 +25,13 @@ Motivated software engineer with over 3 years of experience developing efficient
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 March 2025 - To: 26 April 2025
+From: 29 March 2025 - To: 28 April 2025
 
-JavaScript   85 hrs 58 mins  ███████████████▓░░░░░░░░░   62.58 %
-CSS          30 hrs 52 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.47 %
-Python       6 hrs 52 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-Bash         2 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-Markdown     1 hr 57 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+JavaScript   83 hrs 6 mins   ███████████████▓░░░░░░░░░   63.11 %
+CSS          31 hrs 3 mins   ██████░░░░░░░░░░░░░░░░░░░   23.58 %
+Python       6 hrs 52 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
+Other        1 hr 56 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Markdown     1 hr 41 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
 ```
 
 <!--END_SECTION:waka-->
