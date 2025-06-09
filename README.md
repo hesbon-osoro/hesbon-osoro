@@ -25,7 +25,7 @@ Motivated software engineer with over 3 years of experience developing efficient
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 May 2025 - To: 06 June 2025
+From: 08 May 2025 - To: 07 June 2025
 
 Python       1 hr 29 mins    █████████████████▓░░░░░░░   71.28 %
 JavaScript   30 mins         ██████░░░░░░░░░░░░░░░░░░░   24.03 %
