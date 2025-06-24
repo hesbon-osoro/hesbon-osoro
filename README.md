@@ -25,7 +25,7 @@ Motivated software engineer with over 3 years of experience developing efficient
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 May 2025 - To: 21 June 2025
+From: 23 May 2025 - To: 22 June 2025
 
 Python   1 hr 52 mins    ██████████████████████▒░░   89.44 %
 C        13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
