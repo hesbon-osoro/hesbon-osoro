@@ -25,13 +25,13 @@ Motivated software engineer with over 3 years of experience developing efficient
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2025 - To: 03 July 2025
+From: 04 June 2025 - To: 04 July 2025
 
-Mermaid    27 mins         ████████▒░░░░░░░░░░░░░░░░   32.81 %
-Python     23 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.14 %
-Assembly   17 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.12 %
-C          14 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.82 %
-Markdown   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+R          31 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.92 %
+Mermaid    27 mins         ██████░░░░░░░░░░░░░░░░░░░   23.97 %
+Python     23 mins         █████░░░░░░░░░░░░░░░░░░░░   19.83 %
+Assembly   17 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.43 %
+C          14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
 ```
 
 <!--END_SECTION:waka-->
