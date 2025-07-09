@@ -25,7 +25,7 @@ Motivated software engineer with over 3 years of experience developing efficient
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2025 - To: 06 July 2025
+From: 07 June 2025 - To: 07 July 2025
 
 R          31 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.92 %
 Mermaid    27 mins         ██████░░░░░░░░░░░░░░░░░░░   23.97 %
