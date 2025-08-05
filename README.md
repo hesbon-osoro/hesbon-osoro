@@ -25,11 +25,10 @@ Motivated software engineer with over 3 years of experience developing efficient
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 July 2025 - To: 02 August 2025
+From: 04 July 2025 - To: 03 August 2025
 
-Assembly   32 mins         ████████████▒░░░░░░░░░░░░   49.19 %
-R          31 mins         ████████████░░░░░░░░░░░░░   47.83 %
-Other      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Assembly   32 mins         ███████████████████████▓░   94.29 %
+Other      1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
 ```
 
 <!--END_SECTION:waka-->
