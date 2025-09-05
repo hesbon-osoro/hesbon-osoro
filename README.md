@@ -855,6 +855,10 @@ _Freelance_
 
 _CompTIA Ethical Hacking_
 
+_HackTheBox_
+
+_HTB_
+
 _Academic Writing_
 
 _Cengage/MindTap_
