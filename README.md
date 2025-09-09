@@ -25,7 +25,7 @@ Motivated software engineer with over 3 years of experience developing efficient
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 August 2025 - To: 06 September 2025
+From: 08 August 2025 - To: 07 September 2025
 
 TypeScript   17 hrs 35 mins  █████████████▒░░░░░░░░░░░   52.92 %
 JavaScript   4 hrs 1 min     ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
