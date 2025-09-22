@@ -1,46 +1,31 @@
 ## Hi <img src="./assets/icons/wave.gif" height="24px" width="24px" alt="hi">,
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2FA4D7&height=30&lines=I'm+Hesbon;A.K.A+Wazimu)](https://git.io/typing-svg)
+
+🚀 **Software Engineer | AI & Cybersecurity Enthusiast | Full-Stack Developer**
+
 [![wazimu.png](assets/projects/wazimu.png)](https://hb-wazimu.netlify.app)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9fef8153-c463-4241-8f68-3342069d4495/deploy-status)](https://app.netlify.com/sites/hb-wazimu/deploys)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2FA4D7?style=for-the-badge&logo=netlify)](https://hb-wazimu.netlify.app/)
 
-<!-- ![Website](https://img.shields.io/website?url=https%3A%2F%2Fhb-wazimu.netlify.app%2F)
-
-## Check out: -->
-
-Check out my [`Portfolio website`](https://hb-wazimu.netlify.app/).
-
-[Google](https://g.dev/hesbon-osoro) | [GitHub](https://hesbon-osoro.github.io/hesbon-osoro/)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2FA4D7&height=30&lines=I'm+Hesbon;A.K.A+Wazimu)](https://git.io/typing-svg)
+## 👨‍💻 About Me
 
 As a **Software Engineer** with 3+ years in the field, I thrive on the process of transforming complex problems into **impactful, scalable solutions**. My experience spans delivering **production-grade web applications** (featured in [Sample Projects](#sample-projects)) and contributing to cutting-edge **AI model training and data enhancement**. 
 
 I view every project as a new challenge and a chance to evolve. I collaborate closely with diverse stakeholders to deliver efficient results, always staying updated on the latest trends and sharing my refined solutions with the wider community.
 
+- 🌐 Delivered 30+ production-ready projects (React, Next.js, Node.js, GraphQL, PostgreSQL, MongoDB).  
+- 🤖 Contributed to AI model training & dataset validation for research and academic projects.  
+- 🔐 Self-driven in **CompTIA Ethical Hacking** and **HackTheBox** labs.  
+- 🎓 Background in mathematics, data modeling, and content evaluation.  
 
-#### Top Technologies
+## 🛠️ Skills
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
-
-### 📊 Monthly development breakdown
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 21 August 2025 - To: 20 September 2025
-
-TypeScript       29 hrs 25 mins  █████████████▒░░░░░░░░░░░   53.31 %
-Markdown         10 hrs 26 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.93 %
-JavaScript       4 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
-CSS              3 hrs 54 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
-JSON             3 hrs 47 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
-```
-
-<!--END_SECTION:waka-->
-
-### Experience
-
+**Languages & Frameworks:** JavaScript, TypeScript, React, Next.js, Node.js, GraphQL  
+**Databases:** PostgreSQL, MongoDB, MySQL, Firebase  
+**DevOps & Tools:** Git, Linux, Heroku, Netlify, Docker (basic)  
+**Security:** Ethical Hacking (CompTIA), HackTheBox challenges  
+**Other:** Academic writing, research, data annotation  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
@@ -59,7 +44,24 @@ JSON             3 hrs 47 mins   █▓░░░░░░░░░░░░░�
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" alt="Linux" width="40" height="40" />
 </p>
 
-<h2 id="sample-projects">Projects</h2>
+### 📊 Monthly development breakdown
+
+<!--START_SECTION:waka-->
+
+```txt
+From: 21 August 2025 - To: 20 September 2025
+
+TypeScript       29 hrs 25 mins  █████████████▒░░░░░░░░░░░   53.31 %
+Markdown         10 hrs 26 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.93 %
+JavaScript       4 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
+CSS              3 hrs 54 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+JSON             3 hrs 47 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
+```
+
+<!--END_SECTION:waka-->
+
+
+<h2 id="sample-projects">📂 Featured Projects</h2>
 <table>
   <tbody>
     <tr>
@@ -524,7 +526,7 @@ JSON             3 hrs 47 mins   █▓░░░░░░░░░░░░░�
 
 <br />
 
-  <h2>Certifications</h2>  
+  <h2>🎓 Certifications</h2>  
 <table>
   <tbody>
     <tr>
@@ -710,89 +712,6 @@ JSON             3 hrs 47 mins   █▓░░░░░░░░░░░░░�
 </details>
 </h2>
 
-<h3 align="center" style="color:yellow;margin-bottom: 20px;" >Let's Connect<img src="./assets/icons/handshake.gif" height="32px" style="margin-bottom: -5px;"  > </h3>  
-<p align='center'>
-  <a href="https://www.linkedin.com/in/hesbon-osoro/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/wazimu.hb">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
- <a href="https://wa.me/+254792496898">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
- </a>&nbsp;&nbsp;
- <a href="mailto:hesbonosoro1@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
- </a>&nbsp;&nbsp;
-  <a href="https://t.me/hesbon-osoro">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
- </a> &nbsp;&nbsp;
-</p>
-
-<p align='center'>
-  <a href="https://twitter.com/wazimu_hb">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/hesbon-osoro">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />        
-  </a>&nbsp;&nbsp;
- <a href="https://www.reddit.com/user/hesbon-osoro">
-  <img src="	https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
- </a>&nbsp;&nbsp;
- <a href="https://www.youtube.com/channel/UCgHKQfyNh8thOZtS4kfQG-A">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
- </a>&nbsp;&nbsp;
-</p>
-
-<!-- <h1> Skills</h1>
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)
-
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
- -->
-<!--
-<h2>
-  <details>
-    <summary>Tools</summary>
-
-    ![Laptop](https://img.shields.io/badge/hp-laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)
-
-  </details>
- </h2> -->
-
-<!-- ![Twitter Follow](https://img.shields.io/twitter/follow/wazimu_hb?style=social)
-
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/hesbon-osoro?style=social)
-
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCgHKQfyNh8thOZtS4kfQG-A?style=social)
-
-![GitHub followers](https://img.shields.io/github/followers/hesbon-osoro?style=social)
-
-![GitHub User's stars](https://img.shields.io/github/stars/hesbon-osoro?style=social)
-
-![GitHub watchers](https://img.shields.io/github/watchers/hesbon-osoro/hesbon-osoro?style=social)
- -->
 
 ## Contribution Graph
 
@@ -836,19 +755,9 @@ JSON             3 hrs 47 mins   █▓░░░░░░░░░░░░░�
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-<!--
-```mermaid
-pie title Typical Daily Activities
-    "Coding" : 15
-    "Debugging" : 45
-    "Googling" : 35
-    "Other": 5
-```
--->
 
 ### Star my projects [here](https://github.com/hesbon-osoro?tab=repositories)
 
-<!-- :relaxed:**Follow for Follow back**:relaxed: -->
 
 <Roles || Offers || Opportunities?? [`Mail`](mailto:hesbonosoro1@gmail.com) Me!>
 
@@ -858,9 +767,7 @@ _Freelance_
 
 _CompTIA Ethical Hacking_
 
-_HackTheBox_
-
-_HTB_
+_HackTheBox_ | _HTB_
 
 _Academic Writing_
 
@@ -871,7 +778,15 @@ _zyBooks_
 
 <Mail me your coding assignment: hesbonosoro1@gmail.com>
 
-<_Help me convert views to $$_>
+
+## 🤝 Let’s Connect
+
+- 📧 Email: [hesbonosoro1@gmail.com](mailto:hesbonosoro1@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/hesbon-osoro](https://www.linkedin.com/in/hesbon-osoro/)  
+- 🌍 Portfolio: [hb-wazimu.netlify.app](https://hb-wazimu.netlify.app/)  
+- 🐦 Twitter: [@wazimu_hb](https://twitter.com/wazimu_hb)  
+- 💻 GitHub: [github.com/hesbon-osoro](https://github.com/hesbon-osoro)
+
 
 [GoFundMe](https://www.gofundme.com/u/hesbon-osoro)
 
@@ -879,4 +794,7 @@ _zyBooks_
 
 OR [`Paypal`](https://www.paypal.com/) use <hesbonosoro1@gmail.com>
 
-Thank you.
+⭐️ *Feel free to explore, fork, and collaborate on my projects. Open to freelance, remote roles, and research opportunities.*
+
+<!-- Thank you. -->
+<h3 align="center" style="color:yellow;margin-bottom: 20px;" >Thank<img src="./assets/icons/handshake.gif" height="32px" style="margin-bottom: -5px;"  >you</h3> 
