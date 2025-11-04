@@ -4,6 +4,8 @@
 
 🚀 **Software Engineer | AI & Cybersecurity Enthusiast | Full-Stack Developer**
 
+> 🛠️ **New**: [Repository Management Tools](./REPO_MANAGEMENT.md) - Automatically clone and manage all portfolio projects
+
 [![wazimu.png](assets/projects/wazimu.png)](https://hb-wazimu.netlify.app)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2FA4D7?style=for-the-badge&logo=netlify)](https://hb-wazimu.netlify.app/)

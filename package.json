@@ -1,6 +1,13 @@
 {
+  "name": "hesbon-osoro-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website and repository management tools",
   "scripts": {
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "clone:repos": "node clone-portfolio-repos.js",
+    "manage:repos": "node manage-portfolio-repos.js",
+    "manage:repos:dry": "node -e \"const cfg = require('./manage-portfolio-repos'); cfg.CONFIG = {...cfg.CONFIG, dryRun: true}; new cfg(cfg.CONFIG).run()\"",
+    "update:repos": "node -e \"const Manager = require('./manage-portfolio-repos'); const cfg = {readmePath: require('path').join(__dirname, 'README.md'), projectsBaseDir: 'd:\\\\Projects', dryRun: false, updateExisting: true, skipErrors: true, username: 'hesbon-osoro'}; new Manager(cfg).run()\""
   },
   "devDependencies": {
     "prettier": "^2.4.1"

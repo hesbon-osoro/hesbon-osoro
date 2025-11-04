@@ -1,0 +1,23 @@
+{
+  "description": "Configuration file for portfolio repository management",
+  "config": {
+    "readmePath": "./README.md",
+    "projectsBaseDir": "d:\\Projects",
+    "dryRun": false,
+    "updateExisting": false,
+    "skipErrors": true,
+    "username": "hesbon-osoro"
+  },
+  "quickCommands": {
+    "cloneAll": "node clone-portfolio-repos.js",
+    "manageRepos": "node manage-portfolio-repos.js",
+    "dryRun": "npm run manage:repos:dry",
+    "updateAll": "npm run update:repos"
+  },
+  "notes": [
+    "Edit 'projectsBaseDir' to change where repos are cloned",
+    "Set 'dryRun' to true to preview changes without making them",
+    "Set 'updateExisting' to true to pull latest changes for existing repos",
+    "Set 'skipErrors' to false to stop on first error"
+  ]
+}
