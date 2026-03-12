@@ -52,13 +52,13 @@ I view every project as a new challenge and a chance to evolve. I collaborate cl
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 February 2026 - To: 09 March 2026
+From: 08 February 2026 - To: 10 March 2026
 
-TypeScript   2 hrs 56 mins         ███████████████▒░░░░░░░░░   61.98 %
-Markdown     39 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.79 %
-JSON         37 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 %
-JavaScript   21 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
-CSS          2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+TypeScript   3 hrs 21 mins         ███████████████░░░░░░░░░░   60.52 %
+JSON         46 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 %
+Markdown     41 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
+JavaScript   30 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
+Other        5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 ```
 
 <!--END_SECTION:waka-->
