@@ -6,9 +6,9 @@
 
 > 🛠️ **New**: [Repository Management Tools](./REPO_MANAGEMENT.md) - Automatically clone and manage all portfolio projects
 
-[![wazimu.png](assets/projects/wazimu.png)](https://hb-wazimu.netlify.app)
+[![hesbon-dev.png](assets/projects/hesbon-dev.png)](https://hesbon.dev/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2FA4D7?style=for-the-badge&logo=netlify)](https://hb-wazimu.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2FA4D7?style=for-the-badge&logo=netlify)](https://hesbon-dev/)
 
 ## 👨‍💻 About Me
 
@@ -695,13 +695,13 @@ _Cengage/MindTap_
 
 _zyBooks_
 
-<Mail me your coding assignment: hesbonosoro1@gmail.com>
+<Mail me your coding assignment: osoro@hesbon.dev>
 
 ## 🤝 Let’s Connect
 
-- 📧 Email: [hesbonosoro1@gmail.com](mailto:hesbonosoro1@gmail.com)
+- 📧 Email: [osoro@hesbon.dev](mailto:osoro@hesbon.dev) | [hesbonosoro1@gmail.com](mailto:hesbonosoro1@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/hesbon-osoro](https://www.linkedin.com/in/hesbon-osoro/)
-- 🌍 Portfolio: [hb-wazimu.netlify.app](https://hb-wazimu.netlify.app/)
+- 🌍 Portfolio: [hesbon.dev](https://hesbon.dev/)
 - 🐦 Twitter: [@wazimu_hb](https://twitter.com/wazimu_hb)
 - 💻 GitHub: [github.com/hesbon-osoro](https://github.com/hesbon-osoro)
 
