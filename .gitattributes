@@ -1,0 +1,16 @@
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.gif binary
+
+# Language bar: GitHub Linguist treats YAML as "data" and hides it. Opt the
+# Kubernetes / Prometheus manifests in so they count like the code they are.
+showcase/deploy/**/*.yaml linguist-detectable=true
+
+# Snapshots written by .github/workflows/readme-cards.yml; collapse in diffs.
+assets/cards/*.svg linguist-generated=true
+
+# Lockfiles are machine-written.
+**/package-lock.json linguist-generated=true
+**/Cargo.lock linguist-generated=true

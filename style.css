@@ -125,9 +125,12 @@ body::scrollbar-track {
 }
 
 body::scrollbar-thumb {
-  background-image: url('https://i.pinimg.com/originals/b5/2e/1b/b52e1bff41122d66aac6133d5718b6fb.gif'),
+  background-image:
+    url('https://i.pinimg.com/originals/b5/2e/1b/b52e1bff41122d66aac6133d5718b6fb.gif'),
     linear-gradient(100deg, transparent, transparent);
-  background-position: center bottom, center -40px;
+  background-position:
+    center bottom,
+    center -40px;
   background-repeat: no-repeat, no-repeat;
   background-size: contain, contain;
 }
@@ -142,9 +145,12 @@ body::-webkit-scrollbar-track {
 }
 
 body::-webkit-scrollbar-thumb {
-  background-image: url('https://i.pinimg.com/originals/b5/2e/1b/b52e1bff41122d66aac6133d5718b6fb.gif'),
+  background-image:
+    url('https://i.pinimg.com/originals/b5/2e/1b/b52e1bff41122d66aac6133d5718b6fb.gif'),
     linear-gradient(100deg, transparent, transparent);
-  background-position: center bottom, center -40px;
+  background-position:
+    center bottom,
+    center -40px;
   background-repeat: no-repeat, no-repeat;
   background-size: contain, contain;
 }
@@ -159,9 +165,12 @@ body::-moz-scrollbar-track {
 }
 
 body::-moz-scrollbar-thumb {
-  background-image: url('https://i.pinimg.com/originals/b5/2e/1b/b52e1bff41122d66aac6133d5718b6fb.gif'),
+  background-image:
+    url('https://i.pinimg.com/originals/b5/2e/1b/b52e1bff41122d66aac6133d5718b6fb.gif'),
     linear-gradient(100deg, transparent, transparent);
-  background-position: center bottom, center -40px;
+  background-position:
+    center bottom,
+    center -40px;
   background-repeat: no-repeat, no-repeat;
   background-size: contain, contain;
 }
@@ -176,9 +185,12 @@ body::-ms-scrollbar-track {
 }
 
 body::-ms-scrollbar-thumb {
-  background-image: url('https://i.pinimg.com/originals/b5/2e/1b/b52e1bff41122d66aac6133d5718b6fb.gif'),
+  background-image:
+    url('https://i.pinimg.com/originals/b5/2e/1b/b52e1bff41122d66aac6133d5718b6fb.gif'),
     linear-gradient(100deg, transparent, transparent);
-  background-position: center bottom, center -40px;
+  background-position:
+    center bottom,
+    center -40px;
   background-repeat: no-repeat, no-repeat;
   background-size: contain, contain;
 }
@@ -278,7 +290,9 @@ img[alt='wazimu'] {
 
 .container,
 body {
-  transition: background-color 0.3s, color 0.3s;
+  transition:
+    background-color 0.3s,
+    color 0.3s;
 }
 .dark-mode a {
   color: #f0f0f0;
