@@ -6,6 +6,11 @@ on:
     # Runs at 12am UTC
     - cron: '0 0 * * *'
 
+# Shared with readme-cards.yml so the two never race on pushing to main.
+concurrency:
+  group: readme-writer
+  cancel-in-progress: false
+
 jobs:
   update-readme:
     name: Update this repo's README

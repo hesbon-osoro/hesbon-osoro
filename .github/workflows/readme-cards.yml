@@ -1,0 +1,55 @@
+name: README cards
+
+# Snapshots every stat card into assets/cards/ so the profile README is served
+# from this repo instead of hot-linking third-party services. When a provider
+# is down, the last good snapshot stays in place and the run logs a warning.
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 1 * * *' # daily, after the WakaTime update at 00:00 UTC
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/readme-cards/**'
+      - '.github/workflows/readme-cards.yml'
+
+permissions:
+  contents: write
+
+# Shared with the WakaTime workflow so the two never race on pushing README.
+concurrency:
+  group: readme-writer
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    name: Refresh cards
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+
+      - name: Snapshot cards
+        env:
+          # Optional fine-grained PAT (read:user) to include private
+          # contributions in the activity graph; falls back to the job token.
+          GITHUB_TOKEN: ${{ secrets.README_CARDS_TOKEN || github.token }}
+        run: node scripts/readme-cards/index.mjs
+
+      - name: Commit changes
+        run: |
+          if [ -z "$(git status --porcelain -- assets/cards)" ]; then
+            echo "Cards unchanged."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/cards
+          git commit -m 'chore(readme): refresh stat cards'
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
