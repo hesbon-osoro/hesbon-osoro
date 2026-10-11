@@ -24,7 +24,7 @@
             width: 80%;
           }
           .container {
-            border: 2px solid transparent;
+            border: 2px solid #8ac926;
             border-radius: 10px;
             background: #242423;
           }
@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> Why is it called the Dark Ages?</p>
-            <p class="answer"><b>A.</b> There were a lot of KNIGHTS! </p>
+            <p class="question"><b>Q.</b> An Agent died unexpectedly. How was the crime solved?</p>
+            <p class="answer"><b>A.</b> By looking at the Stack Trace. </p>
           </div>
         </div>
       </div>

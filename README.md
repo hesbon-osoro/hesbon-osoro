@@ -9,6 +9,7 @@
 [![hesbon-dev.png](assets/projects/hesbon-dev.png)](https://hesbon.dev/)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2FA4D7?style=for-the-badge&logo=netlify)](https://hesbon.dev/)
+[![Hire me: osoro@hesbon.dev](assets/cards/hire-me.svg)](mailto:osoro@hesbon.dev?subject=Project%20inquiry)
 [![CI](https://github.com/hesbon-osoro/hesbon-osoro/actions/workflows/ci.yml/badge.svg)](https://github.com/hesbon-osoro/hesbon-osoro/actions/workflows/ci.yml)
 
 ## 👨‍💻 About Me
@@ -21,7 +22,7 @@ I view every project as a new challenge and a chance to evolve. I collaborate cl
 - ☸️ Design containerised services for Kubernetes with Terraform-managed AWS infrastructure and GitHub Actions CI/CD ([see the showcase](#platform-showcase)).
 - 🤖 Contributed to AI model training & dataset validation for research and academic projects.
 - 🔐 Self-driven in **CompTIA Ethical Hacking** and **HackTheBox** labs.
-- 🎓 Background in mathematics, data modeling, and content evaluation.
+- 🎓 Background in mathematics, data modeling, and content evaluation: available for MATLAB, R, Tableau and data-analysis work.
 
 ## 🛠️ Tech Stack
 
@@ -30,6 +31,7 @@ I view every project as a new challenge and a chance to evolve. I collaborate cl
 **Cloud & Platform:** AWS (EKS, ECR, IAM, VPC), Docker, Kubernetes, Kustomize, Terraform  
 **DevOps & SRE:** GitHub Actions (OIDC), Prometheus, SLOs & error budgets, Nginx, Linux, Git  
 **Databases:** PostgreSQL, MongoDB, MySQL, Firebase  
+**Math & Data:** MATLAB, R, Tableau, Python (NumPy, pandas), Excel, statistics, numerical methods  
 **Security:** Ethical Hacking (CompTIA), HackTheBox, least-privilege IAM, Pod Security Standards  
 **Other:** Academic writing, research, data annotation
 
@@ -38,7 +40,7 @@ I view every project as a new challenge and a chance to evolve. I collaborate cl
   <br />
   <img src="assets/cards/stack-platform.svg" alt="Docker, Kubernetes, Terraform, AWS, GitHub Actions, Prometheus, Nginx, Linux, Bash, Git" />
   <br />
-  <img src="assets/cards/stack-data.svg" alt="PostgreSQL, MongoDB, MySQL, Firebase" />
+  <img src="assets/cards/stack-data.svg" alt="PostgreSQL, MongoDB, MySQL, Firebase, R, MATLAB" />
 </p>
 
 <h2 id="platform-showcase">🧰 Platform Engineering Showcase</h2>
@@ -131,9 +133,13 @@ Other        2 hrs 25 mins         █▒░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+<h2 id="sample-projects">📂 Featured Projects</h2>
+
+<details>
+<summary><b>Show 27 live projects</b>: click a screenshot to open the app, or the GitHub icon for its source</summary>
+
 <!-- prettier-ignore-start -->
 
-<h2 id="sample-projects">📂 Featured Projects</h2>
 <table>
   <tbody>
     <tr>
@@ -535,7 +541,12 @@ Other        2 hrs 25 mins         █▒░░░░░░░░░░░░░
 
 <!-- prettier-ignore-end -->
 
+</details>
+
 <h2 id="certifications">🎓 Certifications</h2>
+
+<details>
+<summary><b>Show 13 certifications</b>, each with a verification link</summary>
 
 <!-- prettier-ignore-start -->
 
@@ -714,6 +725,8 @@ Other        2 hrs 25 mins         █▒░░░░░░░░░░░░░
 
 <!-- prettier-ignore-end -->
 
+</details>
+
 ## 📈 GitHub Activity
 
 <!-- Cards are snapshotted daily into assets/cards/ by .github/workflows/readme-cards.yml -->
@@ -798,13 +811,15 @@ Other        2 hrs 25 mins         █▒░░░░░░░░░░░░░
 
 ## 💼 Open To
 
-**Roles · Offers · Opportunities**: [`Mail`](mailto:hesbonosoro1@gmail.com) me!
+**Roles · Offers · Opportunities · Projects**: [email me](mailto:osoro@hesbon.dev?subject=Project%20inquiry) and I usually reply within 24 hours.
 
 - 🌍 Work from home / Remote
 - 🧑‍💻 _Freelance_
 - 🔐 _CompTIA Ethical Hacking_ · _HackTheBox_ | _HTB_
 - ✍️ _Academic Writing_
 - 📚 _Cengage/MindTap_ · _zyBooks_
+- 📊 _Math, statistics & data analysis_: MATLAB, R, Tableau, Excel, Python
+- 🧮 _Technical help_: debugging, code reviews, modelling and reports
 - 📬 Mail me your coding assignment: [osoro@hesbon.dev](mailto:osoro@hesbon.dev)
 
 ## 🤝 Let’s Connect
@@ -818,8 +833,6 @@ Other        2 hrs 25 mins         █▒░░░░░░░░░░░░░
 [GoFundMe](https://www.gofundme.com/u/hesbon-osoro)
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/wazimu)
-
-OR [`Paypal`](https://www.paypal.com/) use <hesbonosoro1@gmail.com>
 
 ⭐️ _Feel free to explore, fork, and collaborate on my projects. Open to freelance, remote roles, and research opportunities._
 
