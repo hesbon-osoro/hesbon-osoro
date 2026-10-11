@@ -122,17 +122,33 @@ describe('pageTemplate', () => {
   it('includes SEO and social preview metadata', () => {
     assert.match(
       page,
-      /<link rel="canonical" href="https:\/\/hesbon-osoro\.github\.io\/">/
+      /<link rel="canonical" href="https:\/\/hesbon-osoro\.github\.io\/" ?\/?>/
     );
     assert.match(
       page,
-      /<meta property="og:image" content="https:\/\/hesbon-osoro\.github\.io\/assets\/projects\/hesbon-dev\.png">/
+      /<meta property="og:image" content="https:\/\/hesbon-osoro\.github\.io\/assets\/projects\/hesbon-dev\.png" ?\/?>/
     );
     assert.match(page, /"@type":"Person"/);
   });
 
-  it('always offers a way to get in touch', () => {
-    assert.match(page, /class="hire" href="mailto:osoro@hesbon\.dev/);
+  it('keeps the original site layout around the README', () => {
+    for (const marker of [
+      'id="keywords"',
+      'class="background-wrapper"',
+      'class="container"',
+      'id="scroll-button"',
+      'id="toggle-dark-mode-button"',
+      'id="date"',
+      'href="style.css"',
+      'src="script.js"',
+      'family=Chivo+Mono',
+    ]) {
+      assert.ok(page.includes(marker), `missing ${marker}`);
+    }
+    assert.match(
+      page,
+      /<main class="readme">\s*<h2 id="sample-projects">x<\/h2>/
+    );
   });
 
   it('is deterministic so unchanged READMEs produce no commits', () => {
@@ -143,5 +159,22 @@ describe('pageTemplate', () => {
         siteUrl: 'https://hesbon-osoro.github.io/',
       })
     );
+  });
+});
+
+describe('static/script.js', () => {
+  it('never generates zero-size (invisible) keywords', async () => {
+    const { readFile } = await import('node:fs/promises');
+    const source = await readFile(
+      new URL('./static/script.js', import.meta.url),
+      'utf8'
+    );
+    const getRandomFontSize = new Function(
+      `${source.match(/function getRandomFontSize[\s\S]*?\n}/)[0]}; return getRandomFontSize;`
+    )();
+    for (let i = 0; i < 2000; i++) {
+      const size = getRandomFontSize(0.6, 1.2);
+      assert.ok(size >= 0.6 && size <= 1.2, `size ${size}`);
+    }
   });
 });
