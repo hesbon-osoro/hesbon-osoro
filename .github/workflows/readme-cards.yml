@@ -14,8 +14,10 @@ on:
       - 'scripts/readme-cards/**'
       - '.github/workflows/readme-cards.yml'
 
+# Pushes with the README_BOT_SSH_KEY deploy key, the only actor allowed to
+# bypass the "Protect main" ruleset, so the job token only needs read access.
 permissions:
-  contents: write
+  contents: read
 
 # Shared with the WakaTime workflow so the two never race on pushing README.
 concurrency:
@@ -29,6 +31,8 @@ jobs:
     timeout-minutes: 10
     steps:
       - uses: actions/checkout@v7
+        with:
+          ssh-key: ${{ secrets.README_BOT_SSH_KEY }}
 
       - uses: actions/setup-node@v7
         with:
