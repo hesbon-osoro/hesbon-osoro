@@ -56,7 +56,7 @@ export const CARDS = [
   {
     file: 'top-langs.svg',
     sources: [
-      `https://github-readme-stats.vercel.app/api/top-langs/?username=${USER}&layout=compact&theme=dark&title_color=009933&langs_count=10&hide_border=true`,
+      `https://github-readme-stats.vercel.app/api/top-langs/?username=${USER}&layout=compact&theme=dark&title_color=009933&hide_border=true`,
     ],
   },
   {
@@ -68,7 +68,7 @@ export const CARDS = [
   {
     file: 'wakatime.svg',
     sources: [
-      `https://github-readme-stats.vercel.app/api/wakatime?username=${WAKATIME_USER}&theme=dark&title_color=009933&langs_count=10&hide_border=true`,
+      `https://github-readme-stats.vercel.app/api/wakatime?username=${WAKATIME_USER}&theme=dark&title_color=009933&hide_border=true`,
     ],
   },
   {

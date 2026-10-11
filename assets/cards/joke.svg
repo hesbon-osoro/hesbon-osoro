@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> Why was the function sad after a successful first call?</p>
-            <p class="answer"><b>A.</b> It didn’t get a callback. </p>
+            <p class="question"><b>Q.</b> What are the three hardest problems in computer science?</p>
+            <p class="answer"><b>A.</b> Naming things and off-by-one errors </p>
           </div>
         </div>
       </div>

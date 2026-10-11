@@ -767,7 +767,7 @@ Other        2 hrs 25 mins         █▒░░░░░░░░░░░░░
 
 <p align="center">
   <a href="https://wakatime.com/@wazimu">
-    <img src="assets/cards/wakatime.svg" width="60%" alt="All-time WakaTime coding stats by language" />
+    <img src="assets/cards/wakatime.svg" width="495" alt="All-time WakaTime coding stats by language" />
   </a>
 </p>
 

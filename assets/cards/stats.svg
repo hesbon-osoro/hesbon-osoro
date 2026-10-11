@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Hesbon Osoro's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 448, Total Commits  : 4236, Total PRs: 63, Total Issues: 11, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 448, Total Commits  : 4236, Total PRs: 64, Total Issues: 11, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 74.8879231528112;
+        stroke-dashoffset: 74.52673731913725;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >63</text>
+      >64</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
