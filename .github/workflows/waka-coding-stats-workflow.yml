@@ -1,10 +1,17 @@
 name: Waka Readme
 
+# Refreshes the "Monthly development breakdown" block from the WakaTime API
+# with scripts/waka/index.mjs. Pushes with the README_BOT_SSH_KEY deploy key,
+# which is the only actor allowed to bypass the "Protect main" ruleset.
+
 on:
   workflow_dispatch:
   schedule:
     # Runs at 12am UTC
     - cron: '0 0 * * *'
+
+permissions:
+  contents: read
 
 # Shared with readme-cards.yml so the two never race on pushing to main.
 concurrency:
@@ -15,9 +22,30 @@ jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - uses: athul/waka-readme@master
+      - uses: actions/checkout@v7
         with:
+          ssh-key: ${{ secrets.README_BOT_SSH_KEY }}
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+
+      - name: Render WakaTime stats
+        env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
-          TIME_RANGE: last_30_days
+        run: node scripts/waka/index.mjs
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "README unchanged."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'Updated waka-readme graph with new metrics'
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"

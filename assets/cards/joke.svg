@@ -24,7 +24,7 @@
             width: 80%;
           }
           .container {
-            border: 2px solid #8ac926;
+            border: 2px solid transparent;
             border-radius: 10px;
             background: #242423;
           }
@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> An Agent died unexpectedly. How was the crime solved?</p>
-            <p class="answer"><b>A.</b> By looking at the Stack Trace. </p>
+            <p class="question"><b>Q.</b> Why was the developer's family upset with them at dinner?</p>
+            <p class="answer"><b>A.</b> They forgot to git squash before going home </p>
           </div>
         </div>
       </div>
