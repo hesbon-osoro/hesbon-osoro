@@ -9,6 +9,12 @@ const WAKATIME_USER = 'wazimu';
 
 export const CARDS = [
   {
+    file: 'hire-me.svg',
+    sources: [
+      'https://img.shields.io/badge/Hire_me-osoro%40hesbon.dev-2FA4D7?style=for-the-badge&logo=gmail&logoColor=white',
+    ],
+  },
+  {
     file: 'stack-code.svg',
     sources: [
       'https://skillicons.dev/icons?i=go,rust,ts,js,py,react,nextjs,nodejs,graphql,html,css&perline=11&theme=dark',
@@ -23,7 +29,7 @@ export const CARDS = [
   {
     file: 'stack-data.svg',
     sources: [
-      'https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase&perline=11&theme=dark',
+      'https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase,r,matlab&perline=11&theme=dark',
     ],
   },
   {
