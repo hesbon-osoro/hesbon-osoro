@@ -1,0 +1,43 @@
+apiVersion: kustomize.config.k8s.io/v1beta1
+kind: Kustomization
+
+namespace: orders
+
+resources:
+  - ../../base
+  - namespace.yaml
+  - priorityclass.yaml
+
+images:
+  # CI pins the immutable digest here on every release.
+  - name: orders-api
+    newName: ghcr.io/hesbon-osoro/orders-api
+    newTag: 1.0.0
+
+patches:
+  - path: deployment-patch.yaml
+  - target:
+      kind: ServiceAccount
+      name: orders-api
+    patch: |-
+      - op: add
+        path: /metadata/annotations
+        value:
+          eks.amazonaws.com/role-arn: arn:aws:iam::123456789012:role/orders-api-production
+  - target:
+      kind: HorizontalPodAutoscaler
+      name: orders-api
+    patch: |-
+      - op: replace
+        path: /spec/minReplicas
+        value: 3
+      - op: replace
+        path: /spec/maxReplicas
+        value: 20
+  - target:
+      kind: PodDisruptionBudget
+      name: orders-api
+    patch: |-
+      - op: replace
+        path: /spec/minAvailable
+        value: 2

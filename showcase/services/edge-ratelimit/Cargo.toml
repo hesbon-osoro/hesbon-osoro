@@ -1,0 +1,20 @@
+[package]
+name = "edge-ratelimit"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.75"
+description = "Keyed token-bucket rate limiter for edge services"
+license = "MIT"
+publish = false
+
+[dependencies]
+
+[lints.rust]
+unsafe_code = "forbid"
+missing_docs = "warn"
+
+[lints.clippy]
+pedantic = { level = "warn", priority = -1 }
+cast_possible_truncation = "allow"
+cast_sign_loss = "allow"
+cast_precision_loss = "allow"

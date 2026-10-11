@@ -1,0 +1,70 @@
+# Multi-window, multi-burn-rate SLO alerts (Google SRE Workbook, ch. 5) for a
+# 99.9% availability objective on orders-api. Page on fast burn, ticket on slow.
+apiVersion: monitoring.coreos.com/v1
+kind: PrometheusRule
+metadata:
+  name: orders-api-slo
+  namespace: monitoring
+  labels:
+    release: kube-prometheus-stack
+spec:
+  groups:
+    - name: orders-api.sli
+      interval: 30s
+      rules:
+        - record: orders_api:error_ratio:rate5m
+          expr: |
+            sum(rate(http_requests_total{route=~"/v1/.*",status=~"5.."}[5m]))
+            /
+            sum(rate(http_requests_total{route=~"/v1/.*"}[5m]))
+        - record: orders_api:error_ratio:rate30m
+          expr: |
+            sum(rate(http_requests_total{route=~"/v1/.*",status=~"5.."}[30m]))
+            /
+            sum(rate(http_requests_total{route=~"/v1/.*"}[30m]))
+        - record: orders_api:error_ratio:rate1h
+          expr: |
+            sum(rate(http_requests_total{route=~"/v1/.*",status=~"5.."}[1h]))
+            /
+            sum(rate(http_requests_total{route=~"/v1/.*"}[1h]))
+        - record: orders_api:error_ratio:rate6h
+          expr: |
+            sum(rate(http_requests_total{route=~"/v1/.*",status=~"5.."}[6h]))
+            /
+            sum(rate(http_requests_total{route=~"/v1/.*"}[6h]))
+        - record: orders_api:latency_p99:rate5m
+          expr: |
+            histogram_quantile(0.99,
+              sum by (le) (rate(http_request_duration_seconds_bucket{route=~"/v1/.*"}[5m])))
+
+    - name: orders-api.slo
+      rules:
+        - alert: OrdersApiErrorBudgetFastBurn
+          # 14.4x burn consumes 2% of a 30-day budget in one hour.
+          expr: |
+            orders_api:error_ratio:rate1h > (14.4 * 0.001)
+            and
+            orders_api:error_ratio:rate5m > (14.4 * 0.001)
+          for: 2m
+          labels:
+            severity: page
+          annotations:
+            summary: orders-api is burning its error budget 14x too fast
+            runbook_url: https://github.com/hesbon-osoro/hesbon-osoro/tree/main/showcase#runbooks
+        - alert: OrdersApiErrorBudgetSlowBurn
+          expr: |
+            orders_api:error_ratio:rate6h > (6 * 0.001)
+            and
+            orders_api:error_ratio:rate30m > (6 * 0.001)
+          for: 15m
+          labels:
+            severity: ticket
+          annotations:
+            summary: orders-api error budget burn is elevated (6x)
+        - alert: OrdersApiHighLatency
+          expr: orders_api:latency_p99:rate5m > 0.25
+          for: 10m
+          labels:
+            severity: ticket
+          annotations:
+            summary: orders-api p99 latency is above the 250ms objective

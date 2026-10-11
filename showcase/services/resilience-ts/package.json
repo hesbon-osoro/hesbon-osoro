@@ -1,0 +1,18 @@
+{
+  "name": "resilience-ts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Retry with jittered backoff and a circuit breaker for Node.js services",
+  "type": "module",
+  "engines": {
+    "node": ">=22.6"
+  },
+  "scripts": {
+    "typecheck": "tsc -p .",
+    "test": "node --experimental-strip-types --no-warnings --test \"src/**/*.test.ts\""
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "typescript": "^5.8.3"
+  }
+}
