@@ -26,10 +26,14 @@ jobs:
       - run: npm install --no-save --no-package-lock --no-audit --no-fund
       - name: Prettier
         run: npm run format:check
-      - name: Card pipeline tests
-        run: npm run test:cards
+      - name: Unit tests (cards, site builder)
+        run: npm test
       - name: README structure and images
         run: npm run lint:readme
+      - name: Build hesbon-osoro.github.io from the README
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: npm run build:site
 
   go:
     name: Go · orders-api

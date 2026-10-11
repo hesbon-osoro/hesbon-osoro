@@ -9,3 +9,6 @@ __pycache__/
 target/
 .terraform/
 .terraform.lock.hcl
+
+# Built website (published to hesbon-osoro.github.io)
+_site/
