@@ -2,10 +2,10 @@
 // Builds https://hesbon-osoro.github.io from this repository's README.md.
 //
 // The README is rendered by GitHub's own Markdown API, so the website matches
-// the profile exactly, then wrapped in a themed page with SEO metadata and
-// smooth expand/collapse for <details> sections. Every local asset the README
-// references is copied next to the page so the site has no runtime
-// dependency on this repository.
+// the profile exactly, then placed inside the site's original layout
+// (template.mjs + static/) with SEO metadata and smooth expand/collapse for
+// <details> sections. Every local asset the page references is copied next
+// to it, so the site has no runtime dependency on this repository.
 //
 // Usage: GITHUB_TOKEN=... node scripts/site/build.mjs [--out _site]
 
@@ -23,6 +23,13 @@ const ROOT = path.resolve(
 const REPO = 'hesbon-osoro/hesbon-osoro';
 const SITE_URL = 'https://hesbon-osoro.github.io/';
 const BLOB_BASE = `https://github.com/${REPO}/blob/main/`;
+// The site's original stylesheet and script (layout, keyword background,
+// scrollbar, dark mode), served next to index.html.
+const STATIC_DIR = path.join(
+  path.dirname(fileURLToPath(import.meta.url)),
+  'static'
+);
+const STATIC_FILES = ['style.css', 'script.js'];
 
 export async function renderMarkdown(markdown, token) {
   const res = await fetch('https://api.github.com/markdown', {
@@ -153,7 +160,13 @@ async function main() {
     ROOT
   );
 
-  const assets = localAssets(body);
+  const page = pageTemplate({ body, siteUrl: SITE_URL });
+  const broken = brokenAnchors(page);
+  if (broken.length)
+    throw new Error(`broken in-page links: #${broken.join(', #')}`);
+
+  // Every local asset the README or the page shell references.
+  const assets = localAssets(page);
   const missing = assets.filter(a => !existsSync(path.join(ROOT, a)));
   if (missing.length) throw new Error(`missing assets: ${missing.join(', ')}`);
 
@@ -163,11 +176,9 @@ async function main() {
     await mkdir(path.dirname(target), { recursive: true });
     await copyFile(path.join(ROOT, asset), target);
   }
-
-  const page = pageTemplate({ body, siteUrl: SITE_URL });
-  const broken = brokenAnchors(page);
-  if (broken.length)
-    throw new Error(`broken in-page links: #${broken.join(', #')}`);
+  for (const file of STATIC_FILES) {
+    await copyFile(path.join(STATIC_DIR, file), path.join(out, file));
+  }
 
   // Output is deterministic (no build timestamps) so the publishing workflow
   // only commits when the README or its assets actually change.
