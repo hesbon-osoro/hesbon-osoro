@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> What do cats and programmers have in common?</p>
-            <p class="answer"><b>A.</b> When either one is unusually happy and excited, an appropriate question would be, "did you find a bug". </p>
+            <p class="question"><b>Q.</b> What is React's favorite movie genre?</p>
+            <p class="answer"><b>A.</b> Suspense </p>
           </div>
         </div>
       </div>
