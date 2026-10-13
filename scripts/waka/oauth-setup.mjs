@@ -15,7 +15,7 @@ import { spawnSync } from 'node:child_process';
 import { randomBytes } from 'node:crypto';
 import { createInterface } from 'node:readline';
 import { fileURLToPath } from 'node:url';
-import { fetchStats } from './index.mjs';
+import { describeError, fetchStats } from './index.mjs';
 
 const REPO = process.env.README_REPO || 'hesbon-osoro/hesbon-osoro';
 const REDIRECT_URI = 'https://wakatime.com/oauth/test';
@@ -176,7 +176,7 @@ async function main() {
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
   main().catch(err => {
-    console.error(`\n${err.message}`);
+    console.error(`\n${describeError(err)}`);
     process.exit(1);
   });
 }
