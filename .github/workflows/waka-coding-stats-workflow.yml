@@ -8,8 +8,10 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
+    # Twice a day: WakaTime recalculates stats in the background after a
+    # request, so the midday run collects what the midnight run triggered.
     - cron: '0 0 * * *'
+    - cron: '0 12 * * *'
 
 permissions:
   contents: read

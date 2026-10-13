@@ -140,10 +140,17 @@ async function main() {
   }
 
   process.stdout.write('\nChecking the token can read your stats... ');
-  const stats = await fetchStats(`Bearer ${token.access_token}`, {
-    attempts: 3,
-    delayMs: 5_000,
-  });
+  let stats;
+  try {
+    stats = await fetchStats(`Bearer ${token.access_token}`, {
+      attempts: 2,
+      delayMs: 3_000,
+    });
+  } catch (err) {
+    // Still recalculating means the token works; anything else is fatal.
+    if (!err.staleData) throw err;
+    stats = err.staleData;
+  }
   console.log(
     `ok (${stats.languages?.length ?? 0} languages, ${stats.start?.slice(0, 10)} → ${stats.end?.slice(0, 10)})`
   );

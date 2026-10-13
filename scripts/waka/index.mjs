@@ -131,11 +131,33 @@ export function authHeader(env = process.env) {
   return null;
 }
 
+// Thrown when WakaTime never finishes recalculating within the polling
+// window; carries the newest (stale) stats it did return.
+export class StaleStatsError extends Error {
+  constructor(staleData) {
+    super(
+      `stats still being calculated (newest available ends ${String(staleData.end).slice(0, 10)})`
+    );
+    this.name = 'StaleStatsError';
+    this.staleData = staleData;
+  }
+}
+
+// WakaTime calculates stats in the background: a request returns the cached
+// copy (is_up_to_date=false) and triggers a refresh. Asking once a day meant
+// always publishing the copy triggered the day before, two days behind, so
+// keep polling (~5.5 min by default) until the fresh numbers are ready.
 export async function fetchStats(
   authorization,
-  { attempts = 4, delayMs = 15_000, fetchImpl = fetch } = {}
+  {
+    attempts = 8,
+    delayMs = 15_000,
+    maxDelayMs = 60_000,
+    fetchImpl = fetch,
+  } = {}
 ) {
   let lastError;
+  let staleData = null;
   for (let attempt = 1; attempt <= attempts; attempt++) {
     try {
       const res = await fetchImpl(STATS_URL, {
@@ -147,24 +169,48 @@ export async function fetchStats(
       });
       const body = await res.json().catch(() => ({}));
       const data = body.data;
-      // WakaTime computes stats in the background; is_up_to_date=false means
-      // the numbers are missing or from an old range, so wait and retry
-      // rather than publishing them.
-      if (res.ok && data?.start && data.is_up_to_date !== false) return data;
-      lastError = new Error(
-        res.ok
-          ? 'stats are still being calculated'
-          : `HTTP ${res.status}: ${body.error ?? body.message ?? res.statusText}`
-      );
-      // Bad credentials or scope won't fix themselves on retry.
-      if (res.status >= 400 && res.status < 500 && res.status !== 429) break;
+      if (res.ok && data?.start) {
+        if (data.is_up_to_date !== false) return data;
+        staleData = data;
+        lastError = new StaleStatsError(data);
+      } else {
+        lastError = new Error(
+          res.ok
+            ? 'no stats in the response'
+            : `HTTP ${res.status}: ${body.error ?? body.message ?? res.statusText}`
+        );
+        // Bad credentials or scope won't fix themselves on retry.
+        if (res.status >= 400 && res.status < 500 && res.status !== 429) break;
+      }
     } catch (err) {
       lastError = err;
     }
     if (attempt < attempts)
-      await new Promise(r => setTimeout(r, attempt * delayMs));
+      await new Promise(r =>
+        setTimeout(r, Math.min(attempt * delayMs, maxDelayMs))
+      );
   }
-  throw lastError;
+  throw staleData ? new StaleStatsError(staleData) : lastError;
+}
+
+// The "To:" date of the block currently in the README, as YYYY-MM-DD.
+export function blockEndDate(readme, config = CONFIG) {
+  const section = readme.split(`<!--START_SECTION:${config.section}-->`)[1];
+  const match = section && /To: (\d{2}) ([A-Za-z]+) (\d{4})/.exec(section);
+  if (!match) return null;
+  const month = MONTHS.indexOf(match[2]) + 1;
+  if (!month) return null;
+  return `${match[3]}-${String(month).padStart(2, '0')}-${match[1]}`;
+}
+
+// When WakaTime is still recalculating, its newest (not yet final) stats are
+// still better than freezing the block, but only if they are newer than what
+// the README already shows.
+export function staleFallback(err, readme) {
+  if (!err?.staleData?.end) return null;
+  const current = blockEndDate(readme);
+  const staleEnd = String(err.staleData.end).slice(0, 10);
+  return !current || staleEnd > current ? err.staleData : null;
 }
 
 async function main() {
@@ -181,19 +227,26 @@ async function main() {
     );
   }
 
+  const readme = await readFile(README, 'utf8');
   let stats;
   try {
     stats = await fetchStats(auth.value);
   } catch (err) {
-    console.log(
-      `::warning title=WakaTime::API unavailable (${describeError(err)}); kept the previous block`
-    );
-    return;
+    stats = staleFallback(err, readme);
+    if (stats) {
+      console.log(
+        `::warning title=WakaTime::Stats still recalculating; published the newest available (to ${stats.end.slice(0, 10)}, README had ${blockEndDate(readme)}). The next run picks up the fresh numbers.`
+      );
+    } else {
+      console.log(
+        `::warning title=WakaTime::${describeError(err)}; kept the previous block`
+      );
+      return;
+    }
   }
 
   const content = renderBlock(stats);
   console.log(content);
-  const readme = await readFile(README, 'utf8');
   const updated = replaceSection(readme, content);
   if (updated === readme) {
     console.log('WakaTime block unchanged.');

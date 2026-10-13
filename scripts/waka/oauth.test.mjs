@@ -160,3 +160,74 @@ describe('describeError', () => {
     );
   });
 });
+
+describe('stale stats (2-day lag, #14)', () => {
+  const block = end =>
+    `<!--START_SECTION:waka-->\n\n\`\`\`txt\nFrom: 11 September 2026 - To: ${end}\n\`\`\`\n\n<!--END_SECTION:waka-->`;
+
+  it('polls until WakaTime finishes recalculating', async () => {
+    const stale = {
+      ...fresh,
+      end: '2026-10-11T23:59:59Z',
+      is_up_to_date: false,
+    };
+    const { impl, calls } = fakeFetch([
+      [200, { data: stale }],
+      [200, { data: stale }],
+      [200, { data: stale }],
+      [200, { data: fresh }],
+    ]);
+    const { fetchStats } = await import('./index.mjs');
+    assert.deepEqual(
+      await fetchStats('Bearer t', { fetchImpl: impl, delayMs: 0 }),
+      fresh
+    );
+    assert.equal(calls.length, 4);
+  });
+
+  it('hands back the newest stale stats when polling runs out', async () => {
+    const { fetchStats, StaleStatsError } = await import('./index.mjs');
+    const stale = {
+      ...fresh,
+      end: '2026-10-12T23:59:59Z',
+      is_up_to_date: false,
+    };
+    const { impl } = fakeFetch([[200, { data: stale }]]);
+    const err = await fetchStats('Bearer t', {
+      fetchImpl: impl,
+      attempts: 3,
+      delayMs: 0,
+    }).catch(e => e);
+    assert.ok(err instanceof StaleStatsError);
+    assert.equal(err.staleData, stale);
+    assert.match(err.message, /newest available ends 2026-10-12/);
+  });
+
+  it('reads the "To:" date of the current block', async () => {
+    const { blockEndDate } = await import('./index.mjs');
+    assert.equal(blockEndDate(block('11 October 2026')), '2026-10-11');
+    assert.equal(blockEndDate('# no block'), null);
+  });
+
+  it('publishes stale stats only when newer than the README', async () => {
+    const { staleFallback } = await import('./index.mjs');
+    const err = { staleData: { end: '2026-10-12T23:59:59Z' } };
+    assert.equal(staleFallback(err, block('11 October 2026')), err.staleData);
+    assert.equal(staleFallback(err, block('12 October 2026')), null);
+    assert.equal(staleFallback(err, block('13 October 2026')), null);
+    assert.equal(
+      staleFallback(new Error('HTTP 401'), block('11 October 2026')),
+      null
+    );
+  });
+
+  it('reads the real README block', async () => {
+    const { blockEndDate } = await import('./index.mjs');
+    const { readFile } = await import('node:fs/promises');
+    const readme = await readFile(
+      new URL('../../README.md', import.meta.url),
+      'utf8'
+    );
+    assert.match(blockEndDate(readme), /^\d{4}-\d{2}-\d{2}$/);
+  });
+});
