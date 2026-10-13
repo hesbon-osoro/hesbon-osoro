@@ -6,7 +6,8 @@
 // looks exactly as before. When the API is unavailable the existing block is
 // kept and the run only warns, instead of failing the workflow.
 //
-// Usage: WAKATIME_API_KEY=... node scripts/waka/index.mjs
+// Usage: WAKATIME_ACCESS_TOKEN=... node scripts/waka/index.mjs
+// (get the token once with: node scripts/waka/oauth-setup.mjs)
 
 import { readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
@@ -99,47 +100,75 @@ export function replaceSection(readme, content, config = CONFIG) {
   );
 }
 
-async function fetchStats(apiKey, attempts = 4) {
-  const url = `https://wakatime.com/api/v1/users/current/stats/${CONFIG.timeRange}`;
-  const auth = Buffer.from(apiKey).toString('base64');
+const STATS_URL = `https://wakatime.com/api/v1/users/current/stats/${CONFIG.timeRange}`;
+
+// From November 1, 2026 WakaTime API keys are write-only (plugins only), so
+// reading stats needs an OAuth access token with the read_stats scope. The
+// API key stays as a fallback until then.
+export function authHeader(env = process.env) {
+  if (env.WAKATIME_ACCESS_TOKEN) {
+    return { scheme: 'oauth', value: `Bearer ${env.WAKATIME_ACCESS_TOKEN}` };
+  }
+  if (env.WAKATIME_API_KEY) {
+    const encoded = Buffer.from(env.WAKATIME_API_KEY).toString('base64');
+    return { scheme: 'api-key', value: `Basic ${encoded}` };
+  }
+  return null;
+}
+
+export async function fetchStats(
+  authorization,
+  { attempts = 4, delayMs = 15_000, fetchImpl = fetch } = {}
+) {
   let lastError;
   for (let attempt = 1; attempt <= attempts; attempt++) {
     try {
-      const res = await fetch(url, {
+      const res = await fetchImpl(STATS_URL, {
         headers: {
-          Authorization: `Basic ${auth}`,
+          Authorization: authorization,
           'User-Agent': 'hesbon-osoro-readme',
         },
         signal: AbortSignal.timeout(30_000),
       });
       const body = await res.json().catch(() => ({}));
-      if (res.ok && body.data?.start) return body.data;
+      const data = body.data;
+      // WakaTime computes stats in the background; is_up_to_date=false means
+      // the numbers are missing or from an old range, so wait and retry
+      // rather than publishing them.
+      if (res.ok && data?.start && data.is_up_to_date !== false) return data;
       lastError = new Error(
-        `HTTP ${res.status}: ${body.error ?? body.message ?? 'no data yet'}`
+        res.ok
+          ? 'stats are still being calculated'
+          : `HTTP ${res.status}: ${body.error ?? body.message ?? res.statusText}`
       );
-      // WakaTime returns 202 while it is still computing stats; worth waiting.
+      // Bad credentials or scope won't fix themselves on retry.
       if (res.status >= 400 && res.status < 500 && res.status !== 429) break;
     } catch (err) {
       lastError = err;
     }
     if (attempt < attempts)
-      await new Promise(r => setTimeout(r, attempt * 15_000));
+      await new Promise(r => setTimeout(r, attempt * delayMs));
   }
   throw lastError;
 }
 
 async function main() {
-  const apiKey = process.env.WAKATIME_API_KEY;
-  if (!apiKey) {
+  const auth = authHeader();
+  if (!auth) {
     console.log(
-      '::warning title=WakaTime::WAKATIME_API_KEY is not set; README left unchanged'
+      '::warning title=WakaTime::Set the WAKATIME_ACCESS_TOKEN secret (run scripts/waka/oauth-setup.mjs); README left unchanged'
     );
     return;
+  }
+  if (auth.scheme === 'api-key') {
+    console.log(
+      '::warning title=WakaTime::Using the API key, which stops working for stats on 2026-11-01. Run scripts/waka/oauth-setup.mjs to switch to OAuth.'
+    );
   }
 
   let stats;
   try {
-    stats = await fetchStats(apiKey);
+    stats = await fetchStats(auth.value);
   } catch (err) {
     console.log(
       `::warning title=WakaTime::API unavailable (${err.message}); kept the previous block`
