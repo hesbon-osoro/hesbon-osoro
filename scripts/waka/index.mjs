@@ -9,6 +9,7 @@
 // Usage: WAKATIME_ACCESS_TOKEN=... node scripts/waka/index.mjs
 // (get the token once with: node scripts/waka/oauth-setup.mjs)
 
+import net from 'node:net';
 import { readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -100,6 +101,20 @@ export function replaceSection(readme, content, config = CONFIG) {
   );
 }
 
+// wakatime.com has IPv4 and IPv6 addresses. Node's Happy Eyeballs gives each
+// only 250 ms by default, so on a network with broken IPv6 and a ~300 ms IPv4
+// handshake every attempt is abandoned and fetch fails with ETIMEDOUT.
+net.setDefaultAutoSelectFamilyAttemptTimeout(2_000);
+
+// Undici reports network failures as a bare "fetch failed"; surface the cause.
+export function describeError(err) {
+  const cause = err?.cause;
+  const detail = cause?.code ?? cause?.message;
+  return detail && !String(err.message).includes(detail)
+    ? `${err.message} (${detail})`
+    : String(err?.message ?? err);
+}
+
 const STATS_URL = `https://wakatime.com/api/v1/users/current/stats/${CONFIG.timeRange}`;
 
 // From November 1, 2026 WakaTime API keys are write-only (plugins only), so
@@ -171,7 +186,7 @@ async function main() {
     stats = await fetchStats(auth.value);
   } catch (err) {
     console.log(
-      `::warning title=WakaTime::API unavailable (${err.message}); kept the previous block`
+      `::warning title=WakaTime::API unavailable (${describeError(err)}); kept the previous block`
     );
     return;
   }

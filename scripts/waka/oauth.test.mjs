@@ -146,3 +146,17 @@ describe('oauth-setup helpers', () => {
     );
   });
 });
+
+describe('describeError', () => {
+  it('surfaces the network cause behind "fetch failed"', async () => {
+    const { describeError } = await import('./index.mjs');
+    const err = new TypeError('fetch failed', {
+      cause: Object.assign(new Error('connect'), { code: 'ETIMEDOUT' }),
+    });
+    assert.equal(describeError(err), 'fetch failed (ETIMEDOUT)');
+    assert.equal(
+      describeError(new Error('HTTP 401: Unauthorized')),
+      'HTTP 401: Unauthorized'
+    );
+  });
+});
