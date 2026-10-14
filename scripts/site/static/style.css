@@ -195,27 +195,6 @@ td[colspan] {
     text-align: left;
     margin-bottom: 0.2em;
   }
-  tr td {
-    border-left: 1px dashed #ccc;
-    display: block;
-    text-align: center;
-  }
-  tr:first-of-type td:first-of-type {
-    border-top: 1px solid #ccc;
-  }
-  tr:last-of-type td:last-of-type {
-    border-bottom: 1px solid #ccc;
-  }
-  tr td:nth-child(odd) {
-    border-bottom: none;
-  }
-  table:first-of-type tr td:nth-child(even) {
-    padding-bottom: 0.5em;
-  }
-
-  table:last-of-type tr td:nth-child(even) {
-    padding-bottom: 1em;
-  }
 }
 
 img[alt='wazimu'] {
@@ -335,6 +314,9 @@ body {
 }
 
 .readme pre {
+  text-align: left;
+  white-space: pre;
+  max-width: 100%;
   overflow-x: auto;
   padding: 1em;
   border-radius: 6px;
@@ -421,4 +403,176 @@ body {
   html {
     scroll-behavior: auto;
   }
+}
+
+/* ---------- Mobile (phones and small tablets) ---------- */
+
+@media only screen and (max-width: 767px) {
+  /* Use the full width: the card and its frame were eating ~25% of a phone. */
+  .background-wrapper {
+    max-width: calc(100vw - 16px);
+    min-height: auto;
+    margin: 8px auto;
+  }
+
+  .container {
+    max-width: 100%;
+    margin: 0;
+    border-width: 6px;
+    padding: 12px 10px 0;
+  }
+
+  /* Reading text left-aligned; README elements with align="center"
+     (badges, cards, the greeting) stay centred via their own attribute. */
+  .readme {
+    text-align: left;
+  }
+
+  .readme h1,
+  .readme h2,
+  .readme h3 {
+    text-align: left;
+  }
+
+  /* Alignment set in the README itself always wins. */
+  .readme [align='center'] {
+    text-align: center;
+  }
+
+  .readme [align='right'] {
+    text-align: right;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* Card pairs set to 49%/60% width become full-width rows on a phone. */
+  .readme img[width$='%'] {
+    width: 100%;
+  }
+
+  .readme pre {
+    font-size: 0.8em;
+  }
+
+  /* Generic tables (Platform Showcase): one card per row instead of a
+     424 px table that pushed the whole page sideways. */
+  .readme table {
+    display: block;
+    width: 100%;
+    border: 0;
+  }
+
+  .readme table thead {
+    display: none;
+  }
+
+  .readme table tbody,
+  .readme table tr {
+    display: block;
+    width: 100%;
+  }
+
+  .readme table tr {
+    margin-bottom: 0.75em;
+    border: 1px dashed #ccc;
+    border-radius: 6px;
+  }
+
+  /* Override the width="50%" attribute on project/certificate cells so each
+     cell (and its screenshot) uses the full width. */
+  .readme table td,
+  .readme table th {
+    display: block;
+    width: auto !important;
+    border: 0;
+    padding: 0.5em 0.75em;
+    text-align: left;
+  }
+
+  .readme table td:first-child {
+    font-weight: bold;
+  }
+
+  /* Project and certificate cards: centred like the desktop grid, one per row. */
+  .readme details > table {
+    width: 100%;
+    table-layout: auto;
+  }
+
+  .readme details > :not(summary) {
+    margin: 0 0.5em 0.5em;
+  }
+
+  .readme details table td {
+    text-align: center;
+    font-weight: normal;
+  }
+
+  .readme details table td:empty {
+    display: none;
+  }
+
+  .readme details table tr {
+    border: 0;
+    margin: 0;
+  }
+
+  .readme details table td + td {
+    border-top: 1px dashed #ccc;
+  }
+
+  .readme details table tr + tr {
+    border-top: 1px dashed #ccc;
+  }
+
+  /* Floating buttons: smaller, inside the safe area, never off-screen. */
+  #toggle-dark-mode-button {
+    top: max(8px, env(safe-area-inset-top));
+    right: max(8px, env(safe-area-inset-right));
+  }
+
+  #toggle-dark-mode-button img {
+    width: 34px;
+    height: 34px;
+  }
+
+  #scroll-button {
+    right: max(8px, env(safe-area-inset-right));
+    bottom: max(8px, env(safe-area-inset-bottom));
+  }
+
+  #scroll-button img {
+    width: 40px;
+    height: 40px;
+  }
+
+  /* Keep the top-right toggle from covering the greeting. */
+  .readme > :first-child {
+    padding-right: 44px;
+  }
+}
+
+/* ---------- Dark theme polish ---------- */
+
+/* The card was pure black on a pure black page, and its black star frame
+   vanished. Lift the card slightly and draw the frame in grey. */
+.container.dark-mode {
+  background-color: #0d1117;
+  border-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100' viewBox='0 0 100 100'%3E%3Cpolygon fill='%23777' points='50.0,12.5 56.9,33.4 76.5,23.5 66.6,43.1 87.5,50.0 66.6,56.9 76.5,76.5 56.9,66.6 50.0,87.5 43.1,66.6 23.5,76.5 33.4,56.9 12.5,50.0 33.4,43.1 23.5,23.5 43.1,33.4'/%3E%3C/svg%3E")
+    40 round;
+}
+
+.dark-mode a {
+  color: #6cb6ff;
+}
+
+.dark-mode .readme table tr,
+.dark-mode .readme details,
+.dark-mode .readme details table td + td,
+.dark-mode .readme details table tr + tr,
+.dark-mode .readme h2 {
+  border-color: #3d444d;
 }

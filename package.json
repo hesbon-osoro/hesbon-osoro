@@ -9,6 +9,7 @@
     "cards": "node scripts/readme-cards/index.mjs",
     "test": "node --test \"scripts/**/*.test.mjs\"",
     "build:site": "node scripts/site/build.mjs --out _site",
+    "check:mobile": "node scripts/site/check-mobile.mjs _site",
     "test:cards": "node --test \"scripts/readme-cards/*.test.mjs\"",
     "clone:repos": "node clone-portfolio-repos.js",
     "manage:repos": "node manage-portfolio-repos.js",
