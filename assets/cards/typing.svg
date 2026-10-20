@@ -15,7 +15,7 @@
 }
 </style>
 
-                <path id='path0'>
+                    <path id='path0'>
                             <!-- Single line -->
                                 <animate id='d0' attributeName='d' begin='0s;d3.end'
                     dur='4300ms' fill='remove'
