@@ -126,7 +126,7 @@
         class="stat"
         x="350"
         y="12.5"
-      >723 hrs 41 mins</text>
+      >724 hrs</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
@@ -153,7 +153,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
-      <svg data-testid="lang-progress" width="19.91%">
+      <svg data-testid="lang-progress" width="19.89%">
         <rect
             height="8"
             fill="#009933"
@@ -172,7 +172,7 @@
         class="stat"
         x="350"
         y="12.5"
-      >289 hrs 34 mins</text>
+      >289 hrs 52 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
@@ -218,11 +218,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >123 hrs 39 mins</text>
+      >124 hrs 10 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
-      <svg data-testid="lang-progress" width="4.99%">
+      <svg data-testid="lang-progress" width="5.01%">
         <rect
             height="8"
             fill="#009933"
@@ -268,7 +268,7 @@
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
-      <svg data-testid="lang-progress" width="3.65%">
+      <svg data-testid="lang-progress" width="3.64%">
         <rect
             height="8"
             fill="#009933"
@@ -333,11 +333,11 @@
         class="stat"
         x="350"
         y="12.5"
-      >62 hrs 15 mins</text>
+      >62 hrs 54 mins</text>
       
     <svg width="220" x="110" y="4">
       <rect rx="5" ry="5" x="0" y="0" width="220" height="8" fill="#9f9f9f"></rect>
-      <svg data-testid="lang-progress" width="2.51%">
+      <svg data-testid="lang-progress" width="2.54%">
         <rect
             height="8"
             fill="#009933"
