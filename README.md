@@ -27,7 +27,7 @@ I view every project as a new challenge and a chance to evolve. I collaborate cl
 ## 🛠️ Tech Stack
 
 **Languages:** Go, TypeScript, JavaScript, Rust, Python, SQL, Bash  
-**Frontend & APIs:** React, Next.js, Node.js, GraphQL, REST  
+**Frontend & APIs:** React, Next.js, React Native (Expo), Node.js, GraphQL, REST  
 **Cloud & Platform:** AWS (EKS, ECR, IAM, VPC), Docker, Kubernetes, Kustomize, Terraform  
 **DevOps & SRE:** GitHub Actions (OIDC), Prometheus, SLOs & error budgets, Nginx, Linux, Git  
 **Databases:** PostgreSQL, MongoDB, MySQL, Firebase  
