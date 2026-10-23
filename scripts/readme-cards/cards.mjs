@@ -60,9 +60,19 @@ export const CARDS = [
     ],
   },
   {
+    // This already aggregates across every public repo under USER — top-langs
+    // was never scoped to just this one profile repo. The real skew was four
+    // old coursework repos literally named C / cpp / Python / Java ("Basics
+    // to Advanced" practice) whose HTML-heavy exercise pages accounted for
+    // ~90% of all HTML bytes on the account and made Java show up out of
+    // nowhere, neither representative of the current stack. Excluded by
+    // name, and HTML/CSS hidden outright since they're not a differentiator
+    // worth leading with — current stack (JS/TS/Go/Rust) now surfaces
+    // correctly. Revisit exclude_repo if those repos are ever cleaned up or
+    // renamed.
     file: 'top-langs.svg',
     sources: [
-      `https://github-readme-stats.vercel.app/api/top-langs/?username=${USER}&layout=compact&theme=dark&title_color=009933&hide_border=true`,
+      `https://github-readme-stats.vercel.app/api/top-langs/?username=${USER}&layout=compact&theme=dark&title_color=009933&hide_border=true&exclude_repo=C,cpp,Python,Java&hide=html,css`,
     ],
   },
   {
