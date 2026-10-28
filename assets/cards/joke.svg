@@ -51,8 +51,8 @@
         </style>
         <div class="container">
           <div class="text">
-            <p class="question"><b>Q.</b> How does a sysadmin keep a fire going?</p>
-            <p class="answer"><b>A.</b> They rotate the logs. </p>
+            <p class="question"><b>Q.</b> What PostgreSQL library should Python developers use for adult-oriented code?</p>
+            <p class="answer"><b>A.</b> psycoPG13 </p>
           </div>
         </div>
       </div>
