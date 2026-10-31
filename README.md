@@ -2,7 +2,9 @@
 
 [![I'm Hesbon, A.K.A Wazimu: Software & Platform Engineer](assets/cards/typing.svg)](https://hesbon.dev/)
 
-🚀 **Software Engineer | Platform & DevOps | Full-Stack Developer | AI & Cybersecurity Enthusiast**
+🚀 **Full-stack engineer (React/Next.js · Node · TypeScript) shipping web and mobile products for remote teams in the US, UK and EU.**
+
+> I build production apps end to end, convert web apps into React Native mobile apps, and train and evaluate AI models, so I review code with an evaluator's eye. A security background shapes how I handle auth, payments and infrastructure; I'm currently building and learning on Web3.
 
 > 🛠️ **New**: [Repository Management Tools](./REPO_MANAGEMENT.md) - Automatically clone and manage all portfolio projects
 
@@ -19,6 +21,7 @@ As a **Software Engineer** with 3+ years in the field, I thrive on the process o
 I view every project as a new challenge and a chance to evolve. I collaborate closely with diverse stakeholders to deliver efficient results, always staying updated on the latest trends and sharing my refined solutions with the wider community.
 
 - 🌐 Delivered 30+ production-ready projects (React, Next.js, Node.js, GraphQL, PostgreSQL, MongoDB).
+- 📱 Convert existing web apps into React Native (Expo) mobile apps that share the same APIs.
 - ☸️ Design containerised services for Kubernetes with Terraform-managed AWS infrastructure and GitHub Actions CI/CD ([see the showcase](#platform-showcase)).
 - 🤖 Contributed to AI model training & dataset validation for research and academic projects.
 - 🔐 Self-driven in **CompTIA Ethical Hacking** and **HackTheBox** labs.
