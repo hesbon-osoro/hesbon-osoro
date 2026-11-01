@@ -833,9 +833,7 @@ Python        5 hrs 44 mins         █▓░░░░░░░░░░░░�
 - 🐦 Twitter: [@wazimu_hb](https://twitter.com/wazimu_hb)
 - 💻 GitHub: [github.com/hesbon-osoro](https://github.com/hesbon-osoro)
 
-[GoFundMe](https://www.gofundme.com/u/hesbon-osoro)
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/wazimu)
+💵 **Support my work:** [hesbon.dev/pay](https://hesbon.dev/pay)
 
 ⭐️ _Feel free to explore, fork, and collaborate on my projects. Open to freelance, remote roles, and research opportunities._
 
