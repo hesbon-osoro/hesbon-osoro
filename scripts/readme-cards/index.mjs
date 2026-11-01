@@ -7,8 +7,24 @@
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { CARDS, ERROR_MARKERS } from './cards.mjs';
+import {
+  CARDS,
+  ERROR_MARKERS,
+  PINNED_REPO,
+  TOP_LANGS,
+  WAKATIME_USER,
+} from './cards.mjs';
 import { fetchContributions, renderActivityGraph } from './activity-graph.mjs';
+import {
+  fetchGitHubProfile,
+  fetchRepo,
+  fetchWakaTime,
+  renderPinCard,
+  renderStatsCard,
+  renderTopLangsCard,
+  renderWakaTimeCard,
+  topLanguages,
+} from './stat-cards.mjs';
 
 const ROOT = path.resolve(
   path.dirname(fileURLToPath(import.meta.url)),
@@ -81,10 +97,53 @@ async function snapshotActivityGraph() {
   }
 }
 
+async function renderCard(file, source, render) {
+  try {
+    const svg = await render();
+    const problem = validateSvg(svg);
+    if (problem) throw new Error(problem);
+    const changed = await writeIfChanged(file, svg);
+    return { file, ok: true, changed, source };
+  } catch (err) {
+    return { file, ok: false, errors: [err.message] };
+  }
+}
+
+// Cards drawn here from the APIs instead of fetched from a card service.
+function renderedCards() {
+  const token = process.env.GITHUB_TOKEN || process.env.GH_TOKEN;
+  const github = 'api.github.com';
+  if (!token) {
+    const errors = ['GITHUB_TOKEN is not set'];
+    return ['stats.svg', 'top-langs.svg', 'pin.svg']
+      .map(file => ({ file, ok: false, errors }))
+      .concat(wakatimeCard());
+  }
+  // One profile fetch feeds both the stats and the languages card.
+  const profile = fetchGitHubProfile({ login: LOGIN, token });
+  profile.catch(() => {});
+  return [
+    renderCard('stats.svg', github, async () => renderStatsCard(await profile)),
+    renderCard('top-langs.svg', github, async () =>
+      renderTopLangsCard(topLanguages((await profile).repos, TOP_LANGS))
+    ),
+    renderCard('pin.svg', github, async () =>
+      renderPinCard(await fetchRepo({ owner: LOGIN, name: PINNED_REPO, token }))
+    ),
+    wakatimeCard(),
+  ];
+}
+
+const wakatimeCard = () =>
+  renderCard('wakatime.svg', 'wakatime.com', async () =>
+    renderWakaTimeCard(await fetchWakaTime({ user: WAKATIME_USER }))
+  );
+
 async function main() {
   await mkdir(OUT_DIR, { recursive: true });
   const results = await Promise.all([
     snapshotActivityGraph(),
+    ...renderedCards(),
     ...CARDS.map(snapshotCard),
   ]);
 
