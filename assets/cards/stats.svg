@@ -41,7 +41,7 @@
   </g>
   <g transform="translate(390.5, 97.5)">
     <circle r="40" class="rim"/>
-    <circle r="40" class="ring" stroke-dasharray="251.33" stroke-dashoffset="61.95" transform="rotate(-90)"/>
+    <circle r="40" class="ring" stroke-dasharray="251.33" stroke-dashoffset="61.94" transform="rotate(-90)"/>
     <text class="rank" text-anchor="middle" dominant-baseline="central">A</text>
   </g>
 </svg>
