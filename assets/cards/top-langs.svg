@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="300" height="165" viewBox="0 0 300 165" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">Most Used Languages</title>
-  <desc id="desc">JavaScript 64.27%, TypeScript 31.47%, Rust 2.41%, Go 0.74%, Python 0.62%, HCL 0.50%</desc>
+  <desc id="desc">JavaScript 64.28%, TypeScript 31.46%, Rust 2.41%, Go 0.74%, Python 0.62%, HCL 0.50%</desc>
   <style>
     .header { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #009933; }
     .stat { font: 600 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #9f9f9f; }
@@ -12,15 +12,15 @@
   <text x="25" y="35" class="header">Most Used Languages</text>
   <g transform="translate(25, 55)">
     <clipPath id="bar"><rect width="250" height="8" rx="5"/></clipPath>
-    <g clip-path="url(#bar)"><rect x="0" y="0" width="160.67" height="8" fill="#f1e05a"/><rect x="160.67" y="0" width="78.68" height="8" fill="#3178c6"/><rect x="239.35" y="0" width="6.02" height="8" fill="#dea584"/><rect x="245.37" y="0" width="1.84" height="8" fill="#00ADD8"/><rect x="247.21" y="0" width="1.54" height="8" fill="#3572A5"/><rect x="248.76" y="0" width="1.24" height="8" fill="#844FBA"/></g>
+    <g clip-path="url(#bar)"><rect x="0" y="0" width="160.69" height="8" fill="#f1e05a"/><rect x="160.69" y="0" width="78.66" height="8" fill="#3178c6"/><rect x="239.35" y="0" width="6.02" height="8" fill="#dea584"/><rect x="245.37" y="0" width="1.84" height="8" fill="#00ADD8"/><rect x="247.21" y="0" width="1.54" height="8" fill="#3572A5"/><rect x="248.76" y="0" width="1.24" height="8" fill="#844FBA"/></g>
     <g transform="translate(0, 25)">
     <g transform="translate(0, 0)">
       <circle cx="5" cy="6" r="5" fill="#f1e05a"/>
-      <text x="15" y="10" class="lang">JavaScript 64.27%</text>
+      <text x="15" y="10" class="lang">JavaScript 64.28%</text>
     </g>
     <g transform="translate(0, 25)">
       <circle cx="5" cy="6" r="5" fill="#3178c6"/>
-      <text x="15" y="10" class="lang">TypeScript 31.47%</text>
+      <text x="15" y="10" class="lang">TypeScript 31.46%</text>
     </g>
     <g transform="translate(0, 50)">
       <circle cx="5" cy="6" r="5" fill="#dea584"/>
