@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="1400" viewBox="0 0 495 1400" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">WakaTime Stats</title>
-  <desc id="desc">2,586 hrs 48 mins since Oct 13 2021: JavaScript 728 hrs 15 mins, TypeScript 507 hrs 9 mins, Markdown 319 hrs 7 mins, CSS 179 hrs 56 mins, HTML 135 hrs 47 mins, JSON 96 hrs 11 mins, Python 93 hrs 31 mins, Other 93 hrs 2 mins, C 74 hrs 11 mins, C++ 71 hrs 51 mins</desc>
+  <desc id="desc">2,591 hrs 56 mins since Oct 13 2021: JavaScript 728 hrs 15 mins, TypeScript 507 hrs 59 mins, Markdown 320 hrs 5 mins, CSS 179 hrs 56 mins, HTML 135 hrs 47 mins, JSON 96 hrs 11 mins, Other 95 hrs 42 mins, Python 93 hrs 49 mins, C 74 hrs 11 mins, C++ 71 hrs 51 mins</desc>
   <style>
     .header { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #009933; }
     .stat { font: 600 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #9f9f9f; }
@@ -12,66 +12,66 @@
   </style>
   <rect x="0.5" y="0.5" rx="4.5" width="494" height="1399" fill="#151515"/>
   <text x="25" y="35" class="header">WakaTime Stats</text>
-  <text class="small" x="25" y="58">2,586 hrs 48 mins · since Oct 13 2021</text>
+  <text class="small" x="25" y="58">2,591 hrs 56 mins · since Oct 13 2021</text>
   <g transform="translate(0, 75)">
     <g transform="translate(25, 0)">
       <text class="stat" y="12.5">JavaScript:</text>
       <rect x="110" y="4" width="220" height="8" rx="5" class="track"/>
-      <rect x="110" y="4" width="61.93" height="8" rx="5" class="fill"/>
+      <rect x="110" y="4" width="61.82" height="8" rx="5" class="fill"/>
       <text class="stat light" x="350" y="12.5">728 hrs 15 mins</text>
     </g>
     <g transform="translate(25, 25)">
       <text class="stat" y="12.5">TypeScript:</text>
       <rect x="110" y="4" width="220" height="8" rx="5" class="track"/>
-      <rect x="110" y="4" width="43.14" height="8" rx="5" class="fill"/>
-      <text class="stat light" x="350" y="12.5">507 hrs 9 mins</text>
+      <rect x="110" y="4" width="43.12" height="8" rx="5" class="fill"/>
+      <text class="stat light" x="350" y="12.5">507 hrs 59 mins</text>
     </g>
     <g transform="translate(25, 50)">
       <text class="stat" y="12.5">Markdown:</text>
       <rect x="110" y="4" width="220" height="8" rx="5" class="track"/>
-      <rect x="110" y="4" width="27.15" height="8" rx="5" class="fill"/>
-      <text class="stat light" x="350" y="12.5">319 hrs 7 mins</text>
+      <rect x="110" y="4" width="27.17" height="8" rx="5" class="fill"/>
+      <text class="stat light" x="350" y="12.5">320 hrs 5 mins</text>
     </g>
     <g transform="translate(25, 75)">
       <text class="stat" y="12.5">CSS:</text>
       <rect x="110" y="4" width="220" height="8" rx="5" class="track"/>
-      <rect x="110" y="4" width="15.31" height="8" rx="5" class="fill"/>
+      <rect x="110" y="4" width="15.27" height="8" rx="5" class="fill"/>
       <text class="stat light" x="350" y="12.5">179 hrs 56 mins</text>
     </g>
     <g transform="translate(25, 100)">
       <text class="stat" y="12.5">HTML:</text>
       <rect x="110" y="4" width="220" height="8" rx="5" class="track"/>
-      <rect x="110" y="4" width="11.55" height="8" rx="5" class="fill"/>
+      <rect x="110" y="4" width="11.53" height="8" rx="5" class="fill"/>
       <text class="stat light" x="350" y="12.5">135 hrs 47 mins</text>
     </g>
     <g transform="translate(25, 125)">
       <text class="stat" y="12.5">JSON:</text>
       <rect x="110" y="4" width="220" height="8" rx="5" class="track"/>
-      <rect x="110" y="4" width="8.18" height="8" rx="5" class="fill"/>
+      <rect x="110" y="4" width="8.16" height="8" rx="5" class="fill"/>
       <text class="stat light" x="350" y="12.5">96 hrs 11 mins</text>
     </g>
     <g transform="translate(25, 150)">
+      <text class="stat" y="12.5">Other:</text>
+      <rect x="110" y="4" width="220" height="8" rx="5" class="track"/>
+      <rect x="110" y="4" width="8.12" height="8" rx="5" class="fill"/>
+      <text class="stat light" x="350" y="12.5">95 hrs 42 mins</text>
+    </g>
+    <g transform="translate(25, 175)">
       <text class="stat" y="12.5">Python:</text>
       <rect x="110" y="4" width="220" height="8" rx="5" class="track"/>
       <rect x="110" y="4" width="7.96" height="8" rx="5" class="fill"/>
-      <text class="stat light" x="350" y="12.5">93 hrs 31 mins</text>
-    </g>
-    <g transform="translate(25, 175)">
-      <text class="stat" y="12.5">Other:</text>
-      <rect x="110" y="4" width="220" height="8" rx="5" class="track"/>
-      <rect x="110" y="4" width="7.92" height="8" rx="5" class="fill"/>
-      <text class="stat light" x="350" y="12.5">93 hrs 2 mins</text>
+      <text class="stat light" x="350" y="12.5">93 hrs 49 mins</text>
     </g>
     <g transform="translate(25, 200)">
       <text class="stat" y="12.5">C:</text>
       <rect x="110" y="4" width="220" height="8" rx="5" class="track"/>
-      <rect x="110" y="4" width="6.31" height="8" rx="5" class="fill"/>
+      <rect x="110" y="4" width="6.29" height="8" rx="5" class="fill"/>
       <text class="stat light" x="350" y="12.5">74 hrs 11 mins</text>
     </g>
     <g transform="translate(25, 225)">
       <text class="stat" y="12.5">C++:</text>
       <rect x="110" y="4" width="220" height="8" rx="5" class="track"/>
-      <rect x="110" y="4" width="6.12" height="8" rx="5" class="fill"/>
+      <rect x="110" y="4" width="6.09" height="8" rx="5" class="fill"/>
       <text class="stat light" x="350" y="12.5">71 hrs 51 mins</text>
     </g>
     <g transform="translate(25, 250)">
@@ -96,13 +96,13 @@
       <text class="stat" y="12.5">Text:</text>
       <rect x="110" y="4" width="220" height="8" rx="5" class="track"/>
       <rect x="110" y="4" width="2.6" height="8" rx="5" class="fill"/>
-      <text class="stat light" x="350" y="12.5">30 hrs 27 mins</text>
+      <text class="stat light" x="350" y="12.5">30 hrs 28 mins</text>
     </g>
     <g transform="translate(25, 350)">
       <text class="stat" y="12.5">Bash:</text>
       <rect x="110" y="4" width="220" height="8" rx="5" class="track"/>
       <rect x="110" y="4" width="2.44" height="8" rx="5" class="fill"/>
-      <text class="stat light" x="350" y="12.5">28 hrs 35 mins</text>
+      <text class="stat light" x="350" y="12.5">28 hrs 51 mins</text>
     </g>
     <g transform="translate(25, 375)">
       <text class="stat" y="12.5">SQL:</text>
@@ -150,7 +150,7 @@
       <text class="stat" y="12.5">MQL:</text>
       <rect x="110" y="4" width="220" height="8" rx="5" class="track"/>
       <rect x="110" y="4" width="2" height="8" rx="5" class="fill"/>
-      <text class="stat light" x="350" y="12.5">4 hrs 7 mins</text>
+      <text class="stat light" x="350" y="12.5">4 hrs 10 mins</text>
     </g>
     <g transform="translate(25, 575)">
       <text class="stat" y="12.5">EJS:</text>
