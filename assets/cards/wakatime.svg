@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="1400" viewBox="0 0 495 1400" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">WakaTime Stats</title>
-  <desc id="desc">2,601 hrs 44 mins since Oct 13 2021: JavaScript 728 hrs 15 mins, TypeScript 509 hrs 46 mins, Markdown 321 hrs 54 mins, CSS 179 hrs 56 mins, HTML 136 hrs 56 mins, Other 98 hrs 6 mins, JSON 96 hrs 13 mins, Python 94 hrs 39 mins, C 74 hrs 11 mins, C++ 72 hrs 2 mins</desc>
+  <desc id="desc">2,605 hrs 41 mins since Oct 13 2021: JavaScript 728 hrs 17 mins, TypeScript 510 hrs 46 mins, Markdown 323 hrs 52 mins, CSS 179 hrs 56 mins, HTML 137 hrs 22 mins, Other 98 hrs 17 mins, JSON 96 hrs 13 mins, Python 94 hrs 39 mins, C 74 hrs 11 mins, C++ 72 hrs 2 mins</desc>
   <style>
     .header { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #009933; }
     .stat { font: 600 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #9f9f9f; }
@@ -12,54 +12,54 @@
   </style>
   <rect x="0.5" y="0.5" rx="4.5" width="494" height="1399" fill="#151515"/>
   <text x="25" y="35" class="header">WakaTime Stats</text>
-  <text class="small" x="25" y="58">2,601 hrs 44 mins · since Oct 13 2021</text>
+  <text class="small" x="25" y="58">2,605 hrs 41 mins · since Oct 13 2021</text>
   <g transform="translate(0, 75)">
     <g transform="translate(25, 0)">
       <text class="stat" y="12.5">JavaScript:</text>
       <rect x="110" y="4" width="220" height="8" rx="5" class="track"/>
-      <rect x="110" y="4" width="61.58" height="8" rx="5" class="fill"/>
-      <text class="stat light" x="350" y="12.5">728 hrs 15 mins</text>
+      <rect x="110" y="4" width="61.49" height="8" rx="5" class="fill"/>
+      <text class="stat light" x="350" y="12.5">728 hrs 17 mins</text>
     </g>
     <g transform="translate(25, 25)">
       <text class="stat" y="12.5">TypeScript:</text>
       <rect x="110" y="4" width="220" height="8" rx="5" class="track"/>
-      <rect x="110" y="4" width="43.1" height="8" rx="5" class="fill"/>
-      <text class="stat light" x="350" y="12.5">509 hrs 46 mins</text>
+      <rect x="110" y="4" width="43.12" height="8" rx="5" class="fill"/>
+      <text class="stat light" x="350" y="12.5">510 hrs 46 mins</text>
     </g>
     <g transform="translate(25, 50)">
       <text class="stat" y="12.5">Markdown:</text>
       <rect x="110" y="4" width="220" height="8" rx="5" class="track"/>
-      <rect x="110" y="4" width="27.21" height="8" rx="5" class="fill"/>
-      <text class="stat light" x="350" y="12.5">321 hrs 54 mins</text>
+      <rect x="110" y="4" width="27.35" height="8" rx="5" class="fill"/>
+      <text class="stat light" x="350" y="12.5">323 hrs 52 mins</text>
     </g>
     <g transform="translate(25, 75)">
       <text class="stat" y="12.5">CSS:</text>
       <rect x="110" y="4" width="220" height="8" rx="5" class="track"/>
-      <rect x="110" y="4" width="15.22" height="8" rx="5" class="fill"/>
+      <rect x="110" y="4" width="15.2" height="8" rx="5" class="fill"/>
       <text class="stat light" x="350" y="12.5">179 hrs 56 mins</text>
     </g>
     <g transform="translate(25, 100)">
       <text class="stat" y="12.5">HTML:</text>
       <rect x="110" y="4" width="220" height="8" rx="5" class="track"/>
-      <rect x="110" y="4" width="11.57" height="8" rx="5" class="fill"/>
-      <text class="stat light" x="350" y="12.5">136 hrs 56 mins</text>
+      <rect x="110" y="4" width="11.59" height="8" rx="5" class="fill"/>
+      <text class="stat light" x="350" y="12.5">137 hrs 22 mins</text>
     </g>
     <g transform="translate(25, 125)">
       <text class="stat" y="12.5">Other:</text>
       <rect x="110" y="4" width="220" height="8" rx="5" class="track"/>
       <rect x="110" y="4" width="8.29" height="8" rx="5" class="fill"/>
-      <text class="stat light" x="350" y="12.5">98 hrs 6 mins</text>
+      <text class="stat light" x="350" y="12.5">98 hrs 17 mins</text>
     </g>
     <g transform="translate(25, 150)">
       <text class="stat" y="12.5">JSON:</text>
       <rect x="110" y="4" width="220" height="8" rx="5" class="track"/>
-      <rect x="110" y="4" width="8.14" height="8" rx="5" class="fill"/>
+      <rect x="110" y="4" width="8.12" height="8" rx="5" class="fill"/>
       <text class="stat light" x="350" y="12.5">96 hrs 13 mins</text>
     </g>
     <g transform="translate(25, 175)">
       <text class="stat" y="12.5">Python:</text>
       <rect x="110" y="4" width="220" height="8" rx="5" class="track"/>
-      <rect x="110" y="4" width="8.01" height="8" rx="5" class="fill"/>
+      <rect x="110" y="4" width="7.99" height="8" rx="5" class="fill"/>
       <text class="stat light" x="350" y="12.5">94 hrs 39 mins</text>
     </g>
     <g transform="translate(25, 200)">
@@ -71,7 +71,7 @@
     <g transform="translate(25, 225)">
       <text class="stat" y="12.5">C++:</text>
       <rect x="110" y="4" width="220" height="8" rx="5" class="track"/>
-      <rect x="110" y="4" width="6.09" height="8" rx="5" class="fill"/>
+      <rect x="110" y="4" width="6.07" height="8" rx="5" class="fill"/>
       <text class="stat light" x="350" y="12.5">72 hrs 2 mins</text>
     </g>
     <g transform="translate(25, 250)">
@@ -108,7 +108,7 @@
       <text class="stat" y="12.5">SQL:</text>
       <rect x="110" y="4" width="220" height="8" rx="5" class="track"/>
       <rect x="110" y="4" width="2" height="8" rx="5" class="fill"/>
-      <text class="stat light" x="350" y="12.5">14 hrs 27 mins</text>
+      <text class="stat light" x="350" y="12.5">14 hrs 42 mins</text>
     </g>
     <g transform="translate(25, 400)">
       <text class="stat" y="12.5">Git Config:</text>
@@ -144,7 +144,7 @@
       <text class="stat" y="12.5">MQL:</text>
       <rect x="110" y="4" width="220" height="8" rx="5" class="track"/>
       <rect x="110" y="4" width="2" height="8" rx="5" class="fill"/>
-      <text class="stat light" x="350" y="12.5">4 hrs 23 mins</text>
+      <text class="stat light" x="350" y="12.5">4 hrs 28 mins</text>
     </g>
     <g transform="translate(25, 550)">
       <text class="stat" y="12.5">Rust:</text>
