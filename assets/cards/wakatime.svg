@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="1400" viewBox="0 0 495 1400" fill="none" role="img" aria-labelledby="title desc">
   <title id="title">WakaTime Stats</title>
-  <desc id="desc">2,608 hrs 55 mins since Oct 13 2021: JavaScript 728 hrs 17 mins, TypeScript 511 hrs 15 mins, Markdown 324 hrs, CSS 179 hrs 56 mins, HTML 137 hrs 22 mins, Other 100 hrs 38 mins, JSON 96 hrs 13 mins, Python 94 hrs 39 mins, C 74 hrs 11 mins, C++ 72 hrs 2 mins</desc>
+  <desc id="desc">2,608 hrs 57 mins since Oct 13 2021: JavaScript 728 hrs 17 mins, TypeScript 511 hrs 15 mins, Markdown 324 hrs, CSS 179 hrs 56 mins, HTML 137 hrs 22 mins, Other 100 hrs 40 mins, JSON 96 hrs 13 mins, Python 94 hrs 39 mins, C 74 hrs 11 mins, C++ 72 hrs 2 mins</desc>
   <style>
     .header { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #009933; }
     .stat { font: 600 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #9f9f9f; }
@@ -12,7 +12,7 @@
   </style>
   <rect x="0.5" y="0.5" rx="4.5" width="494" height="1399" fill="#151515"/>
   <text x="25" y="35" class="header">WakaTime Stats</text>
-  <text class="small" x="25" y="58">2,608 hrs 55 mins · since Oct 13 2021</text>
+  <text class="small" x="25" y="58">2,608 hrs 57 mins · since Oct 13 2021</text>
   <g transform="translate(0, 75)">
     <g transform="translate(25, 0)">
       <text class="stat" y="12.5">JavaScript:</text>
@@ -48,7 +48,7 @@
       <text class="stat" y="12.5">Other:</text>
       <rect x="110" y="4" width="220" height="8" rx="5" class="track"/>
       <rect x="110" y="4" width="8.49" height="8" rx="5" class="fill"/>
-      <text class="stat light" x="350" y="12.5">100 hrs 38 mins</text>
+      <text class="stat light" x="350" y="12.5">100 hrs 40 mins</text>
     </g>
     <g transform="translate(25, 150)">
       <text class="stat" y="12.5">JSON:</text>
